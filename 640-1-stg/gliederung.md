@@ -35,7 +35,7 @@
 #### 1.4.3. Allgemeine Bestimmungen
 #### 1.4.4. Örtliche Zuständigkeit und interkantonales Verhältnis
 ### 1.5. Steuern vom Grundeigentum
-#### 1.5.1. Liegenschaftensteuer
+#### 1.5.1. …
 #### 1.5.2. Grundstückgewinnsteuer
 #### 1.5.3. Handänderungssteuer
 ### 1.6. Steuerbehörden
