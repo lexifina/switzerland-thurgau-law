@@ -1,0 +1,10 @@
+# Regierungsratsbeschluss betreffend Festlegung eines Einzugsgebietes nach Art. 18 TVA und § 10 AbfallG für die Kehrichtverbrennungsanlage Weinfelden
+## § 1
+1 Für die Kehrichtverbrennungsanlage Weinfelden wird mit Wirkung ab 1. Oktober 1996 ein Einzugsgebiet im Sinne von Art. 18 TVA und § 10 Abfallgesetz festgelegt.
+## § 2
+1 Das Einzugsgebiet gilt für Siedlungsabfälle sowie siedlungsabfallähnliche Abfälle. Es umfasst das ganze Kantonsgebiet mit Ausnahme der folgenden Gemeinden:
+2 Aadorf, Aawangen, Bettwiesen, Bichelsee, Braunau, Busswil, Eschlikon, Ettenhausen, Fischingen, Guntershausen, Horben, Horn, Münchwilen, Rickenbach, Sirnach, Tägerschen, Tobel, Wallenwil, Wängi, Wiezikon, Wilen, Wittenwil, Wuppenau, sowie den Gemeindeteil «Wilen» der Gemeinde Neunforn.
+## § 3
+1 Das Departement für Bau und Umwelt wird ermächtigt, weitere Abfallkategorien, insbesondere Altholz, in das Einzugsgebiet einzubeziehen, sofern eine ebenbürtige, umweltgerechte Entsorgung nicht gesichert ist.
+## § 4
+1 Dieser Beschluss ist samt den erforderlichen Erläuterungen im Amtsblatt und in der Tagespresse öffentlich bekanntzumachen.
