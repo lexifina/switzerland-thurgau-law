@@ -1,0 +1,34 @@
+# Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Abwasserreinigungsanlage durch den Abwasserverband Oberes Murgtal
+Die Regierungen der Kantone Thurgau und St. Gallen gestützt auf das Gesetz betreffend die Abänderung des Gesetzes des Kantons Thurgau über die Organisation der Gemeinden und das Bürgerrecht vom 23. Mai 1961 (§ 48a bis § 48c) und das Gesetz des Kantons St. Gallen über die Organisation und Verwaltung der Gemeinden und Bezirke (Organisationsgesetz) vom 29. Dezember 1947 (Art. 33) vereinbaren:
+## Art. 1
+1 Die thurgauischen Ortsgemeinden Dussnang, Eschlikon, Fischingen, Horben, Oberwangen, Sirnach, Tannegg, Wiezikon, die thurgauische Munizipalgemeinde Münchwilen sowie die sanktgallische politische Gemeinde Bronschhofen werden ermächtigt, sich für den Bau und Betrieb einer zentralen Abwasserreinigungsanlage zu einem Zweckverband zusammenzuschliessen. Dem Zweckverband können weitere Gemeinden beitreten.
+2 Der Zweck und die Organisation des Verbandes sowie die Rechte und Pflichten der Verbandsgemeinden unter sich und gegenüber dem Verband sind in einem Organisationsreglement festzulegen. Dieses bedarf der Genehmigung durch die zuständigen Behörden der Vertragskantone und tritt nach beidseitiger Genehmigung in Kraft.
+## Art. 2
+1 Der Verband kann durch die zuständigen Behörden der Vertragskantone verhalten werden, weitere Gemeinden aufzunehmen.
+## Art. 3
+1 Der Verband hat als öffentlich-rechtliche Körperschaft im Sinne von Art. 52 ZGB eigene Rechtspersönlichkeit. Sein Sitz befindet sich in Münchwilen.
+2 Für die Verantwortlichkeit der Verbandsorgane und, soweit nichts anderes vereinbart, für die Besorgung der Verbandsangelegenheiten, sind die einschlägigen Bestimmungen des Kantons Thurgau massgebend.
+## Art. 4
+1 Auf den Bau, Bestand und Betrieb der verbandseigenen Anlagen findet, soweit das Organisationsreglement keine Vorschriften enthält, das Recht der gelegenen Sache Anwendung.
+2 Die Vorschriften des Bundesrechtes, namentlich des Bundesgesetzes über den Schutz der Gewässer gegen Verunreinigung, sowie die den Verbandsgemeinden aufgrund der Gesetzgebung ihres Kantons obliegenden besonderen Pflichten bleiben vorbehalten.
+3 Die Aufsicht über den Bau, Bestand und Betrieb der zentralen Abwasserreinigungsanlagen wird von den zuständigen Behörden des Kantons Thurgau im Einvernehmen mit den zuständigen Behörden des Kantons St. Gallen ausgeübt. Den Vertragskantonen bleibt die Aufsicht über ihre Gemeinde vorbehalten.
+## Art. 5
+1 Anstände zwischen den einzelnen Verbandsgemeinden und Privaten werden von den zuständigen kantonalen Instanzen entschieden.
+## Art. 6
+1 Gegen Beschlüsse der Gesamtheit der Verbandsgemeinden, der Delegiertenversammlung und der Betriebskommission kann innert dreissig Tagen mit schriftlicher Begründung beim Verbandspräsidenten die Einleitung des schiedsgerichtlichen Verfahrens verlangt werden.
+2 Die Regierungen der Vertragskantone bestimmen innert dreissig Tagen nach Anrufung des Schiedsgerichtes je einen Schiedsrichter. Die beiden Schiedsrichter bezeichnen gemeinsam innert einer weiteren Frist von fünfzehn Tagen einen Obmann, der nicht in einem Vertragskanton wohnhaft sein darf. Können sich die Schiedsrichter nicht innert Frist auf einen Obmann einigen, so wird die Wahl durch den Präsidenten des Schweizerischen Bundesgerichtes getroffen.
+3 Die Kosten des schiedsgerichtlichen Verfahrens gehen zu Lasten der unterliegenden Partei. Das Verfahren bestimmt sich nach den Vorschriften der Zivilprozessordnung des Kantons Thurgau vom 6. Juli 1988.
+4 Die Entscheide des Schiedsgerichtes sind unter Vorbehalt eines allfälligen eidgenössischen Rechtsmittels endgültig. Sie sind den Regierungen der Vertragskantone mitzuteilen.
+## Art. 7
+1 Anstände bei der Wahl von Delegierten und bezüglich der hiebei zu beobachtenden Vorschriften sowie Anstände in bezug auf die Rechtsstellung der Delegierten im Verhältnis zu den sie delegierenden Verbandsgemeinden werden durch die zuständigen Behörden der Vertragskantone, denen die Gemeinden angehören, entschieden.
+## Art. 8
+1 Zivilrechtliche Streitigkeiten sowie Anstände, bei welchen dem Verband oder einer Verbandsgemeinde lediglich die Rechtsstellung eines Privaten zukommt, fallen in die Zuständigkeit der ordentlichen Gerichts- und Verwaltungsbehörden der Vertragskantone.
+## Art. 9
+1 Die Regierungen der Vertragskantone sind verpflichtet, den vom Schiedsgericht oder den zuständigen Behörden des anderen Kantons gefällten Entscheiden Nachachtung zu verschaffen.
+2 Entscheide, die eine Geldforderung betreffen, sind im Sinne von Art. 80 Abs. 2 des Bundesgesetzes über Schuldbetreibung und Konkurs vollstreckbaren gerichtlichen Urteilen gleichgestellt.
+## Art. 10
+1 Streitigkeiten zwischen den Vertragskantonen über die Beseitigung von Missständen sowie über die Auslegung und Anwendung dieses Vertrages sind gemäss Art. 113 Ziff. 2 der Bundesverfassung (BV) dem Bundesgericht zu unterbreiten.
+## Art. 11
+1 Die Anpassung dieser Vereinbarung an die künftige Gesetzgebung des Bundes und der Vertragskantone bleibt vorbehalten. Die Vertragskantone setzen sich darüber ins Einvernehmen.
+## Art. 12
+1 Dieser Vertrag tritt mit seiner Unterzeichnung in Kraft.
