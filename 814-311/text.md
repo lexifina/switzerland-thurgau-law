@@ -1,0 +1,5 @@
+# Regierungsratsbeschluss über Beiträge an gemeinsam benützte Abwässerkanäle von Gemeinden
+## § 1
+1 Verbindungskanäle zwischen Gemeinden sowie die von zwei oder mehreren Gemeinden gemeinsam benützten Kanäle, die an die Stelle von Einzelkläranlagen treten, werden bezüglich der Höhe des staatlichen Beitrages Abwasserreinigungsanlagen im Sinne von § 18 lit. b des Einführungsgesetzes vom 23. April 1959 zum Bundesgesetz vom 16. März 1955 über den Schutz der Gewässer gegen Verunreinigung gleichgestellt.
+## § 2
+1 Dieser Beschluss tritt am 1. Juli 1965 in Kraft.
