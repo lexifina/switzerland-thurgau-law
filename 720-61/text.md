@@ -1,0 +1,15 @@
+# Gegenrechtserklärungen betreffend öffentliches Beschaffungswesen
+## § 1
+1 Gestützt auf die Ermächtigung gemäss Regierungsratsbeschluss vom 19. April 1994 hat das Departement für Bau und Umwelt gegenüber den unten aufgeführten Kantonen und Ländern die Erklärung abgegeben, dass der Kanton Thurgau bei der Vergabe von Arbeiten und Lieferungen für den Staat gemäss der Submissionsverordnung vom 21. März 1975, die der Kanton ausführen lässt, Bewerber mit Geschäftssitz in diesen Kantonen oder Ländern gleich behandelt wie Bewerber mit Geschäftssitz im Kanton Thurgau, solange Gegenrecht gehalten wird. Sollte der Kanton Thurgau diese Praxis ändern wollen, wird er dies sechs Monate im voraus respektive gegenüber Baden-Württemberg zum frühest möglichen Zeitpunkt schriftlich anzeigen.
+2 Die jeweiligen Kantone und Länder haben gleichlautende Erklärungen abgegeben.
+| Kanton / Land | wirksam seit |
+| --- | --- |
+| Zürich | 1. Mai 1994 |
+| Aargau | 1. November 1994 |
+| Appenzell Ausserrhoden | 1. November 1994 |
+| Schwyz | 1. November 1994 |
+| St. Gallen | 1. November 1994 |
+| Baden-Württemberg | 21. Dezember 1994 |
+| Zug | 1. Januar 1995 |
+| Appenzell Innerrhoden | 1. April 1995 |
+| Schaffhausen | 1. April 1995 |
