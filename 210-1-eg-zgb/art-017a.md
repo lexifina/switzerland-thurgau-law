@@ -3,3 +3,4 @@
 2 Die Berufsbeistandschaft ist für die Instruktion und Begleitung von Privatbeiständen zuständig.
 3 Sie sorgt für eine fachliche Weiterbildung der Berufs- und Privatbeistände.
 4 Sie führt im Auftrag der Kindes- und Erwachsenenschutzbehörde Sachverhaltsabklärungen durch.
+2.2. Grundbuchamt und Notariat
