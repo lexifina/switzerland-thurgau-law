@@ -1,0 +1,10 @@
+# Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer
+## § 1
+1 Die Regierung des Kantons Graubünden und der Regierungsrat des Kantons Thurgau erklären, gegenseitig Zuwendungen an den Staat und seine Anstalten, an die Kreise und Gemeinden und ihre Anstalten sowie an juristische Personen mit öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer zu befreien.
+## § 2
+1 Die Befreiung bezieht sich seitens des Kantons Graubünden auf die kantonalen Nachlass- und Schenkungssteuern und allfällige kommunale Erbschafts- und Schenkungssteuern der im Anhang zu dieser Erklärung erwähnten politischen Gemeinden, seitens des Kantons Thurgau auf die thurgauischen Erbschafts-, Vermächtnis- und Schenkungssteuern.
+## § 3
+1 Diese Vereinbarung tritt in Kraft, nachdem sie von den Regierungen der beiden Kantone beschlossen worden ist. Die Befreiung gilt für die nach diesem Zeitpunkt eingetretenen Erbanfälle, Vermächtnisse und vollzogenen Schenkungen.
+2 Im Verhältnis zu Steuerpflichtigen in bündnerischen Gemeinden, welche sich bisher der vorliegenden Vereinbarung nicht angeschlossen haben, wird die Befreiung erst für die nach dem Beitritt der Gemeinde eingetretenen Erbanfälle und vollzogenen Schenkungen gewährt.
+## § 4
+1 Die beiden Regierungen sind berechtigt, jederzeit unter Beobachtung einer Kündigungsfrist von sechs Monaten von dieser Vereinbarung zurückzutreten.
