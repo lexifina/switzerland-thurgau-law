@@ -1,0 +1,14 @@
+# Weisung des Katholischen Kirchenrates betreffend Verwendung der katholischen Armenfonds
+Nachdem auf Grund von § 34 Abs. 3 des Gesetzes über die öffentliche Fürsorge vom 20. Januar 1966 die bisherigen Kirchspielsarmenfonds sowie andere Fonds, die durch Stiftungen oder Spenden den Kirchgemeinden für Armenunterstützungen zur Verfügung gestellt worden sind, weiterhin den Kirchgemeinden verbleiben, erlässt der Katholische Kirchenrat, gestützt auf § 2 lit. b der Kirchenorganisation, nachstehende Weisungen über die Verwendung dieser Mittel:
+## § 1
+1 Über die Verwendung eines allfälligen Steuervorschusses entscheidet gemäss § 34 Abs. 4 des Gesetzes über die öffentliche Fürsorge vom 20. Januar 1966, die Kirchgemeinde unter Vorbehalt des Beschwerderechtes an den Bezirksrat.
+## § 2
+1 Das gemäss Schlussrechnung des Kirchspielsarmenfonds verbleibende Reinvermögen ist durch Beschluss der Kirchgemeindeversammlung entweder dem Vermögen des Kultusfonds zuzuscheiden oder als selbständiger Fürsorgefonds weiterzuführen. Im letzteren Fall darf der Ertrag dieses Fonds von den Kirchgemeinden für Fürsorgezwecke oder für Beiträge an karitative Institutionen verwendet werden. Eine Beanspruchung des Kapitals dieses Fonds darf nur mit ausdrücklicher Bewilligung des Kirchenrates zugunsten kirchlicher oder kirchlich-karitativer Bedürfnisse erfolgen.
+2 Der Fürsorgefonds darf nicht durch Steuergelder geäufnet werden.
+## § 3
+1 Armenfonds, die auf besonderen Stiftungen oder Spenden beruhen, sind weiterhin ihrem Zweck entsprechend zu verwenden.
+## § 4
+1 Über den Fürsorgefonds und allfällige weitere Armenfonds ist der Kirchgemeinde jährlich Rechnung abzulegen.
+2 Die Rechnungen unterliegen der Revision und Genehmigung durch den Kirchenrat.
+## § 5
+1 Die früheren Rechnungen über den Kirchspielsarmenfonds sowie die Protokolle sind im Kirchgemeindearchiv aufzubewahren. Rechnungsbelege und sonstige Akten der letzten zehn Jahre sind, soweit sie nicht der Fürsorgekommission ausgehändigt werden müssen, noch fünf Jahre zu behalten.
