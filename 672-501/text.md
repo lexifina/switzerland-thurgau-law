@@ -1,0 +1,4 @@
+# Vereinbarung zwischen dem Regierungsrat des Kantons Thurgau einerseits und dem Regierungsrat des Kantons Zürich anderseits betreffend Steuerbefreiung für Zuwendungen von der Erbschaftssteuer
+## § 1
+1 Die Regierungen der Kantone Thurgau und Zürich erklären sich damit einverstanden, dass Vermögenszuwendungen durch letztwillige Verfügungen oder Schenkungen, die von Einwohnern des einen Kantons zugunsten des Staates, von Gemeinden oder Institutionen gemeinnützigen oder wohltätigen Charakters des andern Kantons gemacht werden, am Domizil des Erblassers oder Schenkers von der Erbschafts- oder Vermächtnis- und Schenkungssteuer oder deren entsprechenden Abgaben befreit sein sollen.
+2 Die beiden Regierungen sind jederzeit unter Beobachtung einer Kündigungsfrist von 6 Monaten berechtigt, von dieser Vereinbarung zurückzutreten.
