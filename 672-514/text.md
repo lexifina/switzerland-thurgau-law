@@ -1,0 +1,5 @@
+# Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Regierungsrat des Kantons Thurgau betreffend Befreiung von der Erbschafts- oder Schenkungssteuer auf Zuwendungen für gemeinnützige Zwecke
+## § 1
+1 Die Regierungen der Kantone Schaffhausen und Thurgau erklären sich damit einverstanden, dass Vermögenszuwendungen durch letztwillige Verfügungen oder Schenkungen, die von Einwohnern des einen Kantons zu Gunsten des Staates, Gemeinden oder Institutionen gemeinnützigen Charakters des andern Kantons gemacht werden, am Domizil des Schenkers von der Erbschafts- bzw. Vermächtnis- und Schenkungssteuer oder deren entsprechenden Abgaben befreit sein sollen.
+2 Die Behörden der beiden Kantone verpflichten sich zu gegenseitiger Benachrichtigung, insofern im einen oder andern Kanton eine Revision des Steuergesetzes neues Recht schafft oder aus andern Gründen die materiellen oder formellen Voraussetzungen, auf welchen sich die heutige Gegenrechtserklärung aufbaut, eine wesentliche Änderung erfahren.
+3 Die beiden Regierungen sind jederzeit unter Beobachtung einer Kündigungsfrist von sechs Monaten berechtigt, von diesem Übereinkommen zurückzutreten.
