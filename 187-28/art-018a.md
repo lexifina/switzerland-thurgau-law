@@ -1,0 +1,2 @@
+# § 18a Begehren durch Aufsichtskommission
+1 Wo zwei Kirchgemeinden durch ein gemeinsames Pfarramt oder Diakonat verbunden sind, haben die beiden Aufsichtskommissionen ihren Entscheid über eine Bestätigungswahl für einen ordinierten Amtsträger oder eine ordinierte Amtsträgerin in gegenseitigem Einvernehmen zu fällen. Kommt ein solches nicht zustande, entscheidet der Kirchenrat über die Ansetzung einer Bestätigungswahl in beiden Gemeinden.

@@ -1,0 +1,2 @@
+# § 18d Verfahren bei unterschiedlichem Ergebnis
+1 Führt eine Bestätigungswahl für einen ordinierten Amtsträger oder eine ordinierte Amtsträgerin in zwei Kirchgemeinden, die durch ein gemeinsames Pfarramt oder Diakonat verbunden sind, zu einem unterschiedlichen Ergebnis, so ist die Bestätigung im Amt der zustimmenden Kirchgemeinde nur gültig, wenn diese in Ergänzung zur getroffenen Bestätigungswahl innert sechs Monaten nach der Wahl auch einem Antrag auf Auflösung des gemeinsamen Pfarramtes oder Diakonates zustimmt und der Kirchenrat die Auflösung beschliesst
