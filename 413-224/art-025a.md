@@ -1,2 +1,2 @@
-# § 25a Ergänzungsfächer
-1 In Abweichung zu § 11 Abs. 4 ist auch Philosophie als Ergänzungsfach möglich.
+# § 25a Ergänzungsfach
+1 In Abweichung zu § 11 Abs. 4 ist Philosophie als Ergänzungsfach möglich.
