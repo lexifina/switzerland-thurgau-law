@@ -1,0 +1,4 @@
+# § 35bis Redaktionslesung
+1 Die Synode kann einen Erlass einer Redaktionslesung unterstellen.
+2 Die Redaktionskommission nimmt die redaktionellen Änderungen vor, leitet die bereinigte Fassung an das Synodalbüro weiter und dieses unterbreitet den Erlass der Synode in der Redaktionslesung.
+3 Die Schlussabstimmung findet in diesem Fall nach der Redaktionslesung statt.
