@@ -1,0 +1,2 @@
+# § 23a Kantonale Bewilligungen
+1 Für die Bewilligungspflicht sowie für Erteilung, Erneuerung, Übertragung, Änderung, Verzicht, Widerruf und Dauer von kantonalen Bewilligungen gelten die bundesrechtlichen Bestimmungen.
