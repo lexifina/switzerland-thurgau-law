@@ -1,0 +1,5 @@
+# § 46b Anstieg auf nächste Lohnposition
+1 Nach der letzten Lohnposition des ersten, zweiten und dritten Abschnitts wird die nächste Lohnposition mit einer Beurteilung „gut“ erreicht. Fällt die Beurteilung „ungenügend“ aus, wird der Anstieg auf die nächste Lohnposition ausgesetzt.
+2 Frühestens ein Jahr nach Aussetzung des Anstiegs auf die nächste Lohnposition wird auf Begehren der Lehrperson erneut eine Mitarbeiterbeurteilung durchgeführt. Bei der Beurteilung „gut“ wird im folgenden Jahr die übernächste Lohnposition erreicht. Ohne neue Mitarbeiterbeurteilung und bei der Beurteilung „ungenügend“ bleibt der Anstieg auf die übernächste Lohnposition ausgesetzt.
+3 In den Jahren, welche nicht die letzte Lohnposition eines Abschnitts betreffen, erfolgt der Anstieg in die nächste Lohnposition in der Regel automatisch.
+4 Nach erfolglos durchgeführten Massnahmen zur Verbesserung der Leistung und des Verhaltens kann auch innerhalb eines Abschnittes der Anstieg in die nächste Lohnposition ausgesetzt werden.
