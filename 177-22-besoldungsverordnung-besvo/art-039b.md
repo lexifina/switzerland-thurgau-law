@@ -1,0 +1,4 @@
+# § 39b Übergangsrecht
+1 Im Zusammenhang mit dem Wechsel vom Teuerungsausgleich zur generellen Besoldungsanpassung gemäss § 10a dieser Verordnung werden die Grundbesoldung per 1. Januar 2004 zur anteiligen Ausgleichung des Rückstandes beim Teuerungsausgleich um 0.5 % und die Beträge der Lohnklassen um 1 % erhöht.
+2 Die als Inspektorinnen und Inspektoren angestellten Personen werden per 1. Januar 2004 als Fachexpertinnen und Fachexperten des Funktionsbereiches Erziehung eingereiht. Die bisherige Grundbesoldung wird als Besitzstand per 1. Januar 2004 gewährleistet. Die künftige Anpassung der Besoldung richtet sich nach den Grundsätzen dieser Verordnung.
+3 Für Mitarbeiterinnen, welche den Urlaub bei Schwangerschaft und Niederkunft vor dem 1. Juli 2005 antreten, richtet sich der Anspruch während der ganzen Dauer des Urlaubes nach bisherigem Recht.
