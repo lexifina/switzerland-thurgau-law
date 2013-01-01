@@ -1,0 +1,2 @@
+# § 7b Meldepflicht
+1 Tierärzte, Ärzte, Polizeiorgane, Zollorgane, Strafuntersuchungsbehörden, Gerichte, Tierheime und Hundeausbildende sind verpflichtet, Vorfälle, von welchen sie im Rahmen ihrer Tätigkeit Kenntnis erlangen und bei denen ein Hund Menschen oder Tiere erheblich verletzt hat oder Anzeichen von Verhaltensstörungen, insbesondere eine erhöhte Aggressionsbereitschaft zeigt, der zuständigen kantonalen Stelle zu melden.
