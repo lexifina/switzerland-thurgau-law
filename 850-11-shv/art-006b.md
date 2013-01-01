@@ -1,0 +1,3 @@
+# § 6b Beschäftigungsprogramme
+1 Erhalten Teilnehmer von Beschäftigungsprogrammen als Gegenleistung wirtschaftliche Sozialhilfe gemäss ihrem Unterstützungsbedarf, sind sowohl die Programmkosten wie auch die Unterstützungsleistungen im Sinne des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG) weiterverrechenbar. Auf Beiträgen, die als Gegenleistung ausgerichtet werden, dürfen keine Sozialversicherungsbeiträge abgerechnet werden.
+2 Erhalten Teilnehmer von Beschäftigungsprogrammen einen Lohn, wofür Sozialversicherungsbeiträge entrichtet werden, muss dieser der effektiven Arbeitsleistung entsprechen. Der Lohn ist als Erwerbseinkommen dem Klientenkonto gut zu schreiben.

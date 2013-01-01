@@ -1,0 +1,5 @@
+# § 28h Nicht versicherte Ausländer
+1 Bei nicht versicherten Ausländern ohne festen Wohnsitz in der Schweiz werden jene Kosten anerkannt, die entstehen, wenn die krankheits- oder unfallbedingte Behandlung unaufschiebbar und die Übernahme der Kosten im Gesetz vorgesehen sind.
+2 Die Taxen werden im Rahmen des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger anerkannt.
+3 Die Fürsorgebehörde hat das Gesuch um Kantonsbeiträge so rasch wie möglich, spätestens aber innert 10 Tagen nach Kenntnis der Kostenpflicht, dem Kantonalen Fürsorgeamt zur Genehmigung einzureichen.
+4 Ist die Kostenpflicht ungewiss, hat die Fürsorgebehörde vorsorglich ein Gesuch zu stellen.

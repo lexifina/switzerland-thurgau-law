@@ -1,0 +1,2 @@
+# § 43b Intertemporale Regelung
+1 Gegenüber Kantonen, die der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) in den Bereichen A und B beigetreten sind, gelten für die Zeit ab Inkrafttreten der IVSE bis zum Beitritt des Kantons Thurgau dieselben Rechte und Pflichten wie gegenüber Vereinbarungskantonen der Interkantonalen Vereinbarung über Vergütungen an Betriebsdefizite und die Zusammenarbeit zugunsten von Kinder- und Jugendheimen sowie von Behinderteneinrichtungen (Heimvereinbarung).

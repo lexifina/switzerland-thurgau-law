@@ -1,0 +1,5 @@
+# § 28a Stationäre Aufenthalte
+1 Der Kanton gewährt Beiträge im Sinne von § 21a Absatz 1 Ziffer 1 des Gesetzes, sofern
+1. die Plazierung fachlich notwendig und durch einen Fachbericht ausgewiesen ist;
+2. durch die Plazierung in der gewählten Institution das vorgesehene Ziel erreicht werden kann;
+3. die Kosten in einem angemessenen Verhältnis zum vorhandenen Angebot stehen.
