@@ -1,0 +1,3 @@
+# § 14b Auskunftspflicht
+1 Die Politischen Gemeinden sowie die Energieversorgungsunternehmen, Energieproduzenten und grossen Energieverbraucher sind verpflichtet, den für den Vollzug dieses Gesetzes zuständigen Stellen die dazu erforderlichen Auskünfte zu erteilen.
+2 Die Auskünfte umfassen qualitative und quantitative Informationen über die aktuellen und zukünftigen Energieflüsse, die Energieproduktion und die Verbraucher. Die Informationen dienen als Grundlage für die Energierichtplanung, die Energieplanung und die Optimierungsmassnahmen bei Grossverbrauchern.
