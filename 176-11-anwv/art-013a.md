@@ -1,0 +1,2 @@
+# § 13a Übergangsrecht zum Anwaltsregister
+1 Die am 1. Januar 2013 im Anwaltsregister oder der EU/EFTA-Anwaltsliste eingetragenen Anwältinnen und Anwälte haben dem Präsidium der Anwaltskommission innert drei Monaten nach Inkrafttreten dieser Verordnung einen Versicherungsnachweis im Sinn von § 11b Abs. 3 einzureichen. Wird auch innert angemessener Nachfrist kein oder kein genügender Nachweis eingereicht, ordnet die Anwaltskommission die Löschung des Eintrags im Anwaltsregister oder in der EU/EFTA-Anwaltsliste an.

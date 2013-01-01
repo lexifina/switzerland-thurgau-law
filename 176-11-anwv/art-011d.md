@@ -1,0 +1,3 @@
+# § 11d Meldepflicht und Überprüfung
+1 Wer im Anwaltsregister oder in der EU/EFTA-Anwaltsliste eingetragen ist, ist verpflichtet, das Wegfallen einer Eintragungsvoraussetzung und die Änderung der registrierten Daten der Anwaltskommission unverzüglich schriftlich zu melden.
+2 Das Präsidium der Anwaltskommission ist jederzeit berechtigt, bei entsprechenden Unklarheiten zur Überprüfung bei einer Anwältin oder einem Anwalt einen Betreibungsregisterauszug, einen Strafregisterauszug, Belege über die Führung einer Kanzlei im Kanton, eine aktuelle Erklärung zur anwaltlichen Unabhängigkeit oder einen aktuellen Versicherungsnachweis einzuverlangen.

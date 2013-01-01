@@ -1,0 +1,6 @@
+# § 11f Funktionsbezeichnung, Formulare und Stempel
+1 Die Urkundsperson verwendet für öffentliche Urkunden ein Deckblatt, welches gemäss der vom Obergericht genehmigten elektronischen Formatvorlage auf urkundentauglichem, säurefreiem Papier hergestellt worden ist.
+2 Bei der Unterschrift sowie über den Einband verwendet die Urkundsperson einen Rundstempel (Urkundsstempel). Der Stempel enthält in der Mitte das Kantonswappen und in der Umschrift den Text «Öffentliche Urkundsperson». Die Bezeichnung «Notarin» oder «Notar» oder entsprechende Übersetzungen im Stempel und bei der Unterschrift sind nicht gestattet.
+3 Im Urkunds- oder Beglaubigungstext kann die Urkundsperson auf die ihr durch das kantonale Recht verliehene Beurkundungskompetenz und die massgebenden Bestimmungen des Einführungsgesetzes zum Zivilgesetzbuch und des Anwaltsgesetzes hinweisen. Bei für den Gebrauch in fremdsprachigen Regionen bestimmten Dokumenten darf im übersetzten Text darauf hingewiesen werden, dass der Urkundsperson nach kantonalem Recht notarielle Funktionen zukommen.
+4 Anstelle des Urkundsstempels können Prägestempel oder Kleb- und Papiersiegel verwendet werden. Diese haben in ihrer Form dem Urkundsstempel zu entsprechen. Prägesiegel sind nicht zulässig.
+5 Für die Unterschrift dürfen keine Faksimile-Stempel verwendet werden.

@@ -1,0 +1,4 @@
+# § 11a Gespräch zur Prüfung der beruflichen Fähigkeiten
+1 Zum Gespräch wird zugelassen, wer über das Vorliegen der entsprechenden Voraussetzungen genügende Belege einreicht. Ausserdem sind mit der Anmeldung einzureichen: Lebenslauf, Kopie des Hochschuldiploms, Zeugnisse über die bisherige juristische berufliche oder wissenschaftliche Tätigkeit.
+2 Die Themen des Gesprächs werden von der Anwaltskommission im Rahmen der Prüfungsgebiete gemäss § 8 mit Schwergewicht in den Gebieten Staats- und Verwaltungsrecht, Zivil- und Strafprozessrecht sowie Schuldbetreibungs- und Konkursrecht festgelegt. Die Themen werden der Kandidatin oder dem Kandidaten spätestens drei Monate vor dem Gespräch bekannt gegeben.
+3 Zeigt das Gespräch ein unbefriedigendes Ergebnis, ordnet die Anwaltskommission die einmalige vollständige oder teilweise Wiederholung an.
