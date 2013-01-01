@@ -1,4 +1,4 @@
-Meliorationsgesetz (MelG)
+MelG
 # Gesetz über Bodenverbesserungen und landwirtschaftliche Hochbauten
-(Meliorationsgesetz)
+(Meliorationsgesetz, MelG)
 vom 02.05.1988
