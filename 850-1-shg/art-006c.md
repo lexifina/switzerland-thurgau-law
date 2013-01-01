@@ -1,0 +1,3 @@
+# § 6c Betreuungs- und Pflegeangebote
+1 Errichtung und Betrieb von Betreuungs- und Pflegeangeboten, in denen bis zu vier volljährigen Personen gegen Entgelt Unterkunft, Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden, bedürfen einer Bewilligung der Politischen Gemeinde und unterstehen deren Aufsicht. Der Regierungsrat regelt die Ausnahmen für Angehörige und enge Bezugspersonen.
+2 Gegen Entscheide der Politischen Gemeinde kann innert 20 Tagen beim Departement für Finanzen und Soziales Rekurs erhoben werden.
