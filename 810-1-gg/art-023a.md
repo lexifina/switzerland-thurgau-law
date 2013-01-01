@@ -1,0 +1,7 @@
+# § 23a Notfalldienst
+1 Die kantonalen Standesorganisationen der Ärzte, Zahnärzte, Apotheker und Tierärzte haben für eine zweckmässige Organisation des Notfalldienstes zu sorgen. Sie regeln die sich aus dem Notfalldienst ergebenden Rechte und Pflichten.
+2 Ärzte, Zahnärzte, Apotheker und Tierärzte mit Bewilligung zur selbständigen oder unselbständigen Berufsausübung sind unabhängig von ihrer persönlichen Mitgliedschaft zur Beteiligung am Notfalldienst ihrer kantonalen Standesorganisation verpflichtet. Wer Notfalldienst leistet, hat den Aufenthaltsort während dieser Zeit so zu wählen, dass der Notfalldienst gewährleistet ist.
+3 Ist eine zum Notfalldienst verpflichtete Medizinalperson aus wichtigen Gründen verhindert, diesen zu leisten, kann ihre kantonale Standesorganisation sie auf Gesuch hin von dieser Pflicht befreien. In diesen Fällen hat sie eine Ersatzabgabe von 1.5 % des AHV-pflichtigen Einkommens aus ärztlicher Tätigkeit am Patienten zu leisten, maximal jedoch Fr. 5 000.–. Die Standesorganisationen regeln die Einzelheiten.
+4 Die Ersatzabgaben werden zur Organisation und Sicherstellung des Notfalldienstes verwendet und fliessen zu diesem Zweck in den Notfalldienstfonds der jeweiligen Standesorganisation.
+5 Entscheide der Standesorganisationen über die Befreiung von der Notfalldienstpflicht und die Leistung von Ersatzabgaben können beim zuständigen Departement angefochten werden.
+6 Der Regierungsrat kann mit den Standesorganisationen Leistungsvereinbarungen über den Notfalldienst abschliessen.
