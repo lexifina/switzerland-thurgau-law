@@ -1,0 +1,3 @@
+# § 11a Unentgeltliche Rechtspflege
+1 Wird die unentgeltliche Rechtspflege bewilligt, ist im Endentscheid im Hinblick auf die Nachzahlungspflicht eine Verfahrensgebühr festzusetzen.
+2 Entscheide, mit denen zufolge Gewährung der unentgeltlichen Rechtspflege auf Verfahrenskosten verzichtet wird oder Offizialanwaltsentschädigungen zugesprochen werden, sind auszugsweise der zuständigen Stelle der Finanzverwaltung zuzustellen.
