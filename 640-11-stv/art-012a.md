@@ -1,0 +1,6 @@
+# § 12a Gemeinsame elterliche Sorge bei getrennt besteuerten Pflichtigen
+1 Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge und gemeinsamem Haushalt steht der Kinderabzug nach § 36 Absatz 2 Ziffer 1 des Gesetzes jenem Elternteil zu, der die grösseren finanziellen Beiträge leistet. Leisten beide Elternteile gleich hohe finanzielle Beiträge, bildet der bedeutendere Anteil an der tatsächlichen Betreuung das subsidiäre Kriterium.
+2 Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge ohne gemeinsamem Haushalt wird der Kinderabzug nach § 36 Absatz 2 Ziffer 1 des Gesetzes wie folgt zugeteilt:
+1. Befindet sich das Kind in alternierender Obhut beider Elternteile und fliessen keine Beiträge von einem zum anderen Elternteil für den Unterhalt des Kindes oder sind die Beiträge beider Elternteile gleich hoch, dann ist das Ausmass der Obhut jedes Elternteils massgebend;
+2. Befindet sich das Kind nicht in alternierender Obhut, dann steht der Abzug dem mit dem Kind im gleichen Haushalt lebenden Elternteil zu.
+3 Der Vermögensfreibetrag gemäss § 53 Absatz 1 Ziffer 3 des Gesetzes steht jenem Elternteil zu, der den Kinderabzug nach § 36 Absatz 2 Ziffer 1 des Gesetzes beanspruchen kann.

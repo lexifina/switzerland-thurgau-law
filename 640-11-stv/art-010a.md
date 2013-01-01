@@ -1,0 +1,2 @@
+# § 10a Vermögensverwaltungskosten
+1 Für die Verwahrung und Verwaltung von Wertschriften (ohne Darlehen, Bankguthaben aller Art und Beteiligungen nach § 37 Absatz 3 des Gesetzes) durch Dritte können für sämtliche abzugsfähigen Kosten pauschal 2,5 Promille des Steuerwertes der durch Dritte verwalteten Wertschriften des Privatvermögens, maximal Fr. 6 000.– abgezogen werden. Der Nachweis höherer abzugsfähiger Kosten bleibt vorbehalten.

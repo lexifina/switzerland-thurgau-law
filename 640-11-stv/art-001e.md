@@ -1,0 +1,3 @@
+# § 1e Modifizierte Besteuerung
+1 Werden Einkünfte aus einem Vertragsstaat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so muss der Steuerpflichtige neben den in § 17a Absatz 6 des Gesetzes bezeichneten Einkünften alle aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteile aus dem Quellenstaat versteuern. Abziehbar sind nur die Kosten gemäss § 1b Absatz 1.
+2 Der Steuersatz für diese Einkünfte bestimmt sich nach dem Grundsatz der Vollprogression gemäss § 10 Absatz 1 des Gesetzes.

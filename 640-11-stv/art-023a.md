@@ -1,0 +1,3 @@
+# § 23a Wechsel zwischen Quellensteuer und ordentlicher Veranlagung
+1 Bei Erhalt der Niederlassungsbewilligung oder bei Heirat mit einer Person, die das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegen bisher der Quellensteuer unterworfene ausländische Arbeitnehmer ab dem Folgemonat der ordentlichen Veranlagung.
+2 Bei rechtlicher oder tatsächlicher Trennung oder Scheidung von einem Ehepartner, der das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegen ausländische Arbeitnehmer, welche die fremdenpolizeiliche Niederlassungsbewilligung nicht besitzen, ab dem Folgemonat wieder der Besteuerung an der Quelle.
