@@ -1,4 +1,4 @@
-RRV Datenschutz (TG DSV)
+TG DSV
 # Verordnung des Regierungsrates über den Datenschutz
-(Datenschutzverordnung)
+(Datenschutzverordnung, TG DSV)
 vom 04.11.2008
