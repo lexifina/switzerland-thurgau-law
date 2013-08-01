@@ -1,0 +1,2 @@
+# § 9a Inkraftsetzung
+1 Die für den Erlass zuständige Behörde beschliesst den Zeitpunkt des Inkrafttretens der Pläne und Vorschriften nach diesem Gesetz.
