@@ -6,6 +6,6 @@
 ### 1.5. Mitwirkung weiterer Stellen
 ## 2. Besondere Bestimmungen
 ### 2.1. Magistratspersonen
-### 2.2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte, Kindes- und Erwachsenenschutzbehörden und Kreisämter
+### 2.2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte, Kindes- und Erwachsenenschutzbehörden sowie Friedensrichter- und Betreibungsämter
 ### 2.3. Ständeräte
 ## 3. Übergangs- und Schlussbestimmungen
