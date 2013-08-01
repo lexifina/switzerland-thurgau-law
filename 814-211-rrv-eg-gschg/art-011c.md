@@ -1,0 +1,4 @@
+# § 11c Kontrollen, Ausserbetriebsetzung
+1 Die Inhaber sorgen dafür, dass bei bestehenden bewilligungspflichtigen Lageranlagen für wassergefährdende Flüssigkeiten und bei bestehenden meldepflichtigen Lageranlagen für wassergefährdende Flüssigkeiten, die nicht dem Stand der Technik vom 1. Januar 1999 entsprechen, alle 10 Jahre eine Sichtkontrolle auf Mängel durchgeführt wird.
+2 Kontrollen und Ausserbetriebsetzungen von Lageranlagen für wassergefährdende Flüssigkeiten sind nach dem Stand der Technik und durch Fachpersonen durchzuführen, die über eine Ausbildung gemäss dem Verband für Gewässerschutz und Tanksicherheit (CITEC Suisse) verfügen.
+3 Die Rapporte der Kontrollen sind von den Kontrollunternehmen innert 30 Tagen nach Ausführung der Kontrolle dem Amt für Umwelt zuzustellen. Für die Bearbeitung der Rapporte erhebt das Amt für Umwelt eine Gebühr von Fr. 10.
