@@ -1,4 +1,4 @@
-Stipendiengesetz (StipG)
+StipG
 # Gesetz über Ausbildungsbeiträge
-(Stipendiengesetz)
+(Stipendiengesetz, StipG)
 vom 26.04.1990
