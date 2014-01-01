@@ -1,0 +1,30 @@
+# Staatsvertrag zwischen dem Kanton Zürich und dem Kanton Thurgau über den Zweckverband Feuerwehr Weinland
+Die Kantone Zürich und Thurgau, vertreten durch die Regierungsräte, gestützt auf Art. 69 Abs. 1 in Verbindung mit Art. 38 Abs. 2 der Verfassung des Kantons Zürich vom 27. Februar 2005 und § 43 Abs. 2 der Verfassung des Kantons Thurgau vom 16. März 1987 in Verbindung mit § 46 des thurgauischen Gesetzes über die Gemeinden vom 5. Mai 1999, vereinbaren, was folgt:
+## Art. 1 Zweckverband Feuerwehr Weinland
+1 Die Politischen Gemeinden Marthalen, Ossingen, Rheinau und Truttikon des Kantons Zürich sowie die Politische Gemeinde Neunforn des Kantons Thurgau bilden einen Zweckverband nach zürcherischem Recht.
+2 Zweck und Organisation des Verbands sowie Rechte und Pflichten der Verbandsgemeinden unter sich und gegenüber dem Verband werden in den Statuten geregelt, die der Genehmigung durch die Regierungen der Vertragskantone bedürfen.
+## Art. 2 Aufnahme weiterer Gemeinden
+1 Der Verband kann durch übereinstimmende Beschlüsse der zuständigen Behörden der Vertragskantone verpflichtet werden, weitere Gemeinden in den Verband aufzunehmen.
+## Art. 3 Anwendbares Recht
+1 Der Zweckverband untersteht dem zürcherischen Recht.
+2 Auf den Bau, Bestand und Betrieb der gemeinsamen Anlagen sowie der gemeindeeigenen Anlagen findet, soweit die Statuten keine Regelung enthalten, das Recht der gelegenen Sache Anwendung. Auf den Bau, Bestand und Betrieb der gemeinsamen Anlagen sowieder gemeindeeigenen Anlagen findet, soweit die Statuten keine Regelung enthalten, das Recht der gelegenen Sache Anwendung.
+3 Die Mitwirkungsrechte der Stimmberechtigten der Verbandsgemeinden richten sich nach zürcherischem Recht.
+4 Bei Streitigkeiten zwischen einer Verbandsgemeinde und Stimmberechtigten oder Dritten richten sich Zuständigkeit und Verfahrensvorschriften nach dem Recht des jeweiligen Vertragskantons.
+## Art. 4 Aufsicht
+1 Die Aufsicht über den Bau, Bestand und Betrieb der gemeinsamen Anlagen wird von den zürcherischen Behörden ausgeübt. Die Zürcher Aufsichtsinstanzen handeln im Einvernehmen mit den zuständigen Instanzen des Kantons Thurgau.
+## Art. 5 Haftung
+1 Die Staatshaftung richtet sich nach zürcherischem Recht.
+## Art. 6 Schiedsgericht, a. Grundsatz
+1 Streitigkeiten zwischen den Verbandsgemeinden oder zwischen dem Verband und einer oder mehreren Verbandsgemeinden werden durch ein Schiedsgericht entschieden.
+2 Die Regierungen der Vertragskantone bestimmen innert 30 Tagen nach Anrufung des Schiedsgerichts durch den Verband oder eine Verbandsgemeinde je eine Schiedsperson. Die beiden Schiedspersonen bezeichnen gemeinsam innert einer weiteren Frist von 15 Tagen als drittes Mitglied des Schiedsgerichtes eine Präsidentin oder einen Präsident. Können sich die beiden Schiedspersonen nicht innert der Frist auf eine Präsidentin oder einen Präsidenten einigen, so ist die Wahl durch das Präsidium des Obergerichts des Kantons Zürich zu treffen.
+3 Im Übrigen bestimmt sich das Verfahren nach den Vorschriften der Schweizerischen Zivilprozessordnung über die Schiedsgerichtsbarkeit.
+## Art. 7 Schiedsgericht, b. Vorbehalt
+1 Die Zuständigkeit der Gerichts- und Verwaltungsbehörden der Vertragskantone in zivilrechtlichen Streitigkeiten sowie in Fällen, in denen dem Verband oder einer Verbandsgemeinde die Rechtsstellung eines Privaten zukommt, bleibt vorbehalten.
+## Art. 8 Vollstreckung
+1 Die Regierungen der Vertragskantone sind verpflichtet, die vom Schiedsgericht oder von den zuständigen Behörden des anderen Kantons gefällten Entscheide zu beachten und zu vollstrecken.
+## Art. 9 Anpassung
+1 Die Vertragskantone passen den Staatsvertrag einvernehmlich den künftigen Rechtsänderungen auf kantonaler oder eidgenössischer Ebene an.
+## Art. 10 Kündigung
+1 Der Vertrag kann unter Einhaltung einer zwölfmonatigen Kündigungsfrist auf das Ende eines Kalenderjahres gekündigt werden.
+## Art. 11 Inkrafttreten und Publikation
+1 Dieser Staatsvertrag tritt auf den 1. Januar 2014 in Kraft und ist in der Gesetzessammlung des Kantons Zürich zu publizieren.
