@@ -1,3 +1,1 @@
-# § 13b Ergänzende Vermögenssteuer
-1 Für Liegenschaften, die vor dem Inkrafttreten des Planungs- und Baugesetzes zum Ertragswert bewertet und der bisherigen land- oder forstwirtschaftlichen Bewirtschaftung nach Massgabe des Bundesgesetzes über das bäuerliche Bodenrecht entfremdet worden sind, wird bei deren Veräusserung eine ergänzende Vermögenssteuer erhoben.
-2 Die nachträgliche Besteuerung erfolgt nach § 52 des Gesetzes. Ist innert der Nachbesteuerungsfrist eine nichtlandwirtschaftliche Verkehrswertschätzung gemäss § 43 Absatz 1 des Gesetzes vorgenommen worden, so ist lediglich die davor liegende Eigentumsdauer in die ergänzende Vermögensbesteuerung, maximal 15 Jahre, einzubeziehen.
+# § 13b …

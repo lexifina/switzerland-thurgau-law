@@ -1,2 +1,4 @@
 # § 22b Weitere Abzüge
 1 An der Quelle besteuerte Arbeitskräfte können bis Ende März des auf die Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres beim Gemeindesteueramt schriftlich ein Begehren um nachträgliche Gewährung von Abzügen einreichen, die nicht in den Tarifen berücksichtigt sind.
+2 Auf Gesuch von steuerpflichtigen Personen nach § 22a Absatz 1 mit dem Tarifcode A, B, C oder H, die Unterhaltsbeiträge leisten, kann die Bezugsbehörde zur Milderung von Härtefällen bei der Anwendung der Tarife Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+3 Wurden Unterhaltsbeiträge bei der Anwendung der Tarife nach Absatz 2 berücksichtigt, wird im Folgejahr die effektive Steuerschuld von steuerpflichtigen Personen mit dem Tarifcode A, B, C oder H von Amtes wegen nachberechnet.

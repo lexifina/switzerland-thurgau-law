@@ -1,0 +1,2 @@
+# § 2a Lotterie und lotterieähnliche Veranstaltung
+1 Als Lotterie oder lotterieähnliche Veranstaltung im Sinne von § 25 Absatz 1 Ziffer 4 beziehungsweise § 26 Absatz 1 Ziffer 13 des Gesetzes gilt jede Veranstaltung, bei der gegen Leistung eines finanziellen Einsatzes oder bei Abschluss eines Rechtsgeschäftes ein vermögensrechtlicher Vorteil als Gewinn in Aussicht gestellt wird, über dessen Erwerb, Grösse oder Beschaffenheit planmässig durch Ziehung von Losen oder Nummern oder durch ein ähnliches auf Zufall gestelltes Mittel entschieden wird.
