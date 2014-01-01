@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Indexierung von Bevölkerungsdichte und Sozialhilfekosten
+Anhang 1 : Anhang
