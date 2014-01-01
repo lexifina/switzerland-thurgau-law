@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1 : Normkosten
+Anhang 1 : Anhang
