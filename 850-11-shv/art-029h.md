@@ -1,4 +1,5 @@
-# § 29h Schwankungsfonds
-1 Ergibt sich für eine Einrichtung auf Grund der Abgeltung ein Gewinn, ist dieser zu 100 % einem zweckgebundenen Schwankungsfonds zuzuweisen, der als zweckgebundenes Eigenkapital in der Bilanz der Einrichtung einzustellen ist. Er dient zum Ausgleich allfälliger Verluste.
-2 Im Wohnbereich ist der Schwankungsfonds gegen oben auf 10 % und im Tagesstrukturbereich auf minimal 20 % beziehungsweise maximal 30 % des anfallenden Nettoaufwandes gemäss IVSE beschränkt.
-3 Ist der Plafond erreicht, behält der Kanton 50 % der anrechenbaren Gewinne zurück. Ist der Schwankungsfonds ausgeschöpft, sind Verluste mit Spenden und frei erarbeiteten Mitteln zu decken.
+# § 29h Über- und Unterdeckung
+1 Ergibt sich für eine Einrichtung im objektorientierten Anteil eine Überdeckung, wird diese mit dem Anspruch auf die subjektorientierte Abgeltung verrechnet. Ergibt sich eine Unterdeckung, gleicht der Kanton diese aus.
+2 Ergibt sich auf Grund der subjektorientierten Abgeltung eine Überdeckung, ist diese zu 100 % zweckgebunden zu verbuchen. Sie dient zum Ausgleich allfälliger Unterschiede im subjektorientierten Bereich. Ergibt sich eine Unterdeckung, ist diese mit Spenden oder anderen Mitteln zu decken.
+3 Im Wohn-, Beschäftigungs- und Werkstättenbereich sind die zweckgebundenen Verbuchungen gegen oben auf 20 % des anfallenden subjektorientierten Nettoaufwandes beschränkt.
+4 Ist der Plafond erreicht, behält der Kanton 100 % der anrechenbaren Überschüsse zurück.
