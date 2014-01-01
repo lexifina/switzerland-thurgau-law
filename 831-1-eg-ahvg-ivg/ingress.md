@@ -1,3 +1,4 @@
-G Einführung der AHV im Kanton TG
-# Gesetz über die Einführung der eidgenössischen Alters- und Hinterlassenenversicherung im Kanton Thurgau
-vom 06.12.1947
+EG AHVG/IVG
+# Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung
+(EG AHVG/IVG)
+vom 12.06.2013
