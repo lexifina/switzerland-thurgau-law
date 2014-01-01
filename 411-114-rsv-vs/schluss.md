@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Einreihung Lehrpersonal
+Anhang 1 : Einreihung Lehrpersonen
