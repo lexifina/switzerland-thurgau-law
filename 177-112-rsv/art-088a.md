@@ -1,3 +1,3 @@
 # § 88a Übergangsrecht
-1 Sperrfristen nach § 25 Absatz 4, die vor dem 31. Januar 2006 eingetreten sind, richten sich nach bisherigem Recht.
-2 Mitarbeiterinnen und Mitarbeiter mit Mehrfachanstellungen, die über dem Maximum gemäss § 4a dieser Verordnung liegen, haben eine Reduktion auf das zulässige Mass in der Regel per 31. Juli 2006 zu veranlassen. Kommen sie dieser Verpflichtung nicht nach, kann der Kanton die Kündigung einer Teilbeschäftigung mit einer Kündigungsfrist von einem Monat aussprechen.
+1 Für Dienstverhältnisse, die beim Inkrafttreten der vorliegenden Verordnung bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
+2 Kündigungen, welche nach Inkrafttreten der vorliegenden Verordnung und vor dem 1. Juli 2014 ausgesprochen werden, richten sich nach bisherigem Recht.
