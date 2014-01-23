@@ -1,2 +1,2 @@
 Anhänge
-Anhang 01: Anhang 1
+Anhang 01 : Anhang 1
