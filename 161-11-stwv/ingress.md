@@ -1,3 +1,4 @@
-RRV Stimm- und Wahlgesetz (StWV)
+StWV
 # Verordnung des Regierungsrates zum Gesetz über das Stimm- und Wahlrecht
-vom 25.08.2003
+(StWV)
+vom 24.06.2014
