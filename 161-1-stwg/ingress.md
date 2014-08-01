@@ -1,3 +1,4 @@
-Gesetz über das Stimm- und Wahlrecht (StWG)
+StWG
 # Gesetz über das Stimm- und Wahlrecht
-vom 15.03.1995
+(StWG)
+vom 12.02.2014
