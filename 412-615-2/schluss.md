@@ -1,1 +1,2 @@
-Anhang zur Vereinbarung: www.edk.ch
+Anhänge
+Anhang 1 : Anhang
