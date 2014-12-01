@@ -1,23 +1,41 @@
-## 1. Abschnitt: Die Zugehörigkeit zur Evangelischen Landeskirche
-## 2. Abschnitt: Der Gottesdienst
-### 2.1. Allgemeine Bestimmungen
-### 2.2. Der Erwachsenengottesdienst
-### 2.3. Der Jugendgottesdienst (Die Kinderlehre)
-### 2.4. Der Kindergottesdienst (Die Sonntagsschule)
-## 3. Abschnitt: Die kirchlichen Feiertage
-## 4. Abschnitt: Die heiligen Handlungen
-### 4.1. Die Taufe
-### 4.2. Das Abendmahl
-## 5. Abschnitt: Die kirchlichen Handlungen
-### 5.1. Die Konfirmation
-### 5.2. Die Trauung
-### 5.3. Die Abdankung
-## 6. Abschnitt: Der kirchliche Unterricht
-### 6.1. Allgemeine Bestimmungen
-### 6.2. Der Religionsunterricht
-### 6.3. Der Konfirmandenunterricht
-## 7. Abschnitt: Die Seelsorge
-## 8. Abschnitt: Das Gemeindeleben
-## 9. Abschnitt: Ergänzende Bestimmungen
-## 10. Abschnitt: Die Registerführung und Archivverwaltung
-## 11. Abschnitt: Schlussbestimmungen
+## 1. Mitgliedschaft und Anspruch auf kirchliche Dienste
+### 1a. Mitgliedschaft
+### 1b. Anspruch auf kirchliche Dienste
+## 2. Gemeindeleitung
+## 3. Gottesdienst
+## 4. Taufe und Abendmahl
+### 4a. Taufe
+### 4b. Abendmahl
+## 5. Trauung und Abdankung
+### 5a. Trauung
+### 5b. Abdankung
+## 6. Weitere gottesdienstliche Handlungen und Segensfeiern
+### 6a. Ordination
+### 6b. Amtseinsetzung
+### 6c. Beauftragung
+### 6d. Kindersegnung
+### 6e. Taufgedächtnis und Taufbestätigung
+### 6f. Gottesdienstliche Handlungen und Segensfeiern bei weiteren Anlässen
+## 7. Kind und Jugend
+### 7a. Religionsunterricht
+### 7b. Kirchliches Feiern mit Kindern und Jugendlichen
+### 7c. Konfirmationsjahr
+### 7d. Konfirmation
+### 7e. Kirchliche Freizeitangebote
+## 8. Seelsorge
+## 9. Diakonie, Mission, Ökumene, Entwicklungszusammenarbeit und Bewahrung der Schöpfung
+### 9a. Diakonie
+### 9b. Mission, Ökumene und Entwicklungszusammenarbeit
+### 9c. Bewahrung der Schöpfung
+## 10. Erwachsenenbildung und Kultur, Bauten
+### 10a. Erwachsenenbildung und Kultur
+### 10b. Bauten
+## 11. Öffentlichkeitsarbeit
+## 12. Verschiedenes
+### 12a. Erneuerung
+### 12b. Registerführung
+### 12c. Amtsübergabe
+### 12d. Archiv
+### 12e. Amtsgeheimnis und Datenschutz
+### 12f. Glockenläuten
+### 12g. Schlussbestimmungen
