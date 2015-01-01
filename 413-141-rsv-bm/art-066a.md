@@ -1,0 +1,3 @@
+# § 66a Übergangsbestimmung Einreihung und Einstufung
+1 Führt die Anwendung der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
+2 Die Besitzstandswahrung nach Absatz 1 gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
