@@ -1,3 +1,4 @@
-RRV Berufsbildung (BerufsbildungsV)
-# Verordnung des Regierungsrates über die Berufsbildung
-vom 08.01.2008
+RRV Berufsbildung (BbO)
+# Verordnung des Regierungsrates über die Organisation des Berufsbildungswesens
+(BbO)
+vom 25.11.2014

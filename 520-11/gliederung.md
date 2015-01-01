@@ -1,9 +1,9 @@
 ## 1. Zuständigkeit
-## 2. Organisation der Zivilschutzregion
-## 3. Schutzdienstpflicht
-## 4. Aufgebot und Einsatz
-## 5. Ausbildung
-## 6. Schutzbauten
-## 7. Material
-## 8. Beiträge und Verfahren
-## 9. Schlussbestimmungen
+## 2. Organisation
+## 3. Aufgaben
+## 4. Schutzdienstpflicht
+## 5. Aufgebot und Einsatz
+## 6. Ausbildung
+## 7. Standardausrüstung
+## 8. Finanzierung und Verfahren
+## 9. Übergangs- und Schlussbestimmungen
