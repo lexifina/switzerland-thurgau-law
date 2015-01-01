@@ -1,4 +1,4 @@
-RRV Museumsverordnung
-# Verordnung des Regierungsrates über die Museen des Kantons Thurgau
+Museumsverordnung
+# Verordnung über die kantonalen Museen
 (Museumsverordnung)
-vom 15.12.1998
+vom 26.08.2014
