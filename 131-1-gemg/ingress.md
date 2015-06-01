@@ -1,3 +1,4 @@
-Gesetz über die Gemeinden (GemG)
+GemG
 # Gesetz über die Gemeinden
+(GemG)
 vom 05.05.1999
