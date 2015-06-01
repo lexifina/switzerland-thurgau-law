@@ -1,2 +1,0 @@
-# § 44bis Einfache Anfrage
-1 Eine Auskunft, wie sie durch eine Interpellation verlangt werden kann, ist vom Kirchenrat auch auf eine Einfache Anfrage hin zu erteilen. Eine solche kann nur durch ein Mitglied der Synode gestellt werden und ist dem Präsidium der Synode schriftlich und unterzeichnet einzureichen. Der Kirchenrat beantwortet Einfache Anfragen schriftlich, in der Regel im nächstmöglichen Synodalamtsblatt. Eine Diskussion findet nicht statt.

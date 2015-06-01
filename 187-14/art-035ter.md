@@ -1,2 +1,0 @@
-# § 35ter Behördenreferendum
-1 Wird ein Erlass gemäss § 10 der Kirchenverfassung angenommen, stellt die Präsidentin oder der Präsident die Frage, wer sich für eine Volksabstimmung ausspreche.
