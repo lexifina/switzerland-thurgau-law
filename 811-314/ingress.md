@@ -1,3 +1,3 @@
-RRV Rechtsstellung der Patienten und Patientinnen
+RRV Rechtsstellung der Patienten und Patientiennen
 # Verordnung des Regierungsrates über die Rechtsstellung der Patienten und Patientinnen
-vom 03.12.1996
+vom 25.08.2015

@@ -1,3 +1,3 @@
-RRV Berufe des Gesundheitswesens
-# Verordnung des Regierungsrates über Berufe des Gesundheitswesens
-vom 17.08.2004
+RRV Berufe und Einrichtungen des Gesundheitswesens
+# Verordnung des Regierungsrates über Berufe und Einrichtungen des Gesundheitswesens
+vom 25.08.2015
