@@ -1,4 +1,4 @@
-Gesundheitsgesetz (GG)
+GG
 # Gesetz über das Gesundheitswesen
-(Gesundheitsgesetz)
-vom 05.06.1985
+(Gesundheitsgesetz, GG)
+vom 03.12.2014
