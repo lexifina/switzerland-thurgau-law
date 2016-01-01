@@ -1,0 +1,5 @@
+# § 57b Hungerstreik
+1 Die Vollzugseinrichtung orientiert das medizinische Fachpersonal, wenn die verurteilte Person aus Protest fastet oder die Aufnahme von Essen und Trinken verweigert.
+2 Das medizinische Fachpersonal klärt die verurteilte Person über die Risiken von längerem Fasten auf. Ist eine klare und sichere Verständigung zwischen dem medizinischen Fachpersonal und der verurteilten Person nicht möglich, wird eine Übersetzerin oder ein Übersetzer oder eine andere geeignete Hilfsperson beigezogen.
+3 Wenn die verurteilte Person unterschriftlich bestätigt, dass sie medizinische Zwangsmassnahmen, namentlich eine zwangsweise künstliche Ernährung auch bei Verlust des Bewusstseins ablehnt, wird dieser Wunsch respektiert, so lange von einer freien Willensbestimmung und Urteilsfähigkeit ausgegangen werden kann.
+4 Trotz der geäusserten Verweigerung der Nahrungsaufnahme werden der verurteilten Person dreimal täglich die Mahlzeiten angeboten und der jederzeitige Zugang zu Getränken sichergestellt. Zudem gilt § 15 Absatz 2 der Verordnung des Regierungsrates über die Rechtsstellung der Patienten und Patientinnen sinngemäss.
