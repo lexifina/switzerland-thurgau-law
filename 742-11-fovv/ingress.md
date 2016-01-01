@@ -1,3 +1,4 @@
-RRV Förderung des öffentlichen Verkehrs
+FöVV
 # Verordnung des Regierungsrates zum Gesetz über die Förderung des öffentlichen Verkehrs
-vom 28.03.1989
+(FöVV)
+vom 15.12.2015
