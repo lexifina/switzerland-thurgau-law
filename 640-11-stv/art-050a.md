@@ -3,3 +3,4 @@
 2 Die Erlassbehörde berücksichtigt bei ihrem Entscheid die gesamten wirtschaftlichen Verhältnisse der steuerpflichtigen Person. Massgebend ist dabei in erster Linie die Situation im Zeitpunkt des Entscheides, daneben auch die Entwicklung seit der Veranlagung, auf die sich das Erlassbegehren bezieht, sowie die Aussichten für die Zukunft.
 3 Die Behörde prüft, ob für die steuerpflichtige Person Einschränkungen in der Lebenshaltung geboten und zumutbar sind oder gewesen wären. Einschränkungen gelten grundsätzlich als zumutbar, wenn die Auslagen die sich nach den Ansätzen für die Berechnung des betreibungsrechtlichen Existenzminimums ergebenden Lebenshaltungskosten übersteigen.
 4 …
+5 Ein Erlass kann an Auflagen und Bedingungen geknüpft werden. Werden diese nicht erfüllt, geht die Erlassforderung nicht unter.
