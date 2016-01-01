@@ -1,3 +1,4 @@
-G Förderung des öffentlichen Verkehrs (FöVG)
+FöVG
 # Gesetz über die Förderung des öffentlichen Verkehrs
-vom 21.09.1988
+(FöVG)
+vom 01.07.2015
