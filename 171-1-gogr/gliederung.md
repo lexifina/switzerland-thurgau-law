@@ -9,4 +9,4 @@
 ## 4. Kommissionen
 ## 5. Fraktionen
 ## 6. Entschädigungen
-## 7. Übergangs- und Schlussbestimmungen
+## 7. Schlussbestimmung

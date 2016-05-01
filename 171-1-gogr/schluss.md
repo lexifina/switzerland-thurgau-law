@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Amtsgelübde
+Anhang 1 : Amtsgelübde
