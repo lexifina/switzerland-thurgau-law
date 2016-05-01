@@ -1,4 +1,4 @@
-RRV Heilmittelverordnug (HeilmittelV)
+RRV Heilmittelverordnung (HeilmittelV)
 # Verordnung des Regierungsrates betreffend Heilmittel
 (Heilmittelverordnung)
 vom 11.12.2001
