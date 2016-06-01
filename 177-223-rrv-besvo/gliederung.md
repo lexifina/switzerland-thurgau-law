@@ -22,7 +22,7 @@
 #### 1.5.3. Befristet angestellte Mitarbeiterinnen und Mitarbeiter
 #### 1.5.4. Auszubildende
 ### 1.6. Auslagen zu dienstlichen Zwecken
-## 2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte und Kreisämter
+## 2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte, Friedensrichter- und Betreibungsämter
 ### 2.1. Allgemeine Bestimmungen
 ### 2.2. Bezirksgerichte
 ### 2.3. Bezirksämter
