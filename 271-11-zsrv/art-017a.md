@@ -1,0 +1,2 @@
+# § 17a Ausbildung
+1 Neu gewählte Friedensrichterinnen und Friedensrichter haben nach Absprache mit dem Obergerichtspräsidium innert drei Jahren nach Amtsantritt einen zertifizierten Lehrgang (CAS Friedensrichter) zu absolvieren. Von diesem Kurs sind Friedensrichterinnen und Friedensrichter befreit, welche im Zeitpunkt der Wahl bereits ein Friedensrichteramt führen oder über einen rechtswissenschaftlichen Masterabschluss einer schweizerischen Hochschule verfügen.

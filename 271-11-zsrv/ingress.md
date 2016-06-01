@@ -1,4 +1,4 @@
-V Obergericht über die Zivil- und Strafrechtspflege (ZSRV)
+ZSRV
 # Verordnung des Obergerichts über die Zivil- und Strafrechtspflege
-(Zivil- und Strafrechtspflegeverordnung, ZSRV)
+(ZSRV)
 vom 27.05.2010

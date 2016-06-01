@@ -1,2 +1,2 @@
 # § 45d Ordnungsbussen
-1 Für allfällige Ordnungsbussen gilt Artikel 128 ZPO.
+1 Für allfällige Ordnungsbussen gilt Art. 128 ZPO.
