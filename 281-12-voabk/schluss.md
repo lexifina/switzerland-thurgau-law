@@ -1,0 +1,1 @@
+Diese Verordnung tritt auf den 1. Juni 2016 in Kraft.
