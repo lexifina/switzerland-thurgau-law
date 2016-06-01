@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Kreise für Grundbuchämter und Notariate
+Anhang 1 : Ausser Kraft
