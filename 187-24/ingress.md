@@ -1,3 +1,3 @@
-Richtlinien des Evang. Kirchenrates - Predigtdienst von Laien
-# Richtlinien des Evangelischen Kirchenrates für den Predigtdienst von Laien in Gottesdiensten
-vom 06.03.2002
+V des Evang. Kirchenrates - Gottesdienstleitung durch Laien
+# Verordnung des Evangelischen Kirchenrates des Kantons Thurgau zur Gottesdienstleitung durch Laien
+vom 02.03.2016
