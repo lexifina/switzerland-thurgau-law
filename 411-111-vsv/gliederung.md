@@ -1,7 +1,7 @@
 ## 1. Aufsicht und kantonale Leistungen
-### 1.1. Aufsicht
-### 1.2. Unterstützung
-### 1.3. Beiträge
+### 1.1. …
+### 1.2. …
+### 1.3. …
 ## 2. Organisationsgrundlagen in den Schulgemeinden
 ### 2.1. Allgemein
 ### 2.2. Schule
