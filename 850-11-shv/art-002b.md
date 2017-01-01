@@ -1,4 +1,5 @@
 # § 2b Materielle Grundsicherung
-1 Die Höhe der materiellen Grundsicherung (Grundbedarf für den Lebensunterhalt, Wohnungskosten und Kosten für die medizinische Grundversorgung) bemisst sich in der Regel nach den SKOS-Richtlinien. Für junge Erwachsene gilt § 2k.
+1 Die Höhe der materiellen Grundsicherung (Grundbedarf für den Lebensunterhalt, Wohnungskosten und Kosten für medizinische Grundversorgung) bemisst sich in der Regel nach den SKOS-Richtlinien. Ergänzend und insoweit abweichend davon gilt für Wohnungskosten Absatz 4 und für junge Erwachsene § 2k.
 2 Abweichungen sind zu begründen.
 3 Der Anspruch auf Unterstützung entfällt, wenn die eigenen Mittel zur Deckung der materiellen Grundsicherung ausreichen (Austrittsschwelle). Eigenes Vermögen wird voll angerechnet. Bei Personen, die sich durch Erwerbseinkommen von der Sozialhilfe ablösen können, hat die Unterstützungseinheit Anspruch auf Übernahme der Krankenkassenprämie für den Folgemonat.
+4 Sozialhilfebeziehende sind verpflichtet, die Wohnungskosten so tief wie möglich zu halten. Die Gemeinden legen auf ihrem Gemeindegebiet nach Haushaltsgrösse abgestufte maximale ortsübliche Wohnungskosten fest. Ist günstigerer Wohnraum vorhanden, besteht kein Rechtsanspruch auf Geltendmachung der maximalen Wohnungskosten.
