@@ -1,3 +1,4 @@
-G Strassen und Wege (StrWG)
+StrWG
 # Gesetz über Strassen und Wege
+(StrWG)
 vom 14.09.1992
