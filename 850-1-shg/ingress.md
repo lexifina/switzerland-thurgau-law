@@ -1,4 +1,4 @@
-Sozialhilfegesetz (SHG)
+SHG
 # Gesetz über die öffentliche Sozialhilfe
-(Sozialhilfegesetz)
+(Sozialhilfegesetz, SHG)
 vom 29.03.1984
