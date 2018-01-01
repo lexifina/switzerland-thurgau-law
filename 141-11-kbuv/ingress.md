@@ -1,3 +1,4 @@
-RRV Kantons- und Gemeindebürgerrecht (KBüV)
+KBüV
 # Verordnung des Regierungsrates zum Gesetz über das Kantons- und Gemeindebürgerrecht
-vom 08.12.1992
+(KBüV)
+vom 22.05.2018
