@@ -1,3 +1,4 @@
-Wasserbaugesetz (WBG)
-# Gesetz über den Wasserbau
-vom 25.04.1983
+G Wasserbau und Schutz vor gravitativen Naturgefahren (WBSNG)
+# Gesetz über den Wasserbau und den Schutz vor gravitativen Naturgefahren
+(WBSNG)
+vom 19.04.2017

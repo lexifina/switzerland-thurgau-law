@@ -1,12 +1,15 @@
-## 1. Wasserbau
-### 1.1. Flüsse und Bäche
-#### 1.1.1 Allgemeine Bestimmungen
-#### 1.1.2. Unterhalt
-#### 1.1.3. Korrektion
-#### 1.1.4. Finanzierung
-#### 1.1.5. Pflichten der Anstösser und Hinterlieger
-#### 1.1.6. Notarbeiten
-### 1.2. Seen und Weiher
-## 2. Wasserbaupolizei
-## 3. Besondere Bestimmungen
-## 4. Straf-, Übergangs- und Schlussbestimmungen
+## 1. Geltungsbereich und Grundlagen
+## 2. Wasserbau
+### 2.1. Allgemeine Bestimmungen
+### 2.2. Flüsse und Bäche
+#### 2.2.1. Allgemeines
+#### 2.2.2. Unterhalt
+#### 2.2.3. Korrektion
+#### 2.2.4. Finanzierung
+### 2.3. Seen und Weiher
+## 3. Gewässerraum und Wasserbaupolizei
+## 4. Gravitative Naturgefahren
+## 5. Notarbeiten
+## 6. Besondere Bestimmungen
+## 7. Verwaltungszwang und Strafen
+## 8. Übergangs- und Schlussbestimmungen
