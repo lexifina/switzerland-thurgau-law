@@ -1,3 +1,4 @@
-RRV Wasserbau (WBV)
-# Verordnung des Regierungsrates zum Gesetz über den Wasserbau
-vom 20.12.1983
+RRV Wasserbau und Schutz vor gravitativen Naturgefahren (WBSNV)
+# Verordnung des Regierungsrates zum Gesetz über den Wasserbau und den Schutz vor gravitativen Naturgefahren
+(WBSNV)
+vom 12.12.2017

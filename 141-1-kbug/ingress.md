@@ -1,3 +1,4 @@
-Kantons- und Gemeindebürgerrechtsgesetz (KBüG)
+KBüG
 # Gesetz über das Kantons- und Gemeindebürgerrecht
-vom 14.08.1991
+(KBüG)
+vom 06.12.2017
