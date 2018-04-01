@@ -1,3 +1,4 @@
-RRV Jagd und Schutz wildlebender Säugetiere und Vögel (JGRV)
+JGRV
 # Verordnung des Regierungsrates zum Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
-vom 15.09.1992
+(JGRV)
+vom 29.05.2018
