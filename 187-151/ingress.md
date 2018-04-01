@@ -1,3 +1,3 @@
-Einteilung Dekanatskreise/Organisation Kapitel - V der Synode
+V der Synode - Einteilung Dekanatskreise/Organisation Kapitel
 # Verordnung der Evangelischen Synode des Kantons Thurgau über die Einteilung der Dekanatskreise und die Organisation der Kapitel
-vom 31.03.2003
+vom 27.11.2017
