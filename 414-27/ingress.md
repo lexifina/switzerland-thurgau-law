@@ -1,3 +1,3 @@
 Personalreglement PHTG
 # Personalreglement der Pädagogischen Hochschule Thurgau
-vom 22.02.2010
+vom 03.09.2018
