@@ -1,3 +1,5 @@
-RRV Finanzausgleich der Politischen Gemeinden
-# Verordnung des Regierungsrates zum Gesetz über den Finanzausgleich der Politischen Gemeinden
+FAV
+# Finanzausgleichsverordnung
+(FAV)
 vom 04.03.2003
+Erlassen vom Regierungsrat.
