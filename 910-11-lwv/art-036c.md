@@ -6,4 +6,5 @@
 2. 20 Milliäquivalent pro Liter bei Rotwein;
 3. 30 Milliäquivalent pro Liter bei Süsswein;
 4. 35 Milliäquivalent pro Liter bei Eiswein;
-4 Zur Bereitung von Weinen mit kontrollierter Ursprungsbezeichnung sind die Verfahren erlaubt, die im Anhang 2 der Verordnung des EDI über alkoholische Getränke aufgelistet sind.
+4 Zur Bereitung von Weinen mit kontrollierter Ursprungsbezeichnung sind die Verfahren erlaubt, die im Anhang 9 der Verordnung des EDI über Getränke aufgelistet und in dessen Anlagen 1 bis 16 geregelt sind.
+5 Die Süssung von Weinen mit kontrollierter Ursprungsbezeichnung ist zugelassen, wenn die Bedingungen nach Anlage 11 zu Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
