@@ -1,3 +1,3 @@
 # § 18a Finanzielle Beiträge
-1 Die Schulgemeinden können von den Erziehungsberechtigten Beiträge für die Verpflegung während obligatorischer Klassenverlegungen, Exkursionen und Lager sowie anderer Pflichtveranstaltungen im Umfang der zu Hause anfallenden durchschnittlichen Einsparungen erheben.
-2 Der Beitrag der Erziehungsberechtigten darf je nach Alter des Kindes maximal zwischen Fr. 10.– und 16.– pro Verpflegungstag betragen.
+1 Die Beiträge der Erziehungsberechtigten für obligatorische Klassenverlegungen, Exkursionen, Lager und andere Pflichtveranstaltungen dürfen Fr. 22 pro Tag nicht überschreiten.
+2 …

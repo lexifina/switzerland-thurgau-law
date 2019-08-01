@@ -3,4 +3,4 @@
 1bis In den Fremdsprachen entscheidet die Schulleitung auf Antrag der Erziehungsberechtigten oder auf Antrag der Lehrperson nach Rücksprache mit den Erziehungsberechtigten über eine Dispensation.
 1ter In den übrigen Fällen entscheidet die Schulbehörde oder die Schulleitung mit dem Einverständnis der Erziehungsberechtigten. Die Dispensation ist der Schulaufsicht vorgängig zur Kenntnis zu bringen.
 2 Dispensierte Schüler und Schülerinnen sind durch geeignete Massnahmen zu fördern.
-3 § 35a Absätze 2 und 3 gelten sinngemäss.
+3 § 35a Abs. 2 und Abs. 3 gelten sinngemäss.
