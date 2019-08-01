@@ -3,4 +3,4 @@
 1. Renten;
 2. Ergänzungsleistungen, auf die ein gesetzlicher Anspruch besteht;
 3. Vermögenserträge.
-2 Bei Bewerbern, die zu Hause wohnen, werden die ersten Fr. 6 000.– der Rente nicht berücksichtigt.
+2 Bei Bewerberinnen und Bewerbern, die zu Hause wohnen, werden die ersten Fr. 6'000 der Rente nicht berücksichtigt.

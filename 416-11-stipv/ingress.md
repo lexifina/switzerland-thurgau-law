@@ -1,4 +1,4 @@
-Stipendienverordnung (StipV)
+StipV
 # Verordnung des Regierungsrates zum Gesetz über Ausbildungsbeiträge
-(Stipendienverordnung)
+(Stipendienverordnung; StipV)
 vom 04.12.1990
