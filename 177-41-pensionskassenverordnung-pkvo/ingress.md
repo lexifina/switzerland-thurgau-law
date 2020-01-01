@@ -1,4 +1,4 @@
-GR Pensionskassenverordnung (PKVO)
+PKVO
 # Verordnung des Grossen Rates über die berufliche Vorsorge des Staatspersonals und der Lehrpersonen
-(Pensionskassenverordnung)
+(Pensionskassenverordnung; PKVO)
 vom 13.04.2005
