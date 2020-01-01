@@ -1,3 +1,4 @@
-RRV Strassenverkehrsabgaben
-# Verordnung des Regierungsrates zum Gesetz über die Strassenverkehrsabgaben
+SVAV
+# Strassenverkehrsabgabenverordnung
+(SVAV)
 vom 07.12.2010
