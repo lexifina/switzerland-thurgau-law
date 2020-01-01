@@ -1,25 +1,32 @@
 ## 1. Einleitung
-## 2. Versicherte
-## 3. Versicherungsdauer
-## 4. Bemessungsgrundlagen
-## 5. Finanzierung
-### 5.1. Aufwendungen der Versicherten
-### 5.2. Aufwendungen des Arbeitgebers
-## 6. Leistungen
-### 6.1. Gemeinsame Bestimmungen
-### 6.2. Altersrenten
-### 6.3. Invalidenrenten
-### 6.4. Ehegattenrente
-### 6.5. Waisen- und Kinderrenten
-### 6.6. Todesfallsumme
-### 6.7. Freizügigkeitsleistung
-### 6.8. Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge
-### 6.9. Leistungen aus dem Hilfsfonds
-## 7. Finanzielles Gleichgewicht
-## 8. Organisation und Verwaltung
-### 8.1. Delegiertenversammlung
-### 8.2. Pensionskassenkommission
-### 8.3. Pensionskassenverwaltung
-## 9. Rechtsmittel
-## 10. Übergangsbestimmungen
-## 11. Schlussbestimmungen
+## 2. Versicherungspflicht
+### 2.1. Versicherte
+### 2.2. Versicherungsdauer
+## 3. Begriffe
+## 4. Finanzierung
+## 5. Leistungen
+### 5.1. Altersrente und Kapitalauszahlung
+### 5.2. Überbrückungsrente
+### 5.3. Pensionierten-Kinderrente
+### 5.4. Zusatzrente
+### 5.5. Invalidenrente
+### 5.6. Invaliden-Kinderrente
+### 5.7. Ehegattenrente / Rente bei eingetragener Partnerschaft
+### 5.8. Lebenspartnerrente
+### 5.9. Rente für geschiedene Ehegatten / aufgelöste eingetragene Partnerschaft
+### 5.10. Waisenrente
+### 5.11. Todesfallkapital
+### 5.12. Leistungen aus dem Hilfsfonds
+## 6. Austritt
+## 7. Ehescheidung und Finanzierung von Wohneigentum
+## 8. Gemeinsame Bestimmungen
+### 8.1. Koordination der Leistungen, Vorleistungen
+### 8.2. Auszahlungsbestimmungen
+### 8.3. Anpassung der laufenden Renten
+## 9. Finanzielles Gleichgewicht
+## 10. Teilliquidation
+## 11. Sanierungsmassnahmen
+## 12. Organisation und Verwaltung
+## 13. Informations- und Meldepflichten
+## 14. Rechtsmittel
+## 15. Übergangs- und Schlussbestimmungen

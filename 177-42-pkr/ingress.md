@@ -1,4 +1,5 @@
-Reglement Pensionskasse Thurgau (R PKTG)
-# Reglement der Pensionskasse Thurgau
+R PKTG
+# Pensionskassenreglement
 (R PKTG)
-vom 20.06.2005
+vom 12.06.2019
+Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.

@@ -1,3 +1,0 @@
-# § 77a Aufwertungseinlage gemäss Reglement 2012
-1 Versicherte, die bereits vor dem 31. Dezember 2011 Mitglied der PKTG waren, erhalten per 1. Januar 2016 die letzte Aufwertungseinlage gemäss § 77a des Reglements, Stand 23. Januar 2014, auf die reglementarische Freizügigkeit per 31. Dezember 2011. Die ab 1. Januar 2011 eingebrachten Freiwilligen Einlagen werden nicht berücksichtigt.
-2–4 …
