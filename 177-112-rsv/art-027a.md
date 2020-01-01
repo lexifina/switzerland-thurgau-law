@@ -1,0 +1,3 @@
+# § 27a Sonderleistungen anstelle einer Abgangsentschädigung bei vorzeitiger Pensionierung
+1 Tritt eine Mitarbeiterin oder ein Mitarbeiter im Einvernehmen mit dem Kanton nach Vollendung des 60. Altersjahres in den Ruhestand, kann anstelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau gewährt werden.
+2 Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Absatz 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
