@@ -1,0 +1,5 @@
+# § 46b Steuergutschriften für minderjährige Kinder
+1 Im Kanton beschränkt Steuerpflichtige haben keinen Anspruch auf Steuergutschriften nach § 188a Absatz 2 des Gesetzes.
+2 Bei Beginn und Ende der unbeschränkten Steuerpflicht während der Steuerperiode wird die Steuergutschrift im Verhältnis der Dauer der Steuerpflicht gewährt. Im interkantonalen Verhältnis richtet sich die Anspruchsgewährung sinngemäss nach der Einheit der Steuerperiode.
+3 Quellensteuerpflichtige mit Wohnsitz im Thurgau haben ihren Anspruch auf Steuergutschriften bis Ende März des auf die Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres, oder bei Wegzug innerhalb von 30 Tagen nach Ende der Steuerpflicht, bei der Bezugsbehörde geltend zu machen. Bei einer allfälligen nachträglichen ordentlichen Veranlagung erfolgt die Steuergutschrift auf diesem Weg.
+4 Bei gemeinsamer elterlicher Sorge von getrennt besteuerten Elternteilen ohne gemeinsamen Haushalt gilt § 12a Absatz 2 sinngemäss. Die Steuergutschriften werden diesfalls je hälftig beiden Elternteilen zugesprochen.

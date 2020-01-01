@@ -13,6 +13,6 @@ b. Personen, die Ersatzeinkünfte von der Versicherungseinrichtung nicht nach Ma
 9. Tarifcode N: Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
 10. Tarifcode O: Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode D erfüllen;
 11. Tarifcode P: Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen.
-2 Der Tarifcode D gemäss Absatz 1 Ziffer 4 wird angewendet, wenn die wöchentliche Arbeitszeit weniger als 15 Stunden und das monatliche Bruttoeinkommen weniger als Fr. 2 000.– betragen.
+2 Der Tarifcode D gemäss Absatz 1 Ziffer 4 wird angewendet, wenn die wöchentliche Arbeitszeit weniger als 15 Stunden und das monatliche Bruttoeinkommen weniger als Fr. 2'000 betragen.
 3 Das Gemeindesteueramt teilt dem Schuldner der steuerbaren Leistung den anwendbaren Tarif ohne Berücksichtigung der Kinderabzüge mit. Diese sind vom Schuldner der steuerbaren Leistung nach Massgabe der ausgerichteten Kinder- und Ausbildungszulagen festzusetzen.
 4 Für den Steuerabzug massgebend sind die Verhältnisse im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung.
