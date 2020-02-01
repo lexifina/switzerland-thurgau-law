@@ -1,7 +1,7 @@
-## 1. Aufnahme
-## 2. Unterricht
-## 3. Promotion
-## 4. Lehrabschlussprüfung
-## 5. Kaufmännische Berufsmaturitätsprüfung über den schulischen Teil
-## 6. Kaufmännische Maturitätsprüfung über die praktische Berufstätigkeit
-## 7. Schlussbestimmungen
+## 1. Allgemeines
+## 2. Aufnahme
+## 3. Unterricht
+## 4. Promotion
+## 5. Bildung in beruflicher Praxis
+## 6. Qualifikationsverfahren EFZ
+## 7. Berufsmaturitätsprüfung

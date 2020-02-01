@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Stundentafel gemäss § 5
+Anhang 1: Stundentafel Informatikmittelschule, Anhang RB 413.228
