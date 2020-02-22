@@ -10,5 +10,5 @@
 ### 6.2. Baubewilligung und Nutzungsplanung
 ## 7. Schutz vor nichtionisierender Strahlung
 ## 8. Umweltgefährdende Stoffe
-## 9. Gentechnologie im Ausserhumanbereich
+## 9. Umgang mit Organismen
 ## 10. Übergangs- und Schlussbestimmungen
