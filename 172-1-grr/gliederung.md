@@ -4,4 +4,4 @@
 ### 1.3. Sitzungen
 ## 2. Staatskanzlei
 ## 3. Departemente
-## 4. Schlussbestimmungen
+## 4. …
