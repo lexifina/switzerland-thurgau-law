@@ -1,4 +1,4 @@
-RRV berufliche Grundbildung (BbG)
+BbG
 # Verordnung des Regierungsrates über die berufliche Grundbildung
 (BbG)
 vom 25.11.2014
