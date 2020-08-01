@@ -5,4 +5,5 @@
 ## 4a. Erwerb der Fachmatura Pädagogik
 ## 5. Erwerb der Fachmatura Soziale Arbeit
 ## 6. Erwerb der Fachmatura Kommunikation und Information
+## 6a. Erwerb der Fachmatura Naturwissenschaften
 ## 7. Übergangs- und Schlussbestimmungen

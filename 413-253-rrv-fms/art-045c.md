@@ -1,0 +1,4 @@
+# § 45c Bewertung der Fachmaturaarbeit
+1 Die Fachmaturaarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet.
+2 Die Expertin oder der Experte ist in der Regel die Betreuungsperson des Praktikumsbetriebs.
+3 Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
