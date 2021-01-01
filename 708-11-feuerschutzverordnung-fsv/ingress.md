@@ -1,3 +1,4 @@
-RRV Feuerschutz (FSV)
+FSV
 # Verordnung des Regierungsrates zum Gesetz über den Feuerschutz
-vom 08.11.1994
+(Feuerschutzverordnung, FSV)
+vom 24.11.2020
