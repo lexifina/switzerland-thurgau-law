@@ -2,7 +2,7 @@
 ## 2. Versicherungspflicht
 ## 3. Prämienverbilligung
 ## 4. Pflegefinanzierung
-### 4.1. Stationäre Pflegeversorgung im Pflegeheim
+### 4.1. Stationäre Pflegeversorgung im Pflegeheim und Sterbehospiz
 ### 4.2. Ambulante Pflege sowie Hilfe und Betreuung
 ### 4.3. Akut- und Übergangspflege
 ## 5. Spitalplanung und Spitalfinanzierung
