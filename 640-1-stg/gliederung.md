@@ -33,6 +33,7 @@
 #### 1.4.1. Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
 #### 1.4.2. Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
 #### 1.4.3. Allgemeine Bestimmungen
+#### 1.4.4. Örtliche Zuständigkeit und interkantonales Verhältnis
 ### 1.5. Steuern vom Grundeigentum
 #### 1.5.1. Liegenschaftensteuer
 #### 1.5.2. Grundstückgewinnsteuer
