@@ -1,2 +1,0 @@
-# § 25a Kapitalabfindungen
-1 Kapitalleistungen aus Einrichtungen der beruflichen Vorsorge oder aus anerkannten Formen der gebundenen Selbstvorsorge sind auch dann um die Quellensteuer zu kürzen, wenn sie aufgrund eines Abkommens des Bundes zur Vermeidung der Doppelbesteuerung im Wohnsitzstaat steuerbar sind.
