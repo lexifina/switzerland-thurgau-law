@@ -1,4 +1,4 @@
-Gebäudeversicherungsgesetz (GebG)
+GebG
 # Gesetz über die Gebäudeversicherung
-(Gebäudeversicherungsgesetz)
+(Gebäudeversicherungsgesetz, GebG)
 vom 23.08.1976

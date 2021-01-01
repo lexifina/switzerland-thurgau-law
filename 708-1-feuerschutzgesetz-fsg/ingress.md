@@ -1,3 +1,4 @@
-Feuerschutzgesetz (FSG)
+FSG
 # Gesetz über den Feuerschutz
-vom 19.01.1994
+(Feuerschutzgesetz, FSG)
+vom 11.09.2019
