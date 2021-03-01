@@ -1,5 +1,6 @@
 ## 1. Allgemeines
-## 2. Organisation, Qualitätssicherung und interne Aufsicht
-## 3. Rechte und Pflichten der betreuten Personen
-## 4. Kantonale Aufsichtstätigkeit
-## 5. Übergangs- und Schlussbestimmungen
+## 2. Bewilligungsvoraussetzungen
+## 3. Organisation und Qualitätssicherung
+## 4. Aufsicht
+## 5. Rechte und Pflichten der betreuten Personen
+## 6. Übergangs- und Schlussbestimmungen
