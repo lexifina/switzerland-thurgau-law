@@ -1,0 +1,4 @@
+# § 3b Zeugnis und Zwischenbeurteilung
+1 Bei der Semesterpromotion wird am Ende des Semesters ein Zeugnis über die Leistungen während des Semesters ausgestellt.
+2 Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 erhalten die Schülerinnen und Schüler am Ende des vierten, sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des fünften und siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
+3 Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 erhalten die Schülerinnen und Schüler am Ende des sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
