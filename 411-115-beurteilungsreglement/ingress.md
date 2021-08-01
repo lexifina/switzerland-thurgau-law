@@ -1,4 +1,5 @@
 Beurteilungsreglement
-# Reglement des Departementes für Erziehung und Kultur über die Beurteilung an der Volksschule
+# Reglement über die Beurteilung in der Volksschule
 (Beurteilungsreglement)
-vom 13.12.2016
+vom 27.08.2020
+Erlassen vom Departement für Erziehung und Kultur gestützt auf § 34 Abs. 1 des Gesetzes über die Volksschule (VG).
