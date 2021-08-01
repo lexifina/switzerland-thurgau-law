@@ -14,5 +14,5 @@
 12. Sport
 13. Musik
 14. Bildnerisches Gestalten/Werken
-15. die berufsfeldspezifischen Fächer gemäss § 2 Absatz 2 – 5
+15. die berufsfeldspezifischen Fächer gemäss § 2 Abs. 2 bis Abs. 5
 2 In den Berufsfeldern Gesundheit/Naturwissenschaften und Pädagogik zählen die berufsfeldspezifischen Fächer Biologie, Chemie und Physik jeweils einzeln als Promotionsfach.

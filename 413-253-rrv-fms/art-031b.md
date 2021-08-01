@@ -10,5 +10,5 @@
 5. Geistes- und Sozialwissenschaften
 5.1 Geschichte 3
 5.2 Geografie 3
-2 Zusätzlich zum Präsenzunterricht gemäss Absatz 1 sind im gleichen Umfang Leistungen für die Vor- und Nachbereitung des Unterrichtes sowie für die Arbeit an Selbstlernaufträgen zu erbringen.
+2 Zusätzlich zum Präsenzunterricht gemäss Abs. 1 sind im gleichen Umfang Leistungen für die Vor- und Nachbereitung des Unterrichtes sowie für die Arbeit an Selbstlernaufträgen zu erbringen.
 3 Die Schülerinnen und Schüler absolvieren ein einwöchiges Hospitationspraktikum im Kindergarten oder in der Primarschule.
