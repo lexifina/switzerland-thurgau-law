@@ -4,13 +4,14 @@
 ### 2.2. Arbeits- und Wohnexternat, elektronische Überwachung
 ### 2.3. Bedingte Entlassung
 ## 3. Vollzugsformen
-### 3.1. Gemeinnützige Arbeit
-### 3.2. Halbgefangenschaft
-### 3.3. Elektronische Überwachung
+### 3.1. …
+### 3.2. …
+### 3.3. …
 ## 4. Durchführung des Vollzugs
 ### 4.1. Eintrittsgespräch, Untersuchung, Effekten
 ### 4.2. Arbeit und Entgelt
 ### 4.3. Ausgang und Urlaub
+### 4.4. Kosten
 ## 5. Untersuchungs- und Sicherheitshaft
 ## 6. Ausländerrechtliche Freiheitsentzüge
 ## 7. Disziplinarwesen

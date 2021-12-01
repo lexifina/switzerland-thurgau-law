@@ -1,0 +1,4 @@
+# § 61b Beizug von Privaten
+1 Zur Erfüllung einzelner Aufgaben, insbesondere in den Bereichen Gesundheit, Betreuung, Schule, Seelsorge, Sicherheit und Transport, können private Fachpersonen beigezogen werden.
+2 Die privaten Personen haben über die erforderlichen Fachkompetenzen zu verfügen. Das Amt für Justizvollzug kann die privaten Personen einer Sicherheitsprüfung unterziehen. Im Rahmen ihrer Aufgabenerfüllung unterstehen die privaten Personen dem Amtsgeheimnis und der Aufsicht des Amtes.
+3 Private Personen, die mit Sicherheitsaufgaben betraut sind, können insbesondere bei der Überwachung oder Intervention in einer Vollzugseinrichtung, bei Bewachungsaufgaben in einem Spital oder in einer Klinik und der Sicherung eines Transports unmittelbaren Zwang gemäss § 61a dieser Verordnung anwenden, wenn die Sicherheit und Ordnung nicht anders gewährleistet werden können.
