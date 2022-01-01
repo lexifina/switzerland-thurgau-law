@@ -1,2 +1,2 @@
-# § 4c Hinzurechnungsbesteuerung
-1 Die Steuerverwaltung kann Kapitalgesellschaften und Genossenschaften, die in ein internationales Konzernverhältnis eingebunden sind, zu einem höheren Gewinnsteuersatz besteuern, sofern andere Staaten aufgrund der gemäss § 85 resultierenden Steuerbelastung eine Hinzurechnungsbesteuerung vornehmen. Der Regierungsrat regelt die Ausführungsbestimmungen.
+# § 4c Höherbesteuerung
+1 Der Steuersatz wird bei Kapitalgesellschaften und Genossenschaften, die in ein internationales Konzernverhältnis eingebunden sind, unter Berücksichtigung der direkten Bundessteuer auf die vom ausländischen Staat geforderte Steuerbelastung angehoben.
