@@ -1,0 +1,5 @@
+# § 7a Kirchenrätliche Baukommission
+1 Die kirchenrätliche Kommission gemäss § 8 Abs. 3 der Verordnung der Evangelischen Synode des Kantons Thurgau über Leistungen der Landeskirche zu Gunsten von finanzschwachen Kirchgemeinden beurteilt die Gesuche um Baubeiträge zu Handen des Kirchenrates im Blick auf die Notwendigkeit, die Finanzierbarkeit und die Beachtung von ästhetischen, kirchlich-praktischen, denkmalpflegerischen und ökologischen Gesichtspunkten der eingereichten Projekte.
+2 Sie kann auch zur Beratung von Kirchgemeinden beigezogen werden im Blick auf Projekte, die nicht beitragsberechtigt sind.
+3 Sie besteht aus 3-5 Mitgliedern. Für besondere Aufgaben wie Expertisen betreffend Glocken oder Orgeln kann sie Fachleute zuziehen.
+4 Der Kirchenrat bezeichnet eine Fachperson, die nach einheitlichen Kriterien die ortsübliche Miete der Privaträume von Pfarrhäusern ermittelt. Wenn diese Person nicht Mitglied der Kommission ist, kann sie für fachliche Fragen betreffend Bauvorhaben bei Pfarrhäusern zugezogen werden.
