@@ -8,5 +8,6 @@
 ## 4. Organisation, Ausbildung, Finanzierung
 ### 4.1. Fachstelle Bevölkerungsschutz
 ### 4.2. Ausbildung
-## 5. Wirtschaftliche Landesversorgung, Kulturgüterschutz
-## 6. Übergangs- und Schlussbestimmungen
+## 5. Wirtschaftliche Landesversorgung
+## 5a. Kulturgüterschutz
+## 6. …

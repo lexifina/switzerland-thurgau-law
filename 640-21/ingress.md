@@ -1,3 +1,3 @@
-RRV Berufsauslagen unselbständige Erwerbstätigkeit (BerufsauslagenV)
-# Verordnung des Regierungsrates über die Pauschalierung der besonderen Berufsauslagen bei unselbständiger Erwerbstätigkeit
+Berufskostenverordnung
+# Berufskostenverordnung
 vom 24.11.1992
