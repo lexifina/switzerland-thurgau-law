@@ -1,4 +1,4 @@
-ITR
-# Informatikreglement
-(ITR)
-vom 17.12.1991
+ITV
+# Informatikverordnung
+(ITV)
+vom 14.12.2021

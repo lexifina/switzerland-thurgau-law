@@ -1,5 +1,4 @@
-## 1. Allgemeines
-## 2. Beschaffungsgrundsätze
-## 3. Organe
-## 4. Projekte
-## 5. Schlussbestimmungen
+## 1. Geltungsbereich und Grundlagen
+## 2. Organisation
+## 3. Budgetierung, Beschaffung und Projekte
+## 4. Konfliktbewältigung
