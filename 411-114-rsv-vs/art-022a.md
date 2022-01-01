@@ -1,3 +1,3 @@
 # § 22a Sonderleistungen anstelle einer Abgangsentschädigung bei vorzeitiger Pensionierung
 1 Bei einvernehmlicher Versetzung in den Ruhestand kann unter der Voraussetzung, dass die Lehrperson bei Beendigung des Arbeitsverhältnisses das 60. Altersjahr vollendet hat, an Stelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau gewährt werden.
-2 Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Absatz 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
+2 Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Abs. 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
