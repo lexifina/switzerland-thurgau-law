@@ -1,3 +1,4 @@
-RRV Rohrleitungsgesetzgebung (TG RLG)
-# Verordnung des Regierungsrates zur eidgenössischen Rohrleitungsgesetzgebung
+RLV
+# Verordnung zur eidgenössischen Rohrleitungsgesetzgebung
+(RLV)
 vom 08.03.2011
