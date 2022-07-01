@@ -2,7 +2,8 @@
 ### 1.1. Allgemeine Hilfeleistungen
 ### 1.2. Besondere Massnahmen
 #### 1.2.1. …
-#### 1.2.2. Inkassohilfe und Bevorschussung
+#### 1.2.2. …
+#### 1.2.3. Observationen
 ## 2. Finanzierung
 ### 2.1. Rückerstattungen von Kantonen, Bund oder ausländischen Staaten
 ### 2.2. Rückerstattungen von Gemeinden
