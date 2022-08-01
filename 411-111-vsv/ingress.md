@@ -1,4 +1,4 @@
-RRV VG
-# Verordnung des Regierungsrates über die Volksschule
-(RRV VG)
+VSV
+# Volksschulverordnung
+(VSV)
 vom 11.12.2007
