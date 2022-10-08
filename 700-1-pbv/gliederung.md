@@ -6,6 +6,8 @@
 #### 2.2.2. Landwirtschaftszonen
 #### 2.2.3. Schutzzonen
 #### 2.2.4. Weitere Zonen
+##### 2.2.4.1. Erhaltungszonen
+##### 2.2.4.2. Abbauzonen und Deponiezonen
 #### 2.2.5. Überlagernde Zonen
 ## 3. Begriffe und Messweisen
 ### 3.1. Ergänzende Vorschriften zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (IVHB)
