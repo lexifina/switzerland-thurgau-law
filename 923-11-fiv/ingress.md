@@ -1,4 +1,4 @@
 FiV
-# Verordnung des Regierungsrates über die Fischerei
+# Fischereiverordnung
 (FiV)
-vom 12.12.1977
+vom 13.12.2022
