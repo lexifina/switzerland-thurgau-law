@@ -1,4 +1,4 @@
-Beiträge an Musikschulen (Musikschulverordnung)
-# Verordnung des Regierungsrates über Beiträge an Musikschulen
-(Musikschulverordnung)
+MSV
+# Musikschulverordnung
+(MSV)
 vom 02.04.1991
