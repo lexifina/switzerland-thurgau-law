@@ -1,4 +1,4 @@
 StV
-# Verordnung zum Gesetz über die Staats- und Gemeindesteuern
+# Steuerverordnung
 (StV)
 vom 10.11.1992
