@@ -2,4 +2,4 @@
 ## 2. Verwendungszweck
 ## 3. Fondsäufnung und Beitragshöhe
 ## 4. Verfahren
-## 5. Übergangs- und Schlussbestimmungen
+## 5. …

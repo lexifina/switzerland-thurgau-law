@@ -8,4 +8,4 @@
 ## 2. Aktuariat
 ## 3. Quästorat
 ## 4. Zeichnungsberechtigung
-## 5. Schlussbestimmungen
+## 5. …
