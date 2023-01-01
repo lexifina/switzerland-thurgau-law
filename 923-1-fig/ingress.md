@@ -1,3 +1,4 @@
 Fischereigesetz
-# Gesetz über die Fischerei
+# Fischereigesetz
+(FiG)
 vom 27.09.1976
