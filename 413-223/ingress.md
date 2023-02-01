@@ -1,3 +1,3 @@
-Aufnahme in Maturitätsschulen, Fach- und Handelsmittelschule - RRV
-# Verordnung des Regierungsrates über die Aufnahme in die Maturitätsschulen sowie in die Fach- und Handelsmittelschule
+Aufnahme in Maturitäts- und Fachmittelschulen
+# Verordnung über die Aufnahme in die Maturitäts- und Fachmittelschulen
 vom 05.02.2002

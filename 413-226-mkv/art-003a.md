@@ -1,8 +1,8 @@
 # § 3a Promotionsverfahren
 1 Die Schulleitung legt die Art der Promotion fest. Folgende Modelle stehen zur Wahl:
-1. Durchgängige Semesterpromotion;
-2. Jahrespromotion für die dritte und vierte Klasse;
-3. Jahrespromotion für die vierte Klasse.
+1. Durchgängige Semesterpromotion
+2. Jahrespromotion für die dritte und vierte Klasse
+3. Jahrespromotion für die vierte Klasse
 2 Für die Semesterpromotion gilt: Der Konvent entscheidet am Ende eines Semesters aufgrund der Zeugnisnoten des Semesters in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann.
 3 Für Kantonsschulen mit Jahrespromotion für die dritte und vierte Klasse gilt:
 1. Für die ersten drei Semester gilt Abs. 2.
