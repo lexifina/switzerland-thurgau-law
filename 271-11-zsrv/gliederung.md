@@ -6,7 +6,7 @@
 ### 2.4. Bezirksgerichte
 ### 2.5. Zwangsmassnahmengericht
 ### 2.6. Obergericht
-### 2.7. Lugano-Übereinkommen
+### 2.7. …
 ### 2.8. Rechtshilfe
 ## 3. Geschäftsführung und Verfahren
 ### 3.1. Friedensrichterämter
