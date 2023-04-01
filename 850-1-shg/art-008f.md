@@ -1,5 +1,5 @@
 # § 8f Berichterstattung
-1 Die Fürsorgebehörde erstattet dem Departement für Finanzen und Soziales auf Verlangen Bericht über:
+1 Die Sozialhilfebehörde erstattet dem Departement für Finanzen und Soziales auf Verlangen Bericht über:
 1. Anzahl Observationen
 2. Ergebnisse der Observationen
 3. verfügte Sanktionen
