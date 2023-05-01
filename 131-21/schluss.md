@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Abschreibungssätze
+Anhang 1 : Abschreibungssätze
