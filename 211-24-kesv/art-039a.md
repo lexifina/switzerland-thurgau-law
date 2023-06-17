@@ -31,6 +31,6 @@
 26. Mitteilung an Schuldnerinnen und Schuldner (Art. 452 Abs. 2 ZGB)
 27. Antrag auf Verschollenerklärung (Art. 550 ZGB)
 28. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1bis ZGB)
-29. Ausstellung einer Bescheinigung über die Berechtigung zum Handeln und die übertragenen Befugnisse (Art. 40 Abs. 3 des Haager Übereinkommens über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Massnahmen zum Schutz von Kindern [Haager Kindesschutzübereinkommen, HKsÜ] sowie Art. 38 Abs. 3 des Haager Übereinkommens über den internationalen Schutz von Erwachsenen [Haager Erwachsenenschutzübereinkommen, HEsÜ])
+29. …
 30. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52fbis der Verordnung über die Alters- und Hinterlassenenversicherung)
 31. Antrag zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 lit. b ZPO)
