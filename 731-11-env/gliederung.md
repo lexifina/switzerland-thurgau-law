@@ -1,4 +1,5 @@
 ## 1. Allgemeine Bemerkungen
+## 1a. Vorbildfunktion der öffentlichen Hand
 ## 2. Fördermassnahmen
 ## 3. Energiesparmassnahmen
 ### 3.1. Allgemeines

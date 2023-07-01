@@ -1,0 +1,4 @@
+# § 4c Eigenstromerzeugung
+1 Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen ist neben der Einhaltung der Baustandards gemäss § 4a und der Eigenstromerzeugung gemäss § 42e das gesamte solare Potenzial der geeigneten Dachflächen zur Eigenstromerzeugung mittels PV-Anlagen zu nutzen.
+2 Bei umfassenden Dachsanierungen, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, ist das gesamte solare Potenzial der geeigneten Dachflächen zur Eigenstromerzeugung mittels PV-Anlagen zu nutzen. Bei einer umfassenden Dachsanierung wird die Dachhaut grossflächig ersetzt oder instand gestellt. Kleinteilige Reparatur- und Unterhaltsarbeiten an den Dachflächen sind hiervon nicht betroffen.
+3 Geeignete Dachflächen sind Flächen ab 85 % Globalstrahlung (Anhang 7). Ausgenommen sind Dachaufbauten wie Liftüberfahrten oder Gauben sowie Dachflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50 % reduziert wird.

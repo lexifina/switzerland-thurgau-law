@@ -1,0 +1,3 @@
+# § 4b Haustechnische Anlagen
+1 Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen sind Gebäude mit Personenbelegungen, in denen pro Person eine Fläche von 20 m² oder weniger zur Verfügung steht, mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 % sowie nach dem Stand der Technik auszurüsten.
+2 Bei einem Heizungsersatz, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, gilt die Vorbildfunktion bezüglich der Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien als wahrgenommen, wenn die neue Anlage nicht mehr mit fossilen Brennstoffen betrieben wird.

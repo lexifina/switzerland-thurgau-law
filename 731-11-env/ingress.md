@@ -1,4 +1,4 @@
 ENV
-# Verordnung des Regierungsrates zum Gesetz über die Energienutzung
+# Energienutzungsverordnung
 (ENV)
 vom 09.11.2010
