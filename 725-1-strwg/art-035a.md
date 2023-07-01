@@ -1,0 +1,8 @@
+# § 35a Verfahren für die Bewilligungserteilung oder Konzessionsvergabe im Rahmen eines Bauvorhabens
+1 Bedarf die Realisierung eines Bauvorhabens neben der Baubewilligung einer Bewilligung oder einer Konzession nach diesem Gesetz, ist das entsprechende Gesuch mit den für die Beurteilung erforderlichen Unterlagen bei der Gemeindebehörde einzureichen.
+2 Die Gemeindebehörde legt das Gesuch mit den Unterlagen während 20 Tagen öffentlich auf und teilt die Auflage den betroffenen Grundeigentümern schriftlich mit. Auf die öffentliche Auflage kann verzichtet werden, wenn ein Vorhaben von untergeordneter Bedeutung ist und Interessen Dritter offensichtlich nicht berührt.
+3 Wer vom Gesuch persönlich berührt ist und ein schutzwürdiges Interesse an seiner Ablehnung oder Änderung hat, kann bei der Gemeindebehörde während der Auflage Einsprache erheben.
+4 Ist das Departement für die Erteilung der Konzession oder der Kanton für die Erteilung der Bewilligung zuständig, leitet die Gemeindebehörde das Gesuch samt Einsprachen an die vom Regierungsrat zu bezeichnende Stelle weiter.
+5 Die Bewilligungs- oder Konzessionsbehörde entscheidet über das Gesuch in Kenntnis der Einsprachen.
+6 Die vom Regierungsrat zu bezeichnende Stelle koordiniert den Bewilligungs- oder Konzessionsentscheid und weitere erforderliche kantonale Stellungnahmen oder Entscheide und übermittelt diese der Gemeindebehörde.
+7 Die Gemeindebehörde eröffnet dem Gesuchsteller und allfälligen Einsprechern die Bewilligung oder die Konzession zusammen mit dem Baubewilligungsentscheid und mit den weiteren erforderlichen Stellungnahmen und Entscheiden.
