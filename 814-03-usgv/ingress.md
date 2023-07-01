@@ -1,4 +1,4 @@
 USGV
-# Verordnung des Regierungsrates zur Umweltschutzgesetzgebung
+# Verordnung zur Umweltschutzgesetzgebung
 (USGV)
 vom 04.10.2011
