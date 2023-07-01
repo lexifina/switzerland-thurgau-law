@@ -1,0 +1,3 @@
+# § 27b Schutz von Bauten, Bauteilen oder Anlagen gemäss § 10a
+1 Bei Anordnungen, die vor Inkrafttreten von § 10a erlassen worden sind, wird der Schutzumfang im Rahmen der Entscheide über einen Eingriff gemäss § 7 oder eines Gesuchs gemäss § 13 auf seine Übereinstimmung mit § 10a überprüft und bei Bedarf konkretisiert.
+2 Für nicht im ÖREB-Kataster publizierte Anordnungen, die vor dem Erlass von § 10a in Kraft getreten sind, ist im Rahmen der Überprüfung und Konkretisierung gemäss Abs. 1 das Aufnahmeverfahren gemäss den Vorgaben des Regierungsrates nachzuholen. Eine fehlende Publikation im Kataster hat keinen Einfluss auf die Rechtswirksamkeit dieser Anordnungen.
