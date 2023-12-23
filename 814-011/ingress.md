@@ -1,3 +1,3 @@
 RRV Umweltverträglichkeitsprüfung
-# Verordnung des Regierungsrates zur Umweltverträglichkeitsprüfung
+# Verordnung zur Umweltverträglichkeitsprüfung
 vom 15.12.1992
