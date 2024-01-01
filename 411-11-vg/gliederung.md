@@ -5,4 +5,4 @@
 ## 5. Lehrpersonen, Therapeuten und Therapeutinnen
 ## 6. Schulleitung
 ## 7. Schulgemeinden
-## 8. Schlussbestimmungen
+## 8. Rechtsschutz
