@@ -1,4 +1,4 @@
 FHV
-# Verordnung des Regierungsrates zum Gesetz über den Finanzhaushalt
+# Finanzhaushaltsverordnung
 (FHV)
 vom 29.11.2011
