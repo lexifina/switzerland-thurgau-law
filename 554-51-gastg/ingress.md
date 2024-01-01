@@ -1,4 +1,4 @@
 GastG
-# Gesetz über das Gastgewerbe und den Handel mit alkoholhaltigen Getränken
-(Gastgewerbegesetz, GastG)
-vom 26.06.1996
+# Gastgewerbe- und Alkoholhandelsgesetz
+(GastG)
+vom 03.05.2023
