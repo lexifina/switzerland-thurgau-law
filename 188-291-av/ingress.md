@@ -1,6 +1,5 @@
-Kath. Synode - Archivverordnung
-# Verordnung der Katholischen Synode über die Archivalien, Kult- und Kunstgegenstände
-(Archivverordnung)
-vom 04.12.1995
-Die Katholische Synode, gestützt auf § 103, § 44, und § 21 Ziff. 12 KOG,
-beschliesst:
+AV
+# Archivverordnung des Katholischen Kirchenrats
+(AV)
+vom 06.12.2023
+Erlassen vom Katholischen Kirchenrat des Kantons Thurgau gestützt auf § 28 Abs. 2 Ziff. 2 lit. c der Verfassung der Katholischen Landeskirche (LKV).
