@@ -1,5 +1,5 @@
-## 1. Zuständigkeit, Patente und Bewilligungen
-## 2. Anerkennung von Ausweisen, Prüfungserlass
+## 1. Zuständigkeit, Bewilligungsverfahren
+## 2. Wirteprüfung, Anerkennung von Ausweisen
 ## 3. Räumlich-technische Voraussetzungen
 ## 4. Wirtschaftspolizeiliche Vorschriften
 ### 4.1. Allgemeine Bestimmungen

@@ -1,4 +1,4 @@
-Gastgewerbeverordnung (GastV)
-# Verordnung des Regierungsrates zum Gesetz über das Gastgewerbe und den Handel mit alkoholhaltigen Getränken
-(Gastgewerbeverordnung)
-vom 26.11.1996
+GastV
+# Gastgewerbe- und Alkoholhandelsverordnung
+(GastV)
+vom 28.11.2023
