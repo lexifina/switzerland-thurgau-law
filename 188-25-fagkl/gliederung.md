@@ -1,0 +1,10 @@
+## 1. Finanzausgleich
+### 1.1. Allgemeines
+### 1.2. Berechnung
+### 1.3. Zuständigkeiten
+### 1.4. Besonderes
+## 2. Fusionsbeiträge
+### 2.1. Fusionsbeiträge
+### 2.2. Zuständigkeiten
+## 3. Rechtsmittel
+## 4. Übergangsbestimmung
