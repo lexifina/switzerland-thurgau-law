@@ -1,4 +1,4 @@
 ErV
-# Verordnung des Regierungsrates zum Gesetz über das Einwohnerregister sowie kantonale Register
+# Einwohnerregisterverordnung
 (ErV)
 vom 30.06.2009

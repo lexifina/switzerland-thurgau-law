@@ -1,5 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Versicherungspflicht
+## 2. Vollstreckung der Prämienzahlungspflicht
 ## 3. Prämienverbilligung
 ## 4. Pflegefinanzierung
 ### 4.1. Stationäre Pflegeversorgung im Pflegeheim und Sterbehospiz
