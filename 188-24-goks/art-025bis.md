@@ -1,5 +1,0 @@
-# § 25bis Wahlvorbereitung
-1 Nach den Gesamterneuerungswahlen bereitet ein Kollegium, bestehend aus den zwei amtsältesten Synodalräten aus jedem Wahlkreis, die Wahlen vor. Am Ende der Amtszeit (Ende Mai) bezeichnet der abtretende Synodalpräsident, im Verhinderungsfall der Vizepräsident, Ort und Zeitpunkt der Zusammenkunft. Der Aktuar des Kirchenrates erlässt in dessen Auftrag die Einladungen.
-2 Die Versammlung bezeichnet zuerst ihren Vorsitzenden und darnach den Alterspräsidenten. Sie unterbreitet der Synode die Vorschläge für die Wahl des Präsidenten der Synode und der Mitglieder des Büros sowie für die Wahlen in den Kirchenrat und für dessen Präsidium (§ 21 Ziffern 3 und 4 KOG).
-3 Alterspräsident ist der amtsälteste ehemalige Synodalpräsident oder bei Fehlen eines solchen das amtsälteste Mitglied der Synode. Bei gleicher Amtsdauer ist das höhere Lebensalter massgebend.
-4 Der Vorsitzende des Kollegiums teilt die Beschlüsse dem Aktuariat des Kirchenrates mit, welches sie an die Mitglieder von Synode und Kirchenrat weiterleitet.
