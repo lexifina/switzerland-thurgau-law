@@ -1,4 +1,4 @@
 FHG
-# Gesetz über den Finanzhaushalt des Staates
+# Finanzhaushaltsgesetz
 (FHG)
-vom 15.06.2011
+vom 19.04.2023
