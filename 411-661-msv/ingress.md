@@ -1,4 +1,4 @@
 MSV
 # Musikschulverordnung
 (MSV)
-vom 02.04.1991
+vom 21.11.2023

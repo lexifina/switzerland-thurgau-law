@@ -1,4 +1,4 @@
-## 1. Voraussetzungen der Anerkennung
-## 2. Berechnung der Beiträge
-## 3. Verfahren
-## 4. …
+## 1. Allgemeines
+## 2. Anerkennung der Musikschulen
+## 3. Beitrag des Kantons
+## 4. Übergangs- und Schlussbestimmungen
