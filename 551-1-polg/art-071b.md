@@ -1,0 +1,3 @@
+# § 71b Beschwerde
+1 Die Entscheide des Zwangsmassnahmengerichts können innert 30 Tagen seit der Eröffnung mit Beschwerde beim Verwaltungsgericht angefochten werden. Der Beschwerde kommt keine aufschiebende Wirkung zu, sofern die Rechtsmittelinstanz nichts anderes anordnet.
+2 Die Entscheide des Zwangsmassnahmengerichts gemäss § 42 Abs. 1 können innert zehn Tagen seit der Eröffnung mit Beschwerde beim Obergericht angefochten werden. Auf das Verfahren sind die Bestimmungen über die Beschwerde gemäss StPO anwendbar. Der Beschwerde kommt keine aufschiebende Wirkung zu, sofern die Rechtsmittelinstanz nichts anderes anordnet.

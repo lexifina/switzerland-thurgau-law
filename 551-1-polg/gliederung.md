@@ -14,9 +14,10 @@
 ### 5.9. Sicherstellung
 ### 5.10. Fernhaltung und Wegschaffung von Tieren, Fahrzeugen und anderen Sachen
 ### 5.11. Polizeiliche Berichte zur Person und Personennachforschung
-## 6. Häusliche Gewalt
+## 6. Häusliche Gewalt, Gewaltschutz und Gewaltprävention
 ## 7. Angehörige der Kantonspolizei
 ## 8. Private Alarmanlagen
 ## 9. Information und Datenbearbeitung
 ## 10. Kostenersatz und Entschädigung
-## 11. Schlussbestimmungen
+## 10a Rechtsschutz
+## 11. …
