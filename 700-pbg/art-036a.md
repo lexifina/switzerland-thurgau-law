@@ -1,0 +1,5 @@
+# § 36a Gesetzliches Vorkaufsrecht
+1 Bei einem Verkauf von Erschliessungsanlagen, von Anteilen eines Versorgungsbetriebs mit Erschliessungsanlagen oder bei der Übernahme eines Betriebs mit Erschliessungsanlagen haben die durch diese Anlagen versorgten Gemeinden, der Kanton sowie die von ihnen kontrollierten Institutionen, in dieser Reihenfolge, ein gesetzliches Vorkaufsrecht.
+2 Das Vorkaufsrecht kann auch bei jedem anderen Rechtsgeschäft, das wirtschaftlich einem Verkauf gleichkommt (Vorkaufsfall), geltend gemacht werden. Es kann auch bei der Zwangsversteigerung ausgeübt werden, aber nur an der Steigerung selbst und zu den Bedingungen, zu welchen der Betrieb oder der Anteil dem Ersteigerer zugeschlagen wird.
+3 Das Vorkaufsrecht des Kantons und der von ihm kontrollierten Institutionen geht bei elektrischen Erschliessungsanlagen der Netzebenen 4 und 5A den anderen Vorkaufsrechten vor.
+4 Das Vorkaufsrecht kommt nicht zur Anwendung bei Rechtsgeschäften zwischen öffentlich-rechtlichen Körperschaften und Anstalten sowie durch vom Staat kontrollierte Institutionen und bei bestehenden Heimfallsrechten.

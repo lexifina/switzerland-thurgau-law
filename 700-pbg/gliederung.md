@@ -48,5 +48,5 @@
 ### 7.4. Kosten
 ## 8. Teil: Übergangs- und Schlussbestimmungen
 ### 8.1. Übergangsbestimmungen
-### 8.2. Änderung und Aufhebung bisherigen Rechtes
-### 8.3. Inkrafttreten
+### 8.2. …
+### 8.3. …
