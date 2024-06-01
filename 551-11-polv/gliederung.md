@@ -10,4 +10,4 @@
 ## 6. Kostenersatz
 ## 7. Polizeilicher Assistenzdienst
 ## 8. Sicherheitsorgane der Gemeinden
-## 9. Übergangs- und Schlussbestimmungen
+## 9. …
