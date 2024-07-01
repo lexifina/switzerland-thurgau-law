@@ -1,4 +1,4 @@
 StG
-# Gesetz über die Staats- und Gemeindesteuern
-(Steuergesetz; StG)
+# Steuergesetz
+(StG)
 vom 14.09.1992
