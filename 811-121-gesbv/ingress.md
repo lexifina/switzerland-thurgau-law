@@ -1,3 +1,4 @@
-RRV Berufe und Einrichtungen des Gesundheitswesens
-# Verordnung des Regierungsrates über Berufe und Einrichtungen des Gesundheitswesens
-vom 25.08.2015
+GesBV
+# Gesundheitsberufeverordnung
+(GesBV)
+vom 18.06.2024
