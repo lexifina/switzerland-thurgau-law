@@ -9,4 +9,5 @@
 ### 5.1. Spitalplanung
 ### 5.2. Spitalfinanzierung
 ## 6. Medikamentenabgabe
+## 6a. Nicht universitäre Aus- und Weiterbildung
 ## 7. Übergangs- und Schlussbestimmungen
