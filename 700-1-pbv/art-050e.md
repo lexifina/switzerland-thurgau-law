@@ -1,0 +1,5 @@
+# § 50e Baubewilligung
+1 Bei elektronischen Eingaben gemäss § 50d eröffnet die Gemeindebehörde den Entscheid über die Baubewilligung zusammen mit den weiteren erforderlichen Entscheiden und Stellungnahmen im eBau-Portal mit qualifizierter elektronischer Signatur.
+2 Von Abs. 1 ausgenommen sind Entscheide über Baubewilligungen, bei denen gleichzeitig über Einsprachen zu befinden ist. Auf Verlangen fügt die Gemeindebehörde in diesen Fällen dem Papierausdruck von qualifiziert elektronisch signierten Entscheiden und Stellungnahmen das Ergebnis der Signaturprüfung und eine Bestätigung gemäss § 8 der Verordnung des Regierungsrates betreffend die elektronische Übermittlung im Rahmen von Verwaltungs-, Zivil-, Straf- sowie Schuldbetreibungs- und Konkursverfahren (VeÜ) bei.
+3 Als Zeitpunkt der elektronischen Eröffnung und Zustellung des Entscheids über die Baubewilligung gilt das Herunterladen aus dem Postfach im eBau-Portal.
+4 Am siebten Tag nach erfolgter Bereitstellung im elektronischen Postfach im eBau-Portal gilt die Zustellung als erfolgt.

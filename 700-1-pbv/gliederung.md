@@ -13,5 +13,6 @@
 ### 3.1. Ergänzende Vorschriften zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (IVHB)
 ### 3.2. Übrige Begriffe und Messweisen
 ## 4. Mehrwertabgabe
+## 4a. Elektronische Verfahren
 ## 5. Baubewilligungs- und Kontrollverfahren
 ## 6. Übergangs- und Schlussbestimmungen
