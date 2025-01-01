@@ -22,6 +22,7 @@
 ### 7c. Konfirmationsjahr
 ### 7d. Konfirmation
 ### 7e. Kirchliche Freizeitangebote
+### 7f. Junge Erwachsene
 ## 8. Seelsorge
 ## 9. Diakonie, Mission, Ökumene, Entwicklungszusammenarbeit und Bewahrung der Schöpfung
 ### 9a. Diakonie
