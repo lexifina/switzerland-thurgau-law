@@ -1,6 +1,0 @@
-# § 16a Aufwandentschädigung für Beurkundungen und Beglaubigungen
-1 Die Entschädigung für Beurkundungen und Beglaubigungen bemisst sich nach dem Aufwand. Diese umfasst die mit Beurkundungen und Beglaubigungen notwendigerweise verbundenen Tätigkeiten, namentlich für die Feststellung der Identität, das Ermitteln des Parteiwillens, die Ausfertigung der Urkunde, die Rechtsbelehrung und für den Beurkundungsakt. In der Entschädigung nicht enthalten ist das Honorar für Beratung, rechtliche und tatsächliche Abklärungen und andere Dienstleistungen.
-2 Die Entschädigung beträgt für jedes Beurkundungsgeschäft je nach Zeitaufwand, Bedeutung und Schwierigkeit der Sache Fr. 100 bis Fr. 500.
-3 Für Beglaubigungen können je nach Aufwand Fr. 50 bis Fr. 100 gefordert werden.
-4 Diese Ansätze können bis auf höchstens das Doppelte erhöht werden, wenn die Beurkundung oder Beglaubigung in einer Fremdsprache vorzunehmen ist, oder wenn die Urkundsperson ausserhalb der üblichen Geschäftszeiten beansprucht wird oder wenn mit dem Geschäft eine besondere Verantwortung verbunden ist, wenn Urkunden und Dokumente ausländischen Rechts betroffen sind oder wenn ausserordentlicher Zeitaufwand anfällt.
-5 § 14 findet Anwendung.
