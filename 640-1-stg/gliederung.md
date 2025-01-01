@@ -60,7 +60,7 @@
 #### 1.10.2. Steuerbezug
 #### 1.10.3. Stundung und Erlass
 #### 1.10.4. Steuersicherung
-#### 1.10.5. Ablieferung und Aufteilung
+#### 1.10.5. Entschädigungen, Ablieferung und Aufteilung
 ### 1.11. Nachsteuer- und Steuerstrafverfahren
 #### 1.11.1. Nachsteuern
 #### 1.11.2. Steuerstrafverfahren
