@@ -1,6 +1,6 @@
 # § 42a Erneuerbare Energie beim Heizungsersatz
-1 Die Anforderung bezüglich erneuerbare Energie beim Heizungsersatz ist erfüllt, wenn
-1. die fachgerechte Umsetzung einer Standardlösung gemäss Anhang 3a gewährleistet ist,
+1 Die Anforderung bezüglich erneuerbarer Energie beim Heizungsersatz ist erfüllt, wenn
+1. die fachgerechte Umsetzung einer Haupt-Standardlösung (SL1 bis SL6) oder zweier Kombinations-Standardlösungen (SL7 bis SL15) gemäss Anhang 3a gewährleistet ist,
 2. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist,
 3. die Klasse D bei der Gesamtenergieeffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist,
 4. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Juli 1988 erteilt wurde,
@@ -9,3 +9,4 @@
 3 Für die Berechnung des erneuerbaren Anteils wird auf die nationalen Gewichtungsfaktoren abgestützt.
 4 Die erneuerbaren flüssigen oder gasförmigen Brennstoffe sind mit mindestens 75 % schweizerischer Biomasse zu produzieren.
 5 Die Frist für die Umsetzung einer Standardlösung beträgt maximal drei Jahre.
+6 Zur Anwendung der Haupt-Standardlösung 6 und der Kombinations-Standardlösung 15 ist eine Bezugsvereinbarung für leitungsgebundene erneuerbare gasförmige Brennstoffe mit dem Energieversorger über den jeweils geforderten Schweizer Biogasanteil zum Zeitpunkt der Inbetriebnahme des Heizungsersatzes zu vereinbaren und vorzulegen.
