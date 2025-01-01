@@ -7,4 +7,4 @@
 ### 4.3. Bauabfälle
 ## 5. Finanzierung
 ## 6. Strafbestimmungen
-## 7. Schlussbestimmungen
+## 7. …
