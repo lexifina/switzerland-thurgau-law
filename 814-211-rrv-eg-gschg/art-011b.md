@@ -1,5 +1,5 @@
 # § 11b Befüllungsverbot
-1 Bewilligungs- oder meldepflichtige Anlagen dürfen nicht befüllt werden, wenn
+1 Bewilligungs- oder meldepflichtige Anlagen dürfen nicht befüllt oder betrieben werden, wenn
 1. kein Tankdokument vorliegt,
 2. die Sanierungs- oder Kontrollfrist abgelaufen ist, oder
 3. die Anlage offensichtliche Mängel aufweist.
