@@ -5,3 +5,4 @@
 3. Ausstellungsort, -datum und -behörde
 4. Gültigkeitsdauer (befristet oder unbefristet bis auf Widerruf)
 2 Wird der bewilligungspflichtige Hund ausgeführt, ist der Bewilligungsausweis mitzuführen und bei einer Kontrolle vorzuweisen.
+3 Der Kollektivbewilligungsausweis kann abweichende Angaben enthalten.

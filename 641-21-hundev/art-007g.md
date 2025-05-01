@@ -1,0 +1,4 @@
+# § 7g Befreiung von der Bewilligungspflicht
+1 Als anerkannte Labore gemäss § 3a Abs. 4 HundeG gelten in- und ausländische Labore, die über eine Zertifizierung nach ISO/IEC 17025 oder eine Akkreditierung der Clinical Laboratory Improvement Amendments (CLIA) oder der International Society for Animal Genetics (ISAG) verfügen. Das Veterinäramt kann Gentests anderer Labore akzeptieren, die über eine gleichwertige Zertifizierung oder Akkreditierung verfügen.
+2 Die Probenahme für den Gentest gemäss § 3a Abs. 4 HundeG ist von einer Person durchzuführen, die über die Bewilligung zur Ausübung des Berufs als Tierarzt in eigener fachlicher Verantwortung verfügt. Das Veterinäramt kann auch andere Personen hierzu berechtigen oder die Probenahme selbst durchführen.
+3 Den Nachweis, dass der Gentest durch ein nach Abs. 1 anerkanntes Labor durchgeführt wurde, hat der Hundehalter auf seine Kosten zu erbringen.

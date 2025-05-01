@@ -1,2 +1,2 @@
 # § 7f Verweigerung der Bewilligung
-1 Wird das Bewilligungsgesuch nicht innert der verlangten Frist eingereicht oder rechtskräftig abgewiesen oder wird die Bewilligung rechtskräftig widerrufen, ordnet das Veterinäramt die vorsorgliche Beschlagnahme oder die Einziehung des Hundes an.
+1 Wird das Bewilligungsgesuch nicht innert der verlangten Frist eingereicht oder rechtskräftig abgewiesen oder wird die Bewilligung rechtskräftig widerrufen, beschlagnahmt das Veterinäramt den Hund und zieht diesen zur geeigneten Neuplatzierung ein. Ist keine Neuplatzierung möglich, veranlasst es die Tötung des Hundes und die Beseitigung des Kadavers. Die Kosten für die Unterbringung und Versorgung bis zur Neuplatzierung sowie für die Tötung und Beseitigung trägt der Hundehalter.
