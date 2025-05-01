@@ -1,10 +1,10 @@
 # § 3b Bewilligungsvoraussetzungen und -verfahren
-1 Die Bewilligung wird erteilt, wenn Art und Umstände, wie der Hund gehalten wird, und die Beurteilung seines Wesens einer Bewilligung nicht offensichtlich entgegen stehen, und die gesuchstellende Person:
+1 Die Bewilligung wird erteilt, wenn Art und Umstände, wie der Hund gehalten wird, und die Beurteilung seines Wesens einer Bewilligung nicht offensichtlich entgegenstehen und wenn die gesuchstellende Person:
 1. volljährig und urteilsfähig ist
 2. einen festen Wohnsitz hat
 3. über einen ungetrübten Leumund verfügt und nicht wegen Gewaltdelikten, schweren Betäubungsmitteldelikten, Förderung der Prostitution oder weiteren Delikten vorbestraft ist, welche das Halten eines potentiell gefährlichen Hundes als problematisch für das Leben, die Gesundheit oder das Eigentum Dritter erscheinen lassen
 4. ausreichende Kenntnisse über die Haltung und den Umgang mit Hunden nachweist
-5. den Nachweis erbringt, dass der Hund aus einer Zucht und Haltung stammt, die den kynologischen Anforderungen genügt und der eidgenössischen Tierschutzgesetzgebung entspricht
+5. die Herkunft des Hundes nachweist
 6. einen verlangten Kostenvorschuss fristgerecht bezahlt hat
 7. den Abschluss einer Haftpflichtversicherung gemäss § 1a nachweist
 2 Sie kann mit Auflagen an die Ausbildung des Hundehalters und an die Erziehung des Hundes sowie mit Anforderungen an die Haltung verbunden werden.

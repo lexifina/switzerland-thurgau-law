@@ -1,4 +1,4 @@
 HundeG
-# Gesetz über das Halten von Hunden
+# Hundegesetz
 (HundeG)
 vom 05.12.1983

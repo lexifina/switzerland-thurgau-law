@@ -1,4 +1,5 @@
 # § 3a Bewilligungspflicht für potentiell gefährliche Hunde
-1 Wer einen potentiell gefährlichen Hund oder einen Hund aus einer Kreuzung mit einem potentiell gefährlichen Hund im Kantonsgebiet halten oder ausführen will, benötigt eine kantonale Bewilligung.
+1 Wer einen potentiell gefährlichen Hund im Kantonsgebiet halten, betreuen oder ausführen will, benötigt eine kantonale Bewilligung.
 2 Als potentiell gefährliche Hunde gelten alle Vertreter von Hunderassen, bei welchen aufgrund ihrer Zucht und Abstammung oder aufgrund von Erfahrungswerten ein erhöhtes Gefährdungspotential wie zum Beispiel ein Aggressionspotential erwartet werden muss. Mit eingeschlossen sind neben rassenreinen Hunden auch Kreuzungen mit solchen Rassen und Einzelhunde, deren äusseres Erscheinungsbild vermuten lässt, dass sie von einer potentiell gefährlichen Rasse abstammen.
 3 Der Regierungsrat bezeichnet die als potentiell gefährlich eingestuften Hunderassen und Hundegruppen.
+4 Von der Bewilligungspflicht ausgenommen sind Hunde, bei denen aufgrund eines Gentests eines anerkannten Labors nachgewiesen ist, dass sie weniger als 50 % einer potentiell gefährlichen Hunderasse in sich tragen.
