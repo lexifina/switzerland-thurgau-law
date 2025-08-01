@@ -10,7 +10,7 @@
 8. Geschichte
 9. Geografie
 10. Wirtschaft und Recht
-11. Psychologie
+11. …
 12. Sport
 13. Musik
 14. Bildnerisches Gestalten/Werken
