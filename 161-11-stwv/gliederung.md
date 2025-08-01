@@ -10,7 +10,7 @@
 ## 4. Stimmabgabe
 ### 4.1. Vorzeitige und briefliche Stimmabgabe
 ### 4.2. Stimmabgabe an der Urne
-### 4.3. Elektronische Stimmabgabe für Auslandschweizerinnen und -schweizer
+### 4.3. Elektronische Stimmabgabe im Versuchsbetrieb
 ## 5. Ermittlung der Ergebnisse
 ### 5.1. Gemeinsame Bestimmungen
 ### 5.2. Besondere Bestimmungen für Proporzwahlen
