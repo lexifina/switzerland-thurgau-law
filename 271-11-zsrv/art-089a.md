@@ -1,0 +1,2 @@
+# § 89a Zuständigkeit für Einigungsverhandlungen
+1 Das Obergericht kann auf Antrag des Amts für Betreibungs- und Konkurswesen die Vornahme der Einigungsverhandlung gemäss Art. 9 Abs. 3 der Verordnung des Bundesrats über die Pfändung und Verwertung von Anteilen an Gemeinschaftsvermögen (VVAG) und Art. 73e Abs. 5 der Verordnung des Bundesgerichts über die Zwangsverwertung von Grundstücken (VZG) an das Bezirksgericht überweisen.
