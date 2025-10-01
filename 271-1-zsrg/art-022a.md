@@ -1,0 +1,6 @@
+# § 22a Massnahmen, wenn ein ordentlicher Betrieb nicht mehr möglich ist
+1 Ist bei einem Bezirksgericht ein ordentlicher Betrieb wegen längerer Abwesenheit von Berufsrichterinnen oder Berufsrichtern infolge Schwangerschaft und Mutterschaft, Erfüllung gesetzlicher Pflichten, Krankheit, Unfall oder wegen Überbelastung mit ausserordentlich aufwendigen Verfahren nicht mehr gewährleistet, kann das Obergericht
+1. die Pensen der Mitglieder und Mitarbeiterinnen oder Mitarbeiter des Bezirksgerichtes erhöhen und die befristete Anstellung ausserordentlicher Gerichtsschreiberinnen oder Gerichtsschreiber bewilligen oder
+2. für einzelne Fälle im Einverständnis mit den Parteien ein anderes Bezirksgericht als Ersatzgericht bezeichnen.
+2 Unter den Voraussetzungen von Abs. 1 kann der Grosse Rat auf Antrag des Obergerichtes für maximal zwei Jahre eine ausserordentliche Berufsrichterin oder einen ausserordentlichen Berufsrichter wählen.
+3 Die ausserordentliche Berufsrichterin oder der ausserordentliche Berufsrichter darf ausserhalb des Bezirks eine berufsmässige Tätigkeit als Anwältin oder Anwalt ausüben. Sie oder er darf weder beim Obergericht noch beim Zwangsmassnahmengericht angestellt sein oder einer Schlichtungsbehörde im gleichen Bezirk angehören.
