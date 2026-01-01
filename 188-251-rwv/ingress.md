@@ -1,5 +1,5 @@
-V des Kath. Kirchenrates - Rechnungswesen der kath. Kirchgemeinden
-# Verordnung des Katholischen Kirchenrates über das Rechnungswesen der katholischen Kirchgemeinden
-vom 08.12.2004
-Der Katholische Kirchenrat, gestützt auf § 115 Abs. 4 KOG
-beschliesst:
+RWV
+# Verordnung des Katholischen Kirchenrats über das Rechnungswesen
+(RWV)
+vom 10.12.2025
+Erlassen vom Kirchenrat der Katholischen Landeskirche des Kantons Thurgau gestützt auf § 25 des Gesetzes der Katholischen Synode über die katholischen Kirchgemeinden des Kanton Thurgau (KGG) und § 26 Abs. 1 des Gesetzes der Katholischen Synode über die Katholische Landeskirche (LKG).
