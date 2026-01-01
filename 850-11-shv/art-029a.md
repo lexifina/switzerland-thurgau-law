@@ -4,4 +4,4 @@
 1. Die Einrichtung verfügt über eine Betriebsbewilligung des Kantons
 2. Angebot und Konzept der Einrichtung entsprechen einem ausgewiesenen qualitativen und quantitativen Bedarf des Kantons und stimmen mit seiner Angebotsplanung überein
 3. die Einrichtung erfüllt die Voraussetzungen der Gemeinnützigkeit und bietet Gewähr für die zweckentsprechende und effiziente Verwendung der finanziellen Beiträge
-4. die Einrichtung führt eine Kostenrechnung gemäss den Vorgaben des kantonalen Fürsorgeamtes
+4. die Einrichtung führt eine Kostenrechnung gemäss den Vorgaben des Sozialamtes des Kantons Thurgau

@@ -24,7 +24,7 @@
 ### 4.8. Sicherungsmassregeln
 #### 4.8.1. Grundsatz
 #### 4.8.2. Siegelung
-#### 4.8.3. Erbschaftsinventar
+#### 4.8.3. Amtliches Inventar
 #### 4.8.4. Erbschaftsverwaltung
 ### 4.9. Amtliche Liquidation
 ### 4.10. Amtliche Mitwirkung bei der Teilung
