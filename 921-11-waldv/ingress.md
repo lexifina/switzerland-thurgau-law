@@ -1,4 +1,4 @@
-TG WaldV
-# Verordnung des Regierungsrates zum Waldgesetz
-(TG WaldV)
+WaldV
+# Waldverordnung
+(WaldV)
 vom 26.03.1996
