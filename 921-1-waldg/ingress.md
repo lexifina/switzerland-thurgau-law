@@ -1,4 +1,4 @@
-TG WaldG
+WaldG
 # Waldgesetz
-(TG WaldG)
+(WaldG)
 vom 14.09.1994

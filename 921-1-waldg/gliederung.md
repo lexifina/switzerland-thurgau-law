@@ -4,5 +4,6 @@
 ## 4. Bewirtschaftung des Waldes
 ## 5. Ausbildung, administrative Massnahmen
 ## 6. Beiträge
-## 7. Strafbestimmungen
-## 8. Übergangs- und Schlussbestimmungen
+## 6a. Besondere Bestimmungen
+## 7. …
+## 8. …
