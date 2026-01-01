@@ -1,3 +1,3 @@
-Reglement DEK Ausbildung Pflegefachperson HF
-# Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
-vom 30.08.2010
+Reglement diplomierte Pflegefachpersonen HF
+# Reglement des Departements für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
+vom 19.12.2025
