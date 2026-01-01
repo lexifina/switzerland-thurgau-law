@@ -5,7 +5,7 @@
 ### 2.3. …
 ## 3. Pflegeversorgung im Pflegeheim und im ambulanten Bereich sowie Hilfe und Betreuung
 ### 3.1. Stationäre Pflegeversorgung im Pflegeheim
-### 3.2. Ambulante Pflege sowie Hilfe und Betreuung
+### 3.2. Ambulante Pflege sowie Hauswirtschaft und Betreuung
 ## 4. Spitalplanung und -finanzierung
 ### 4.1. Spitalplanung
 ### 4.2. Spitalfinanzierung

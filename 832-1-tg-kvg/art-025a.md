@@ -1,0 +1,3 @@
+# § 25a Festsetzung der Pflegetarife von Pflegeleistungen von Angehörigen
+1 Der Regierungsrat legt die Pflegetarife für die Restfinanzierung der zulasten der Sozialversicherungen abgerechneten Pflegeleistungen von pflegenden Angehörigen fest. Er berücksichtigt dabei die durchschnittlichen Bruttolöhne der pflegenden Angehörigen und deren Ausbildungsstand sowie einen Beitrag für deren Anleitung und fachliche Aufsicht durch Pflegefachpersonen mit Ausbildungsstand gemäss dem Bundesgesetz über die Gesundheitsberufe (GesBG).
+2 Restfinanzierungsbeiträge werden bis zum vollendeten AHV-Referenzalter der pflegenden Angehörigen gewährt.
