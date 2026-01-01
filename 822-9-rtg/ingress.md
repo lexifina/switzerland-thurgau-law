@@ -1,4 +1,4 @@
 RTG
-# Gesetz über die öffentlichen Ruhetage
-(Ruhetagsgesetz, RTG)
-vom 11.05.1989
+# Ruhetagsgesetz
+(RTG)
+vom 05.02.2025
