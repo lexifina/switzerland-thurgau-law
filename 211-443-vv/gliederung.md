@@ -8,4 +8,4 @@
 ### 5.3. Periodische Nachführung
 ### 5.4. Unterhalt
 ## 6. Weitere Bestimmungen
-## 7. Schlussbestimmungen
+## 7. …
