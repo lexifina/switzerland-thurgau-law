@@ -1,5 +1,4 @@
-Verfügung DBU - Forstliche Planungsvorschriften
+Forstliche Planungsvorschriften DBU
 # Forstliche Planungsvorschriften des Departementes für Bau und Umwelt
 vom 15.11.2004
-Gestützt auf Art. 20 des Waldgesetzes (WaG; SR 921.0) und Art. 18 der Waldverordnung (WaV; SR 921.01) sowie
-§ 9 Abs. 1 WaldG (RB 921.1) und § 1 Abs. 2 und § 24 WaldV (RB 921.11).
+Erlassen vom Departement für Bau und Umwelt gestützt auf Art. 20 des Bundesgesetzes über den Wald (WaG) und Art. 18 der Verordnung über den Wald (WaV) sowie § 19 Abs. 1 des Waldgesetzes (WaldG) und § 1 Abs. 2 und § 24 der Waldverordnung (WaldV).
