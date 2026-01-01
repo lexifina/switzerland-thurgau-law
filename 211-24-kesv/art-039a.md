@@ -32,5 +32,6 @@
 27. Antrag auf Verschollenerklärung (Art. 550 ZGB)
 28. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1bis ZGB)
 29. …
+29a. Bescheinigungen betreffend die elterliche Sorge in nationalen Verhältnissen
 30. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52fbis der Verordnung über die Alters- und Hinterlassenenversicherung)
 31. Antrag zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 lit. b ZPO)
