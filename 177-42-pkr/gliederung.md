@@ -7,7 +7,7 @@
 ## 5. Leistungen
 ### 5.1. Altersrente und Kapitalauszahlung
 ### 5.2. Überbrückungsrente
-### 5.3. Pensionierten-Kinderrente
+### 5.3. …
 ### 5.4. Zusatzrente
 ### 5.5. Invalidenrente
 ### 5.6. Invaliden-Kinderrente
@@ -16,7 +16,7 @@
 ### 5.9. Rente für geschiedene Ehegatten / aufgelöste eingetragene Partnerschaft
 ### 5.10. Waisenrente
 ### 5.11. Todesfallkapital
-### 5.12. Leistungen aus dem Hilfsfonds
+### 5.12. …
 ## 6. Austritt
 ## 7. Ehescheidung und Finanzierung von Wohneigentum
 ## 8. Gemeinsame Bestimmungen
