@@ -9,4 +9,5 @@
 ## 4. Spitalplanung und -finanzierung
 ### 4.1. Spitalplanung
 ### 4.2. Spitalfinanzierung
+## 4a. Zulassung und Zulassungssteuerung
 ## 5. …
