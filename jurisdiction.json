@@ -1,0 +1,11 @@
+{
+  "path": "ch-tg",
+  "code": "CH-TG",
+  "name": "Thurgau",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-thurgau-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (314 acts, 913 versions) from the RB",
+  "language": "de",
+  "sources": 1
+}
