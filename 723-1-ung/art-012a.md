@@ -1,0 +1,5 @@
+# § 12a Koordination zwischen Nutzungsplänen sowie Bewilligung und Konzession
+1 Bedarf die Errichtung, Änderung oder Erweiterung von Bauten oder Anlagen, die für die Ausübung einer bewilligungs- oder konzessionspflichtigen Nutzung erforderlich sind, neben einer Bewilligung gemäss § 12 der Änderung der Nutzungsplanung nach Planungs- und Baugesetz (PBG), können die Verfahren zeitlich koordiniert werden.
+2 Die neuen und abgeänderten Nutzungspläne sowie das Konzessions- oder Bewilligungsgesuch sind gemeinsam öffentlich aufzulegen.
+3 Bedarf das Vorhaben einer Bewilligung, entscheidet die Behörde gleichzeitig über das Gesuch um Genehmigung der Nutzungsplanung und das Bewilligungsgesuch. Die Bewilligung erfolgt unter dem Vorbehalt der Inkraftsetzung der Nutzungsplanung.
+4 Bedarf das Vorhaben einer Konzession, ist der Entscheid den Parteien zusammen mit den Genehmigungs- und Rechtsmittelentscheiden über die Nutzungsplanung zu eröffnen. Die Konzession erfolgt unter dem Vorbehalt der Inkraftsetzung der Nutzungsplanung.
