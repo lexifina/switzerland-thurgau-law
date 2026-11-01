@@ -7,6 +7,7 @@
 ##### 2.2.2.1. Rahmennutzungsplan
 ###### 2.2.2.1.1. Zonenplan und Baureglement
 ###### 2.2.2.1.2. Besondere Vorschriften für einzelne Zonen
+###### 2.2.2.1.3. Kantonale Nutzungszonen
 ##### 2.2.2.2. Sondernutzungspläne
 #### 2.2.3. Öffentliche Bekanntmachung und Planauflage
 ### 2.3. Plansicherung
