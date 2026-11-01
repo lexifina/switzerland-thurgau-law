@@ -15,4 +15,6 @@
 ## 4. Mehrwertabgabe
 ## 4a. Elektronische Verfahren
 ## 5. Baubewilligungs- und Kontrollverfahren
+## 5a. Meldeverfahren
+## 5b. Bauten und Anlagen ausserhalb der Bauzone
 ## 6. Übergangs- und Schlussbestimmungen
