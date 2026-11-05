@@ -1,6 +1,6 @@
 # Planungs- und Baugesetz
 
-PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700>
+PBG · 7 versions, from 2013-01-01 (latest in force: 2026-11-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,9 +25,15 @@ PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 19 | [art-019.md](art-019.md) | 0 |  |
 | § 20 | [art-020.md](art-020.md) | 0 |  |
 | § 21 | [art-021.md](art-021.md) | 0 |  |
-| § 22 | [art-022.md](art-022.md) | 0 |  |
+| § 22 | [art-022.md](art-022.md) | 1 | 2026-11-01 |
+| § 22a | [art-022a.md](art-022a.md) | 1 | 2026-11-01 |
+| § 22b | [art-022b.md](art-022b.md) | 1 | 2026-11-01 |
+| § 22c | [art-022c.md](art-022c.md) | 1 | 2026-11-01 |
+| § 22d | [art-022d.md](art-022d.md) | 1 | 2026-11-01 |
+| § 22e | [art-022e.md](art-022e.md) | 1 | 2026-11-01 |
+| § 22f | [art-022f.md](art-022f.md) | 1 | 2026-11-01 |
 | § 23 | [art-023.md](art-023.md) | 0 |  |
-| § 24 | [art-024.md](art-024.md) | 2 | 2024-06-01 |
+| § 24 | [art-024.md](art-024.md) | 3 | 2026-11-01 |
 | § 25 | [art-025.md](art-025.md) | 1 | 2024-06-01 |
 | § 26 | [art-026.md](art-026.md) | 0 |  |
 | § 27 | [art-027.md](art-027.md) | 1 | 2018-01-01 |
@@ -36,7 +42,7 @@ PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 29 | [art-029.md](art-029.md) | 0 |  |
 | § 30 | [art-030.md](art-030.md) | 1 | 2024-06-01 |
 | § 31 | [art-031.md](art-031.md) | 0 |  |
-| § 32 | [art-032.md](art-032.md) | 0 |  |
+| § 32 | [art-032.md](art-032.md) | 1 | 2026-11-01 |
 | § 33 | [art-033.md](art-033.md) | 0 |  |
 | § 34 | [art-034.md](art-034.md) | 0 |  |
 | § 35 | [art-035.md](art-035.md) | 0 |  |
@@ -81,7 +87,7 @@ PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 72 | [art-072.md](art-072.md) | 1 | 2024-06-01 |
 | § 73 | [art-073.md](art-073.md) | 1 | 2018-01-01 |
 | § 74 | [art-074.md](art-074.md) | 1 | 2018-01-01 |
-| § 75 | [art-075.md](art-075.md) | 0 |  |
+| § 75 | [art-075.md](art-075.md) | 1 | 2026-11-01 |
 | § 76 | [art-076.md](art-076.md) | 1 | 2018-01-01 |
 | § 77 | [art-077.md](art-077.md) | 0 |  |
 | § 78 | [art-078.md](art-078.md) | 0 |  |
@@ -105,21 +111,23 @@ PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 96 | [art-096.md](art-096.md) | 0 |  |
 | § 97 | [art-097.md](art-097.md) | 0 |  |
 | § 98 | [art-098.md](art-098.md) | 1 | 2024-06-01 |
-| § 99 | [art-099.md](art-099.md) | 3 | 2024-06-01 |
+| § 99 | [art-099.md](art-099.md) | 4 | 2026-11-01 |
 | § 100 | [art-100.md](art-100.md) | 0 |  |
 | § 101 | [art-101.md](art-101.md) | 0 |  |
 | § 102 | [art-102.md](art-102.md) | 0 |  |
 | § 103 | [art-103.md](art-103.md) | 0 |  |
-| § 104 | [art-104.md](art-104.md) | 1 | 2018-01-01 |
-| § 105 | [art-105.md](art-105.md) | 1 | 2018-01-01 |
+| § 104 | [art-104.md](art-104.md) | 2 | 2026-11-01 |
+| § 105 | [art-105.md](art-105.md) | 2 | 2026-11-01 |
 | § 106 | [art-106.md](art-106.md) | 0 |  |
-| § 107 | [art-107.md](art-107.md) | 0 |  |
+| § 107 | [art-107.md](art-107.md) | 1 | 2026-11-01 |
+| § 107a | [art-107a.md](art-107a.md) | 1 | 2026-11-01 |
 | § 108 | [art-108.md](art-108.md) | 0 |  |
 | § 109 | [art-109.md](art-109.md) | 0 |  |
-| § 110 | [art-110.md](art-110.md) | 0 |  |
+| § 110 | [art-110.md](art-110.md) | 1 | 2026-11-01 |
 | § 111 | [art-111.md](art-111.md) | 0 |  |
-| § 112 | [art-112.md](art-112.md) | 0 |  |
-| § 113 | [art-113.md](art-113.md) | 0 |  |
+| § 112 | [art-112.md](art-112.md) | 1 | 2026-11-01 |
+| § 112a | [art-112a.md](art-112a.md) | 1 | 2026-11-01 |
+| § 113 | [art-113.md](art-113.md) | 1 | 2026-11-01 |
 | § 114 | [art-114.md](art-114.md) | 0 |  |
 | § 115 | [art-115.md](art-115.md) | 1 | 2018-01-01 |
 | § 116 | [art-116.md](art-116.md) | 0 |  |
@@ -134,5 +142,5 @@ PBG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 124 | [art-124.md](art-124.md) | 1 | 2018-01-01 |
 | § 125–126 | [art-125126.md](art-125126.md) | 1 | 2024-06-01 |
 | § 127 | [art-127.md](art-127.md) | 1 | 2024-06-01 |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2024-06-01 |
+| Gliederung | [gliederung.md](gliederung.md) | 2 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2018-01-01 |

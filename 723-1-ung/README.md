@@ -1,6 +1,6 @@
 # Gesetz über die Nutzung des Untergrundes
 
-UNG · 2 versions, from 2016-04-01 (latest in force: 2021-01-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/723.1>
+UNG · 3 versions, from 2016-04-01 (latest in force: 2026-11-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/723.1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,7 @@ UNG · 2 versions, from 2016-04-01 (latest in force: 2021-01-01) · <https://www
 | § 10 | [art-010.md](art-010.md) | 1 | 2021-01-01 |
 | § 11 | [art-011.md](art-011.md) | 0 |  |
 | § 12 | [art-012.md](art-012.md) | 1 | 2021-01-01 |
+| § 12a | [art-012a.md](art-012a.md) | 1 | 2026-11-01 |
 | § 13 | [art-013.md](art-013.md) | 0 |  |
 | § 14 | [art-014.md](art-014.md) | 0 |  |
 | § 15 | [art-015.md](art-015.md) | 0 |  |

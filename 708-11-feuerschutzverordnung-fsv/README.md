@@ -4,6 +4,12 @@ Feuerschutzverordnung, FSV · 4 versions, from 2011-01-01 (latest in force: 2021
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annex PDF page 1 | [annex-page-001.md](annex-page-001.md) | 1 | 2021-01-01 |
+| Annex PDF page 2 | [annex-page-002.md](annex-page-002.md) | 1 | 2021-01-01 |
+| Annex PDF page 3 | [annex-page-003.md](annex-page-003.md) | 1 | 2021-01-01 |
+| Annex PDF page 5 | [annex-page-005.md](annex-page-005.md) | 1 | 2021-01-01 |
+| Annex PDF page 7 | [annex-page-007.md](annex-page-007.md) | 1 | 2021-01-01 |
+| Annex PDF page 9 | [annex-page-009.md](annex-page-009.md) | 1 | 2021-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2021-01-01 |
 | § 2 | [art-002.md](art-002.md) | 2 | 2021-01-01 |
 | § 3 | [art-003.md](art-003.md) | 2 | 2021-01-01 |

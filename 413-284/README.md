@@ -4,6 +4,7 @@ RB 413.284 · 4 versions, from 2014-02-01 (latest in force: 2024-02-01) · <http
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annex PDF page 1 | [annex-page-001.md](annex-page-001.md) | 1 | 2024-02-01 |
 | § 1 | [art-001.md](art-001.md) | 0 |  |
 | § 2 | [art-002.md](art-002.md) | 2 | 2021-02-01 |
 | § 2bis | [art-002bis.md](art-002bis.md) | 1 | 2019-08-01 |

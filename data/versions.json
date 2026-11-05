@@ -65,7 +65,7 @@
     },
     {
      "from": "2022-06-01",
-     "units": 64,
+     "units": 66,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/131.1",
      "sha256": "ebbe00c1c48555748597d8781747d9b77b3f5f3f0e35dd793ad5c809bb2908ab"
     }
@@ -337,7 +337,7 @@
     },
     {
      "from": "2022-01-01",
-     "units": 64,
+     "units": 65,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.22",
      "sha256": "18413767b3714a5583c584b22248d18d524827c13dabcd6e26546b5ac4de1a16"
     }
@@ -1082,6 +1082,12 @@
      "units": 132,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700",
      "sha256": "a26fa62a11aca6b45fa6a23e355b6f2402725d09d6ed2386192b8f14b63cf886"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 140,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700",
+     "sha256": "2aba9c603dd5c0438398cfea6ac694a1d4bfa5487e4f6d1879642e2d15a5d14a"
     }
    ]
   },
@@ -1214,6 +1220,12 @@
      "units": 37,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/721.8",
      "sha256": "ee25e7d8db9ae474145029d57d540fcd3f907a6b1fc93ec19f28a197ec664d0e"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 38,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/721.8",
+     "sha256": "fe177f164156bc27c6f2be7bd047aad6ea668f04744c7d334d4159efcbc0383d"
     }
    ]
   },
@@ -1234,6 +1246,12 @@
      "units": 30,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/723.1",
      "sha256": "8c0e66e5a6a33bdcf38cba07ce119509877514957831b92b995f06262369362e"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 31,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/723.1",
+     "sha256": "16fbf4e7358dd2a702c42fa438b6f47924c710dd58ee72078a5861ed631e8d62"
     }
    ]
   },
@@ -1257,7 +1275,7 @@
     },
     {
      "from": "2023-07-01",
-     "units": 74,
+     "units": 79,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/725.1",
      "sha256": "b43f2f3a557f8ee8695da7fc3198767a7fcd8b7ee5f2d872b4710ff08cb531aa"
     }
@@ -2031,7 +2049,7 @@
     },
     {
      "from": "2023-05-01",
-     "units": 68,
+     "units": 70,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/131.21",
      "sha256": "a6873baaab15430c9223384b8568def1ff0d2969387b774b6fdf7cf711c7c6e7"
     }
@@ -2077,7 +2095,7 @@
     },
     {
      "from": "2024-01-01",
-     "units": 25,
+     "units": 26,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/142.151",
      "sha256": "377c92b9620cdd2a0978776ee5b475c8f152797f81fcb2ed4d4f3d9b0e1bfdfd"
     }
@@ -2290,6 +2308,12 @@
      "units": 30,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/172.1/versions/2602",
      "sha256": "5053216e26265698a8fd9d609bfa1cd3c5cc369ab0ae0a79878dbc56ed16b302"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 33,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/172.1",
+     "sha256": "e1a35a72c7f433e53c59c67aa94eee016096ba0b63a0a93b2ba20e0c4b1abc51"
     }
    ]
   },
@@ -2483,7 +2507,7 @@
     },
     {
      "from": "2025-10-01",
-     "units": 47,
+     "units": 52,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/177.22",
      "sha256": "66f08864c34323b6b13008f603bb4b3db41f5c57e558038ebc45cb88f9a95378"
     }
@@ -2601,7 +2625,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 85,
+     "units": 97,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/177.42",
      "sha256": "a685e19a32b4e85ad8eaa6c616e0bbea83bc51ab24d31a5f183945471f6f1f9b"
     }
@@ -2773,7 +2797,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 91,
+     "units": 110,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/177.223",
      "sha256": "2bf32f6eebd58d52ae3f0bf1424c807d5f8e5d87fc346e7dddcef15ba7666c2d"
     }
@@ -2915,7 +2939,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 36,
+     "units": 38,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.22",
      "sha256": "ebc357d287786f7fd6cd89e7616db8606d0ab003dc3f6cafabea64887804ee59"
     }
@@ -3135,7 +3159,7 @@
     },
     {
      "from": "2023-01-01",
-     "units": 38,
+     "units": 41,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.141",
      "sha256": "7c654f78d64b5b94835caf9b8e5b2466307db30bda288bca938c50b9d6e1e914"
     }
@@ -3383,7 +3407,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 69,
+     "units": 70,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.191",
      "sha256": "c31bd635478677c4f59312204e048ffbd131653e8fcafa7655ce008ca0dc50be"
     }
@@ -3525,7 +3549,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 57,
+     "units": 67,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.211",
      "sha256": "735ef443f8c313e9dfeecafbbdf7a5e061541d55ad060cbdc3fc6d1d3906ba8b"
     }
@@ -3615,7 +3639,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 64,
+     "units": 65,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.251",
      "sha256": "a2b066d51240f97cf73a576a0bf5a53f304d4c1c43a4778a5538e8efa6bd8f4c"
     }
@@ -3839,7 +3863,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 52,
+     "units": 63,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/211.442",
      "sha256": "ffdf2385a18eb83d6dd8e5b893ef0d5cca36e1660057b1b87d9ed065f40fa157"
     }
@@ -4049,7 +4073,7 @@
     },
     {
      "from": "2021-01-01",
-     "units": 7,
+     "units": 8,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/311.61",
      "sha256": "ff208de2d74c286248af19fe83761ae19c774d15368963e5a068b6ce05c40a85"
     }
@@ -4277,7 +4301,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 79,
+     "units": 81,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/411.114",
      "sha256": "4e2a84d78b441ba7fa045e11efffa6a7d27e929baefd09969c38a84baadfc375"
     }
@@ -4827,7 +4851,7 @@
     },
     {
      "from": "2024-01-01",
-     "units": 76,
+     "units": 78,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.141",
      "sha256": "8abc4262bf8a2968e4f961ca51f670955a97ab651e8080df4e8dbc5bf726e3d7"
     }
@@ -4981,7 +5005,7 @@
     },
     {
      "from": "2026-08-01",
-     "units": 33,
+     "units": 37,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.228",
      "sha256": "21b2f611854b68694a3f2cb54646b22460b3f0c1c7ab5f8c578b54ef2d4a1ef7"
     }
@@ -5049,7 +5073,7 @@
     },
     {
      "from": "2025-08-01",
-     "units": 65,
+     "units": 68,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.253",
      "sha256": "d2d57c7587bcc981a68a750a2f26108740a6cd0a004af64d404d77b2f4442634"
     }
@@ -5101,7 +5125,7 @@
     },
     {
      "from": "2024-02-01",
-     "units": 15,
+     "units": 16,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.284",
      "sha256": "199cb28705a6cca4705c59f2b091f875271f962db42dca13ff6698f40abbfae7"
     }
@@ -5191,7 +5215,7 @@
     },
     {
      "from": "2023-09-18",
-     "units": 15,
+     "units": 16,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/414.24",
      "sha256": "596cf2be122672aedc8528e5dc8c279f6a61c758f62f2bbc199de8727ac6f899"
     }
@@ -5305,7 +5329,7 @@
     },
     {
      "from": "2025-06-14",
-     "units": 50,
+     "units": 51,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/414.27",
      "sha256": "4db3bbe7ef142522014e5b029ac8004b39b55fb61e7765b8792656e54477303e"
     }
@@ -5387,7 +5411,7 @@
     },
     {
      "from": "2025-08-01",
-     "units": 33,
+     "units": 34,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/416.11",
      "sha256": "2f5d3c9f1b0c32826328ca7548520c6669847e67154a00008b5a1d4198453682"
     }
@@ -5519,7 +5543,7 @@
     },
     {
      "from": "2023-07-01",
-     "units": 59,
+     "units": 68,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/450.11",
      "sha256": "ffbea1b8bf3cb8bab1c15504328b9ea8cdbd9e4796ce3072f82875c422f9e2bd"
     }
@@ -5837,7 +5861,7 @@
     },
     {
      "from": "2019-01-01",
-     "units": 18,
+     "units": 24,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/613.11",
      "sha256": "0e972172480238f5710747703c07baa8032708b824dda7d47bb1c89469609b73"
     }
@@ -6270,6 +6294,12 @@
      "units": 74,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.1",
      "sha256": "3f83a9b35082ab64b9e879b2a068b648f380d19543cb4286e98d367797c941cc"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 88,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.1",
+     "sha256": "b9ca4fae2b5d310b448c1d8d52ee5d47326f7ca7f5e9f111bebea4ce1c8d97ed"
     }
    ]
   },
@@ -6287,7 +6317,7 @@
     },
     {
      "from": "2022-10-08",
-     "units": 10,
+     "units": 15,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.3",
      "sha256": "c28d942406fcf63e9736f224b80a64dcb43e700159fe7998d0822eccf59a702f"
     }
@@ -6333,7 +6363,7 @@
     },
     {
      "from": "2021-01-01",
-     "units": 63,
+     "units": 69,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/708.11",
      "sha256": "77b1814a8ec3ecff0d96018555006313bfe0f972a8ab25303f1d67bab87bb9f5"
     }
@@ -6347,7 +6377,7 @@
    "versions": [
     {
      "from": "2022-04-01",
-     "units": 13,
+     "units": 15,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/720.11",
      "sha256": "c497b3f153752917cf83f9ea8b95e9f64039f0739e1b9c0f96ba972f3302838a"
     }
@@ -6537,7 +6567,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 63,
+     "units": 71,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/731.11",
      "sha256": "a2c2ffcd2b103c1b29ca867a5202a1306b67f7d8a739aba875e3e44fbc4253ff"
     }
@@ -6871,7 +6901,7 @@
     },
     {
      "from": "2023-12-23",
-     "units": 14,
+     "units": 28,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.011",
      "sha256": "437f87233383a57ff6510d8498407af0b29fdea1b2cb5645c94831ca133cde55"
     }
@@ -6951,7 +6981,7 @@
     },
     {
      "from": "2018-04-01",
-     "units": 12,
+     "units": 16,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/817.21",
      "sha256": "b9d3a6a705de93430fffa4bb615b1b43aedb05b2d3cbb66373ce62b48bebf292"
     }
@@ -7205,7 +7235,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 14,
+     "units": 15,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/831.411",
      "sha256": "1dfa24001b4d789987d272c7bff4b2866cf047ba9b44a70a67ee51ffc65cd48a"
     }
@@ -7333,7 +7363,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 93,
+     "units": 94,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/832.10",
      "sha256": "10a69f1d7defc99f174fb089bd90fbbb0f45f6558b462a29fbf20a30282e9b48"
     }
@@ -7695,7 +7725,7 @@
     },
     {
      "from": "2024-08-01",
-     "units": 63,
+     "units": 70,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/910.11",
      "sha256": "3c2b1e1786d6384070dfebd7f94b340f3bc22ee1491d0c0ddf2a028e65750c87"
     }
@@ -7801,7 +7831,7 @@
     },
     {
      "from": "2023-01-01",
-     "units": 64,
+     "units": 67,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/923.11",
      "sha256": "166f621bc34b1fb83089b58f9a94d0764f36106465dba4673374f6f810cf3e5c"
     }
@@ -7971,7 +8001,7 @@
    "versions": [
     {
      "from": "2012-01-01",
-     "units": 6,
+     "units": 18,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/956.21",
      "sha256": "7978b7f6cd676c6f7c621de1ea962aa82b3a7d072aefc31e8ba4e130bcfaed69"
     }
@@ -7988,6 +8018,2050 @@
      "units": 20,
      "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/956.121",
      "sha256": "063138f20cbdbd18edcace58fcaa81d386fee25ad8cd3a83a00400015377c314"
+    }
+   ]
+  },
+  {
+   "slug": "110",
+   "short": "RB 110",
+   "title": "Übereinkunft zwischen dem Grossherzogtum Baden und dem Kanton Thurgau betreffend die Grenzberichtigung bei Konstanz",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/110",
+   "versions": [
+    {
+     "from": "1831-03-28",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/110",
+     "sha256": "28f5248830d8b145a937f8d78576bbf735674d4aaf1a61d510e4bbe34130e4a2"
+    }
+   ]
+  },
+  {
+   "slug": "111",
+   "short": "RB 111",
+   "title": "Beschluss der Regierungs-Kommission betreffend die Bestimmung von Farbe, Wappen und Siegel des Kantons",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/111",
+   "versions": [
+    {
+     "from": "1979-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/111",
+     "sha256": "f906f7d81bca0415d84fb61277cb61f8d34c50915ce48bd5bd7ab55590e2861a"
+    }
+   ]
+  },
+  {
+   "slug": "132",
+   "short": "RB 132",
+   "title": "Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Grenzgemeinde zürcherisch und thurgauisch Wilen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/132",
+   "versions": [
+    {
+     "from": "1886-11-22",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/132",
+     "sha256": "fe95725de01121506c99bd6d9c9f40582060145f698e57b04e69a5959461aec3"
+    }
+   ]
+  },
+  {
+   "slug": "142-611",
+   "short": "RB 142.611",
+   "title": "Weisung des Departementes für Justiz und Sicherheit betreffend Kleiner Grenzverkehr mit Deutschland",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/142.611",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/142.611",
+     "sha256": "ed8df88abddc3bc42b399e82d1e6928a5a58e2a595c271fe3d846bcfbc4b8a1f"
+    }
+   ]
+  },
+  {
+   "slug": "142-621",
+   "short": "RB 142.621",
+   "title": "Weisung des Departementes für Justiz und Sicherheit betreffend Kleiner Grenzverkehr mit Österreich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/142.621",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/142.621",
+     "sha256": "b10cbdf9c67fee1b06a3f824aef8794ee970430fd2f5e1bc395aa95c124d858c"
+    }
+   ]
+  },
+  {
+   "slug": "170-72",
+   "short": "RB 170.72",
+   "title": "Open Government Data Verordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.72",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/170.72",
+     "sha256": "91c6ba65854ebd78775a4a8188893a47722091634e5a92d5b5b4c50a1cd549da"
+    }
+   ]
+  },
+  {
+   "slug": "171-1",
+   "short": "RB 171.1",
+   "title": "Geschäftsordnung des Grossen Rats des Kantons Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/171.1",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/171.1",
+     "sha256": "06f3762c5db2838615627a01bb542ef0864953c555b6ab37512adb1b3202e55a"
+    }
+   ]
+  },
+  {
+   "slug": "171-11",
+   "short": "RB 171.11",
+   "title": "Beschluss des Grossen Rats über die Entschädigung seiner Mitglieder und der Fraktionen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/171.11",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/171.11",
+     "sha256": "c25cb6abbc59dd035bdc52dfdf8321034124d45484f001eea618ec2f356fdbd8"
+    }
+   ]
+  },
+  {
+   "slug": "171-111",
+   "short": "RB 171.111",
+   "title": "Richtlinien zur Umsetzung von § 29 Abs. 2 der Kantonsverfassung über die Unvereinbarkeit",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/171.111",
+   "versions": [
+    {
+     "from": "2022-03-19",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/171.111",
+     "sha256": "6654aa8c4124115550cacf2221915359872f78fed8605a2c7bae637e90c0e24d"
+    }
+   ]
+  },
+  {
+   "slug": "172-2",
+   "short": "RB 172.2",
+   "title": "Vereinbarung über die Konferenz der Kantonsregierungen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/172.2",
+   "versions": [
+    {
+     "from": "1993-11-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/172.2",
+     "sha256": "9c583a54b6bdfb4178fed22caef335a9a4850b03d42949c677b62c10d148b65c"
+    }
+   ]
+  },
+  {
+   "slug": "172-41",
+   "short": "RB 172.41",
+   "title": "Richtlinien für die Kommunikation der Kantonalen Verwaltung Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/172.41",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/172.41",
+     "sha256": "a69dc33cb19b36728d7371d6906c88b366254cb8d9df69f4b38de6560fff9fcd"
+    }
+   ]
+  },
+  {
+   "slug": "176-31",
+   "short": "RB 176.31",
+   "title": "Anwaltstarif in Zivil- und Strafsachen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/176.31",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/176.31",
+     "sha256": "73c4590ebe7ede8d4f9d01804b00f915956a6efadf592e14ca7bd2520c4739e6"
+    }
+   ]
+  },
+  {
+   "slug": "187-11",
+   "short": "RB 187.11",
+   "title": "Verfassung der Evangelischen Landeskirche des Kantons Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.11",
+   "versions": [
+    {
+     "from": "2004-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.11",
+     "sha256": "59b2fea628b1eec9f5b5385dcceb88294d982fd4e3ca4b760f93e9641f9bff8f"
+    }
+   ]
+  },
+  {
+   "slug": "187-12",
+   "short": "RB 187.12",
+   "title": "Kirchenordnung der Evangelischen Landeskirche des Kantons Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.12",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.12",
+     "sha256": "0eb5e7bbafead072c17bb33f877196937ca4a6dcfb16ea5c10986292598b18b6"
+    }
+   ]
+  },
+  {
+   "slug": "187-21",
+   "short": "RB 187.21",
+   "title": "Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.21",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.21",
+     "sha256": "f06aaed971fdedde253b69ba52c29003e5631c2a3d0669efe8c6c8672d7e8dcc"
+    }
+   ]
+  },
+  {
+   "slug": "187-51",
+   "short": "RB 187.51",
+   "title": "Übereinkunft betreffend die kirchliche Besorgung der in Grenzgebieten des Kantons St. Gallen wohnenden Evangelischen, welche für ihre kirchlichen Angelegenheiten einer benachbarten Pfarrgemeinde des Kantons Thurgau zugeteilt werden",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.51",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.51",
+     "sha256": "76d278e19d0eb45e19517e9efc7a453f2a533fec7e69dab8d6a13ea7a20e94ba"
+    }
+   ]
+  },
+  {
+   "slug": "187-53",
+   "short": "RB 187.53",
+   "title": "Vertrag zwischen den Kantonen Schaffhausen und Thurgau betreffend die evangelisch-reformierte Kirchgemeinde Burg bei Stein am Rhein",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.53",
+   "versions": [
+    {
+     "from": "1918-07-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.53",
+     "sha256": "e2cf8633d718cd42d1de1078e29a0222771d257c24cb99dae9c79372b412f684"
+    }
+   ]
+  },
+  {
+   "slug": "187-221",
+   "short": "RB 187.221",
+   "title": "Anstellungsrichtlinien der Evangelischen Synode des Kantons Thurgau für katechetisch und sozial-diakonisch Tätige der Kirchgemeinden",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.221",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.221",
+     "sha256": "a478b2177f858ac387a579cb75373a6a123ef40355e7ce6003fe94976256d390"
+    }
+   ]
+  },
+  {
+   "slug": "187-511",
+   "short": "RB 187.511",
+   "title": "Übereinkunft zwischen dem evangelischen Kirchenrat des Kantons St. Gallen und dem evangelischen Kirchenrat des Kantons Thurgau betreffend Aufhebung der bisherigen kirchlichen Zuteilung der Evangelischen in den politischen Gemeinden Wil und Bronschhofen zu der Gemeinde Sirnach und Einverleibung der evangelischen Einwohner der thurgauischen Ortschaft Rickenbach in die neu zu gründende Kirchgemeinde Wil",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.511",
+   "versions": [
+    {
+     "from": "1889-07-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.511",
+     "sha256": "ab5dc2a5adb79af7fd7b64f35e59784656d7ce197fecfd776b558faf8a393000"
+    }
+   ]
+  },
+  {
+   "slug": "187-512",
+   "short": "RB 187.512",
+   "title": "Nachtrag zur Übereinkunft vom 11./14. Juni 1889 betreffend Zuteilung der evangelischen Einwohner zu Rickenbach und Wilen an die evangelische Kirchgemeinde Wil",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.512",
+   "versions": [
+    {
+     "from": "1890-06-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.512",
+     "sha256": "0daab9ee0f3fbcf6caf20262e88585adad4e62dd54c46d80c13d60e8a7aa69ba"
+    }
+   ]
+  },
+  {
+   "slug": "187-520",
+   "short": "RB 187.520",
+   "title": "Übereinkunft zwischen den Ständen Zürich und Thurgau betreffend definitive Regulierung der kirchlichen Verhältnisse der Höfe Renggerschwil, Scheurli und Emmerwies",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.520",
+   "versions": [
+    {
+     "from": "1846-04-18",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.520",
+     "sha256": "6c9f4bdccc1b939bb4077769020d9d1c003b91ebef0e4383cfb7917f5d0d2fd0"
+    }
+   ]
+  },
+  {
+   "slug": "187-521",
+   "short": "RB 187.521",
+   "title": "Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Grenzortschaften zürcherisch und thurgauisch Wilen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.521",
+   "versions": [
+    {
+     "from": "1972-09-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.521",
+     "sha256": "44765ecf456128d822063c86dda0b01fa42730905fa169f820a01b7744f30b17"
+    }
+   ]
+  },
+  {
+   "slug": "187-522",
+   "short": "RB 187.522",
+   "title": "Vertrag zwischen dem Evangelischen Kirchenrat des Kantons Thurgau und dem Regierungsrat des Kantons Zürich über die Bereinigung der Grenzen zwischen der Evangelischen Kirchgemeinde Aadorf-Aawangen und der Evangelisch-reformierten Kirchgemeinde Elgg",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.522",
+   "versions": [
+    {
+     "from": "1974-04-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.522",
+     "sha256": "eb7279635389499d92bf7d77ed60f5d33385880a0ad6bd1fe43b201f21994a3b"
+    }
+   ]
+  },
+  {
+   "slug": "187-523",
+   "short": "RB 187.523",
+   "title": "Vertrag zwischen dem Regierungsrat des Kantons Zürich und dem evangelischen Kirchenrat des Kantons Thurgau über die Kirchenverhältnisse der Höfe Reggtal, Meiersboden und Horn",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.523",
+   "versions": [
+    {
+     "from": "1926-05-10",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.523",
+     "sha256": "2c33f924ec3d7608341a42802098ac2bdc94e5e7da1881c15862b65ea9e49627"
+    }
+   ]
+  },
+  {
+   "slug": "187-524",
+   "short": "RB 187.524",
+   "title": "Vertrag zwischen dem Evangelischen Kirchenrat des Kantons Thurgau und dem Regierungsrat des Kantons Zürich über die Änderung der Grenzverhältnisse zwischen der Evangelischen Kirchgemeinde Dussnang und der Evangelisch-reformierten Kirchgemeinde Sitzberg",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.524",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.524",
+     "sha256": "596c464e7693090995819dcd6541637b611d1a1374582199153b8c41bfc2899e"
+    }
+   ]
+  },
+  {
+   "slug": "187-525",
+   "short": "RB 187.525",
+   "title": "Übereinkunft «Diakonie Schweiz»",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.525",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.525",
+     "sha256": "70afff79d3b18e50f8fd717a9f5130bd2250f0fe254f909d73e83cc181675938"
+    }
+   ]
+  },
+  {
+   "slug": "187-531",
+   "short": "RB 187.531",
+   "title": "Ausführungsvertrag zwischen den evangelischen Kirchenräten von Schaffhausen und Thurgau betreffend die evangelische Kirchgemeinde Burg bei Stein am Rhein",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.531",
+   "versions": [
+    {
+     "from": "1918-07-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/187.531",
+     "sha256": "0e6e3ab2f6189ea56cef9ee4e76b5653e6adf8a49f4ac4f6ec4ab3e16f292c6c"
+    }
+   ]
+  },
+  {
+   "slug": "188-11",
+   "short": "RB 188.11",
+   "title": "Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug betreffend die Wiederherstellung und neue Umschreibung des Bistums Basel",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.11",
+   "versions": [
+    {
+     "from": "1978-07-19",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.11",
+     "sha256": "6060058dca3bb1925f06cd6609f4e2104c9adda13fccca3a0da2a08dda4ead68"
+    }
+   ]
+  },
+  {
+   "slug": "188-12",
+   "short": "RB 188.12",
+   "title": "Übereinkunft zwischen dem Heiligen Stuhl und der Regierung des Kantons Thurgau betreffend den Beitritt des hohen Standes Thurgau zum Bistum Basel",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.12",
+   "versions": [
+    {
+     "from": "1829-06-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.12",
+     "sha256": "170df038af6529b15b311f4ba322e4fa668f74c7033281c7952a82c315975e67"
+    }
+   ]
+  },
+  {
+   "slug": "188-13",
+   "short": "RB 188.13",
+   "title": "Übereinkunft zwischen den Ständen Luzern, Bern, Solothurn und Zug betreffend die Organisation des Bistums Basel",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.13",
+   "versions": [
+    {
+     "from": "1828-03-29",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.13",
+     "sha256": "d7c01dc569fefd714305a1b043cf98230bb2adb758f3b37f3f150b7823e8cc09"
+    }
+   ]
+  },
+  {
+   "slug": "188-21",
+   "short": "RB 188.21",
+   "title": "Verfassung der Katholischen Landeskirche des Kantons Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.21",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.21",
+     "sha256": "bd887c926c0064617db707880c2abfbffcf7627e59dbe448766547468dd784cc"
+    }
+   ]
+  },
+  {
+   "slug": "188-24",
+   "short": "RB 188.24",
+   "title": "Geschäftsordnung der Katholischen Synode des Kantons Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.24",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.24",
+     "sha256": "72eeb320f4e7be4cd8b11f814e248511fd40dfa9e018491c3c662ec4b648975d"
+    }
+   ]
+  },
+  {
+   "slug": "188-31",
+   "short": "RB 188.31",
+   "title": "Übereinkunft zwischen dem katholischen Administrationsrat des Kantons St. Gallen und dem katholischen Kirchenrat des Kantons Thurgau betreffend die Kollaturverhältnisse in Hagenwil, Sitterdorf und Rickenbach",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.31",
+   "versions": [
+    {
+     "from": "1869-08-06",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.31",
+     "sha256": "932befb559b9af244164cbf6570fe4f175fc37f76cc1a8196506ea8f2812771f"
+    }
+   ]
+  },
+  {
+   "slug": "188-33",
+   "short": "RB 188.33",
+   "title": "Vereinbarung über die Pastoration und die Steuerpflicht der auf dem Gebiet des Hofes Raach wohnhaften Katholiken",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.33",
+   "versions": [
+    {
+     "from": "1984-01-16",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.33",
+     "sha256": "81bbae62492064e081226ddd7cc90646a556037c9ae40babaa7fa73676c00ef3"
+    }
+   ]
+  },
+  {
+   "slug": "188-34",
+   "short": "RB 188.34",
+   "title": "Vereinbarung über die Pastoration und die Steuerpflicht der auf dem Gebiet des Hofes Ruggisberg wohnhaften Katholiken",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.34",
+   "versions": [
+    {
+     "from": "1984-01-16",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.34",
+     "sha256": "8957c9e5ee1cdecf23641388fb2f46d8398712f85dce8c88e03ae4b3464de93c"
+    }
+   ]
+  },
+  {
+   "slug": "188-131",
+   "short": "RB 188.131",
+   "title": "Zusatzvereinbarung zwischen dem Schweizerischen Bundesrat und dem Heiligen Stuhl über die Organisation des Bistums Basel",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.131",
+   "versions": [
+    {
+     "from": "1978-07-19",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.131",
+     "sha256": "6ed6577b8c4406cd52726442408dd7f4933c4ea51b3dc9a2568710d28cbbbaa5"
+    }
+   ]
+  },
+  {
+   "slug": "188-271",
+   "short": "RB 188.271",
+   "title": "Weisung des Katholischen Kirchenrates betreffend Verwendung der katholischen Armenfonds",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.271",
+   "versions": [
+    {
+     "from": "1966-11-26",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/188.271",
+     "sha256": "9ab1f0b22cf1c03485014e3476ba25b3a8be2786d7bd26e6c2e276eec9a63de3"
+    }
+   ]
+  },
+  {
+   "slug": "211-24",
+   "short": "RB 211.24",
+   "title": "Kindes- und Erwachsenenschutzverordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/211.24",
+     "sha256": "b1b2ec7b21f6bb01af9a09e1ee0d866883a2f6e5087c4b995ad5a9d59332730d"
+    }
+   ]
+  },
+  {
+   "slug": "211-435",
+   "short": "RB 211.435",
+   "title": "Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über Grundstücke, die in den beiden Kantonen liegen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.435",
+   "versions": [
+    {
+     "from": "1927-02-04",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/211.435",
+     "sha256": "29e7a48dc67969fe4f217ac255db8fa7bb301dcdcd720c81bccd525af0fb3d2f"
+    }
+   ]
+  },
+  {
+   "slug": "211-436",
+   "short": "RB 211.436",
+   "title": "Übereinkommen zwischen den Regierungen der Kantone St. Gallen und Thurgau betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über dingliche Rechte an Grundstücken, die in beiden Kantonen liegen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.436",
+   "versions": [
+    {
+     "from": "1938-11-29",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/211.436",
+     "sha256": "04a26e7ab09b1735ca3315daf8cc25f591fef16b41073e868f42e760a43c577d"
+    }
+   ]
+  },
+  {
+   "slug": "211-445",
+   "short": "RB 211.445",
+   "title": "Geoinformationsweisung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.445",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/211.445",
+     "sha256": "7fd2010bc32b2e53f2b9993cb89cf4303c95bf485071639c43875172c5b590d6"
+    }
+   ]
+  },
+  {
+   "slug": "218-5",
+   "short": "RB 218.5",
+   "title": "Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die neue Feststellung der notarialischen Fertigungsgrenze für die auf der Kantonsgrenze Zürich-Thurgau liegenden Grundstücke der Gemeinden Ossingen, Waltalingen, zürcherisch Wilen und Oberneunforn",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/218.5",
+   "versions": [
+    {
+     "from": "1907-11-30",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/218.5",
+     "sha256": "07b873292c12ca7a9e7ad8524be0fe5803c4d246de056fe968ce56b4ca65f0a0"
+    }
+   ]
+  },
+  {
+   "slug": "271-11",
+   "short": "RB 271.11",
+   "title": "Zivil- und Strafrechtspflegeverordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/271.11",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/271.11",
+     "sha256": "04aae8c95c92d8d58a7dbcc4114ddb69a09386fbd62a5b905fb79ecbc2342ba8"
+    }
+   ]
+  },
+  {
+   "slug": "281-31",
+   "short": "RB 281.31",
+   "title": "Übereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg betreffend die Konkursverhältnisse und die gleiche Behandlung der beiderseitigen Staatsangehörigen in Konkursfällen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/281.31",
+   "versions": [
+    {
+     "from": "1826-05-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/281.31",
+     "sha256": "da9e3a2aa97a91364e37e92808ed6e5040d8333c5fe411d108324d1518b0917b"
+    }
+   ]
+  },
+  {
+   "slug": "281-32",
+   "short": "RB 281.32",
+   "title": "Übereinkunft zwischen den schweizerischen Kantonen Zürich, Bern, Luzern, Unterwalden (ob und nid dem Wald), Freiburg, Solothurn, Basel (Stadt- und Landteil), Schaffhausen, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf sowie Appenzell AR und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/281.32",
+   "versions": [
+    {
+     "from": "1834-06-27",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/281.32",
+     "sha256": "f6c2d0f0c3bb8a70d16f697e7f34702e82705a8a802cf0ceb984442d546880bb"
+    }
+   ]
+  },
+  {
+   "slug": "311-4",
+   "short": "RB 311.4",
+   "title": "Interkantonale Vereinbarung (beziehungsweise Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/311.4",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/311.4",
+     "sha256": "8f1557d1bac3bd64783ab23dba9159f394fd70491e7c11d76c498431322b8692"
+    }
+   ]
+  },
+  {
+   "slug": "341-1",
+   "short": "RB 341.1",
+   "title": "Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/341.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/341.1",
+     "sha256": "7e07cb2a88b27ba4d887a0f15045894c40658ae4728f146eadc918961be27604"
+    }
+   ]
+  },
+  {
+   "slug": "411-71",
+   "short": "RB 411.71",
+   "title": "Vereinbarung über die Schul- und Steuerverhältnisse in Grenzgebieten des Kantons St. Gallen zum Kanton Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.71",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/411.71",
+     "sha256": "5c2e9b19b2f3e3d83b10d9f5d6e14fda9ead16c73e563ea1a89693537fba63f6"
+    }
+   ]
+  },
+  {
+   "slug": "411-72",
+   "short": "RB 411.72",
+   "title": "Vereinbarung über den Schulbesuch der Kinder von Steinach auf der Oberstufe",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.72",
+   "versions": [
+    {
+     "from": "1998-08-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/411.72",
+     "sha256": "720093ad8b2206a896e34b1e05fc2e0754a6327118c9abab3351069121282ad0"
+    }
+   ]
+  },
+  {
+   "slug": "411-74",
+   "short": "RB 411.74",
+   "title": "Rahmenvertrag zwischen dem Kanton Thurgau und dem Kanton Zürich über den kantonsübergreifenden Schulbesuch",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.74",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/411.74",
+     "sha256": "6122805a473083f221b44e3c7e73f6fd983a40324aaae76b20eae52775e6d9d4"
+    }
+   ]
+  },
+  {
+   "slug": "411-75",
+   "short": "RB 411.75",
+   "title": "Konkordat über die Schulkoordination",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.75",
+   "versions": [
+    {
+     "from": "1970-12-14",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/411.75",
+     "sha256": "8b8fd3f13e1fd2ab062ce603a5989615f1cdd18703f48a04c4d3ebc2177f7c51"
+    }
+   ]
+  },
+  {
+   "slug": "412-612",
+   "short": "RB 412.612",
+   "title": "Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.612",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.612",
+     "sha256": "676f29c80d37a517eb74ec191eb67f1ba7fd60383c64d561e612d14febb1aef0"
+    }
+   ]
+  },
+  {
+   "slug": "412-613",
+   "short": "RB 412.613",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.613",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.613",
+     "sha256": "53d12ee3e680bba8a45a75c164b7d6e8e91985fec498c26ea372af1b50724623"
+    }
+   ]
+  },
+  {
+   "slug": "412-615",
+   "short": "RB 412.615",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.615",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.615",
+     "sha256": "5e0c4b242a3ad5b88ccbc3554a744f575d7cdf2257c8b350342c42f25021b6ff"
+    }
+   ]
+  },
+  {
+   "slug": "412-618",
+   "short": "RB 412.618",
+   "title": "Interkantonale Fachhochschulvereinbarung ab 2005",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.618",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.618",
+     "sha256": "bc9600dc3679394283c8a8ed65c04510735b67da89bf1bfab49fc0a37d0f66be"
+    }
+   ]
+  },
+  {
+   "slug": "412-620",
+   "short": "RB 412.620",
+   "title": "Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.620",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.620",
+     "sha256": "24815006d2b4242543caae8fc7454c03c2790d6a914b9b64b306ef8b482700d0"
+    }
+   ]
+  },
+  {
+   "slug": "412-633",
+   "short": "RB 412.633",
+   "title": "Vereinbarung über die Ost – Ostschweizer Fachhochschule",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.633",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.633",
+     "sha256": "6b9d9ebdea53f7de0853e883774294f220cce3b299455bf7324c7277cfff04d4"
+    }
+   ]
+  },
+  {
+   "slug": "412-636",
+   "short": "RB 412.636",
+   "title": "Interkantonale Vereinbarung über die Hochschule für Heilpädagogik Zürich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.636",
+   "versions": [
+    {
+     "from": "2001-02-07",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.636",
+     "sha256": "22dc942b2a79e8cedfff5bc10cbe940446067e77835e9a73d2b7cb4a8f90777c"
+    }
+   ]
+  },
+  {
+   "slug": "412-637",
+   "short": "RB 412.637",
+   "title": "Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.637",
+   "versions": [
+    {
+     "from": "1991-10-23",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/412.637",
+     "sha256": "caf0c721be21636888885eb78cf44182560e6ba38dca1e637eff55ceccb89bcb"
+    }
+   ]
+  },
+  {
+   "slug": "413-12",
+   "short": "RB 413.12",
+   "title": "Beschluss des Grossen Rates betreffend Standorte der Berufsfach- und Mittelschulen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.12",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.12",
+     "sha256": "9ae18709d7f07f89c49efd6fbac61beefbf9fa933e198ff061033c4fae283b0e"
+    }
+   ]
+  },
+  {
+   "slug": "413-13",
+   "short": "RB 413.13",
+   "title": "Vereinbarung über die Beteiligung des Kantons Thurgau an der Kantonsschule Wil",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.13",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.13",
+     "sha256": "6a419ee9f2e4f9aa94c5b05bb30c5841044592aa2ddf9968ae2cad6897fd067c"
+    }
+   ]
+  },
+  {
+   "slug": "413-28",
+   "short": "RB 413.28",
+   "title": "Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.28",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/413.28",
+     "sha256": "29b238aadef4c8b5400bf6ebf571245784642aa915ce1fb0945765caf45c0255"
+    }
+   ]
+  },
+  {
+   "slug": "414-1",
+   "short": "RB 414.1",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/414.1",
+     "sha256": "f36288d763e99572786818b11c6ede6d72fe2725a04a964d1c91d85fe842ebf4"
+    }
+   ]
+  },
+  {
+   "slug": "414-3",
+   "short": "RB 414.3",
+   "title": "Interkantonale Vereinbarung über den schweizerischen Hochschulbereich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.3",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/414.3",
+     "sha256": "e68fab095b08cf180face281cf78713b233ccd2f06dffd73b217b8ba5648c7f2"
+    }
+   ]
+  },
+  {
+   "slug": "414-243",
+   "short": "RB 414.243",
+   "title": "Disziplinarordnung der Pädagogischen Hochschule Thurgau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.243",
+   "versions": [
+    {
+     "from": "2010-12-11",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/414.243",
+     "sha256": "e43019f75adde8c5e7a17c3492552519882b2ed0056f52833f6c957ce9ddfd11"
+    }
+   ]
+  },
+  {
+   "slug": "415-11",
+   "short": "RB 415.11",
+   "title": "Sportförderungs- und Sportfondsverordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/415.11",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/415.11",
+     "sha256": "338afb03916c9ac09e5360d1287e5163ff42cb718562ee4d60cfe16c79ce8f57"
+    }
+   ]
+  },
+  {
+   "slug": "416-12",
+   "short": "RB 416.12",
+   "title": "Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/416.12",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/416.12",
+     "sha256": "5280db75256b084b7164c8ff208a41ed374bf0de0908ff52b89dc6ceaa40bd2a"
+    }
+   ]
+  },
+  {
+   "slug": "416-31",
+   "short": "RB 416.31",
+   "title": "Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/416.31",
+   "versions": [
+    {
+     "from": "2004-08-01",
+     "units": 2,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/416.31",
+     "sha256": "39f678d60caa5a368b1eba45a00f65046fe0beffa0d68f51edb09e8beb831b85"
+    }
+   ]
+  },
+  {
+   "slug": "416-41",
+   "short": "RB 416.41",
+   "title": "Interkantonale Vereinbarung für schulische Angebote in Spitälern",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/416.41",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/416.41",
+     "sha256": "a3ab36e43c2eeefb4972dc64e17ed2ce95ecf86a2a8c6d7a8ae5f4b122148fd8"
+    }
+   ]
+  },
+  {
+   "slug": "442-2",
+   "short": "RB 442.2",
+   "title": "Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/442.2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/442.2",
+     "sha256": "54836a081ecaee17fa9b4a8836a689325e394e962bf7a5a6f6c5b2a4315b9da0"
+    }
+   ]
+  },
+  {
+   "slug": "450-65",
+   "short": "RB 450.65",
+   "title": "Regierungsratsbeschluss betreffend Errichtung eines naturwissenschaftlichen Reservates in der Petribucht, Paradies-Schlatt",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/450.65",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/450.65",
+     "sha256": "4d3c9345952d3d1e807f923358b9d781ca88cdcce4a539bad253adfd89d55a34"
+    }
+   ]
+  },
+  {
+   "slug": "512-51",
+   "short": "RB 512.51",
+   "title": "Regierungsratsbeschluss betreffend den Vollzug der Verordnung des Bundesrates über die Arbeitsleistung infolge Militärdienstverweigerung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/512.51",
+   "versions": [
+    {
+     "from": "1992-08-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/512.51",
+     "sha256": "bfd64c6ce3b2175dc1169fdce1b8e57dbac6618646e4c5f62916f72e32d3edb8"
+    }
+   ]
+  },
+  {
+   "slug": "541-1",
+   "short": "RB 541.1",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/541.1",
+   "versions": [
+    {
+     "from": "2015-02-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/541.1",
+     "sha256": "706c3300f2638609ec4a512e2d4db2adbac1ee8c44f2947b78ae11096104e298"
+    }
+   ]
+  },
+  {
+   "slug": "541-2",
+   "short": "RB 541.2",
+   "title": "Verwaltungsvereinbarung zwischen dem Kanton Thurgau und der Schweizerischen Eidgenossenschaft über die Zusammenarbeit zwischen der Kantonspolizei Thurgau und dem Grenzwachtkorps beziehungsweise der Eidgenössischen Zollverwaltung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/541.2",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/541.2",
+     "sha256": "9ae6494ec64322b7d1a775e7712732be789b02f02ea07c8d5e35338fafb4b491"
+    }
+   ]
+  },
+  {
+   "slug": "552-1",
+   "short": "RB 552.1",
+   "title": "Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.1",
+   "versions": [
+    {
+     "from": "1977-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.1",
+     "sha256": "7b3f5dbf4bfd9b96c43309a0ae442eed22aa98075228b8f1576a9a84d71f34b0"
+    }
+   ]
+  },
+  {
+   "slug": "552-2",
+   "short": "RB 552.2",
+   "title": "Übereinkunft betreffend die Polizeitransporte",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.2",
+   "versions": [
+    {
+     "from": "1989-08-10",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.2",
+     "sha256": "d9f796e220dab03aa98f4a86e17ccde2e072d0078a7519e3ffff1e230627acd8"
+    }
+   ]
+  },
+  {
+   "slug": "552-3",
+   "short": "RB 552.3",
+   "title": "Vereinbarung zwischen den Kantonen Thurgau und Zürich über die Ausübung der Autobahnpolizei auf der N 1 und der N 7",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.3",
+   "versions": [
+    {
+     "from": "1976-08-11",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.3",
+     "sha256": "726b4611f6f246d8563367e0889384a9a50087a349cd40106ee85062c8eb206b"
+    }
+   ]
+  },
+  {
+   "slug": "552-5",
+   "short": "RB 552.5",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.5",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.5",
+     "sha256": "31409b4d069e65de47865a95cf7f7bad3c7fd25213ad643d397dd5bc95f73b21"
+    }
+   ]
+  },
+  {
+   "slug": "552-6",
+   "short": "RB 552.6",
+   "title": "Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.6",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.6",
+     "sha256": "f88e05d0cee689e0a2882554382ddcc095e9d53a217246410e58c6bc57fac24a"
+    }
+   ]
+  },
+  {
+   "slug": "552-11",
+   "short": "RB 552.11",
+   "title": "Beschluss des Grossen Rates betreffend den Beitritt des Kantons Thurgau zur Interkantonalen Vereinbarung über die polizeiliche Zusammenarbeit",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.11",
+   "versions": [
+    {
+     "from": "1976-09-27",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.11",
+     "sha256": "ce669660ea1bf75ee3e7a25784b8a46c2aa27c4e2a9d1ba8119e8638b00f4a25"
+    }
+   ]
+  },
+  {
+   "slug": "552-14",
+   "short": "RB 552.14",
+   "title": "Vereinbarung über die Errichtung und den Betrieb einer Ostschweizer Polizeischule in Amriswil",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/552.14",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/552.14",
+     "sha256": "717ff1a072a5e48c63dd7975bbdc1ccf52c3f65220fbcbf26215a00dcae519b1"
+    }
+   ]
+  },
+  {
+   "slug": "554-15",
+   "short": "RB 554.15",
+   "title": "Vereinbarung zwischen den Kantonen Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus, Graubünden, Schaffhausen, St. Gallen und Thurgau sowie der Eidgenössischen Spielbankenkommission über die Zusammenarbeit bei der Verfolgung von Widerhandlungen gegen die eidgenössische Spielbankengesetzgebung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/554.15",
+   "versions": [
+    {
+     "from": "2003-01-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/554.15",
+     "sha256": "94969955db8223cde1da9c3042c2a2920d8574e3495301c4177e27c5ab20e8ec"
+    }
+   ]
+  },
+  {
+   "slug": "554-511",
+   "short": "RB 554.511",
+   "title": "Gastgewerbe- und Alkoholhandelsverordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/554.511",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/554.511",
+     "sha256": "c00d88f6c43709d53b3d5b5fff6ab8976f2be68bd30fe1d04b4f6f071f8e09ac"
+    }
+   ]
+  },
+  {
+   "slug": "613-3",
+   "short": "RB 613.3",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/613.3",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/613.3",
+     "sha256": "7a01a06f46ae7133c71e918ab25d9f977a781a1e36c280f4dd958ef0ed65f9f3"
+    }
+   ]
+  },
+  {
+   "slug": "641-81",
+   "short": "RB 641.81",
+   "title": "Erbschafts- und Schenkungssteuerverordnung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/641.81",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/641.81",
+     "sha256": "1ad428850490169350039fc809c974d2cccd332a7ecd78616803ea34bf5ced79"
+    }
+   ]
+  },
+  {
+   "slug": "671-1",
+   "short": "RB 671.1",
+   "title": "Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/671.1",
+   "versions": [
+    {
+     "from": "1949-10-06",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/671.1",
+     "sha256": "e0120917a8b8e8b68441c2bb4a8498a9e5ccb4afa98bcd2d37cce772f6347dc1"
+    }
+   ]
+  },
+  {
+   "slug": "672-1",
+   "short": "RB 672.1",
+   "title": "Gegenrechtserklärung mit Deutschland betreffend Steuerbefreiung für Vermächtnisse und Schenkungen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.1",
+   "versions": [
+    {
+     "from": "1934-06-12",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.1",
+     "sha256": "27af0ce05ee93d32ae61285bf11cd7effc636ee172c1885e4309a498597efbd1"
+    }
+   ]
+  },
+  {
+   "slug": "672-2",
+   "short": "RB 672.2",
+   "title": "Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.2",
+   "versions": [
+    {
+     "from": "1982-01-05",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.2",
+     "sha256": "d039fbf04322abd68ecf4fd678afae6c4ed9ede5454df75c5415f59d9616fea3"
+    }
+   ]
+  },
+  {
+   "slug": "672-501",
+   "short": "RB 672.501",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Thurgau einerseits und dem Regierungsrat des Kantons Zürich anderseits betreffend Steuerbefreiung für Zuwendungen von der Erbschaftssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.501",
+   "versions": [
+    {
+     "from": "1926-06-10",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.501",
+     "sha256": "1b6161ef2aea764b17d350d55ce4c91a58561a15f321f5827882ad6453f42eb9"
+    }
+   ]
+  },
+  {
+   "slug": "672-503",
+   "short": "RB 672.503",
+   "title": "Gegenrechtserklärung zwischen den Regierungen der Kantone Thurgau und Luzern betreffend Befreiung von der Erbschaftssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.503",
+   "versions": [
+    {
+     "from": "1934-03-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.503",
+     "sha256": "5a7f45da6e05653382b00fd5e549ea4157373f72f3c0aed37800a252af53a6cc"
+    }
+   ]
+  },
+  {
+   "slug": "672-509",
+   "short": "RB 672.509",
+   "title": "Gegenrechtserklärung zwischen den Regierungsräten der Kantone Thurgau und Zug betreffend Befreiung von der Erbschaftssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.509",
+   "versions": [
+    {
+     "from": "1933-02-20",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.509",
+     "sha256": "734db91e5946b601b7dd7d6bd448c13af3aec1b6d3538ba5c956452fc1745ed3"
+    }
+   ]
+  },
+  {
+   "slug": "672-514",
+   "short": "RB 672.514",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Regierungsrat des Kantons Thurgau betreffend Befreiung von der Erbschafts- oder Schenkungssteuer auf Zuwendungen für gemeinnützige Zwecke",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.514",
+   "versions": [
+    {
+     "from": "1931-12-21",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.514",
+     "sha256": "3da802b4f23df9f9da108fc6166700a09642a3049541f4ca6518eac2181a1838"
+    }
+   ]
+  },
+  {
+   "slug": "672-515",
+   "short": "RB 672.515",
+   "title": "Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Thurgau und dem Regierungsrat des Kantons Appenzell A. Rh. über die Steuerbefreiung von Zuwendungen für öffentliche, gemeinnützige, wohltätige oder religiöse Zwecke auf dem Gebiete der Erbschafts-, Vermächtnis- und Schenkungssteuern",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.515",
+   "versions": [
+    {
+     "from": "1969-05-06",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.515",
+     "sha256": "a30f2ad319304329e1086caba5656aa1eddaebb996036ddafadfb33001e1428d"
+    }
+   ]
+  },
+  {
+   "slug": "672-518",
+   "short": "RB 672.518",
+   "title": "Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.518",
+   "versions": [
+    {
+     "from": "1958-05-19",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.518",
+     "sha256": "1903c42db694fc9ecf93d347f04a48c5e89ef2598544311f3d234b4ad1d0d70c"
+    }
+   ]
+  },
+  {
+   "slug": "672-522",
+   "short": "RB 672.522",
+   "title": "Convention de réciprocité entre le Conseil d'Etat du canton de Thurgovie et le Conseil d'Etat du canton de Vaud en matière d'exonération de l'impôt sur les successions et donations",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.522",
+   "versions": [
+    {
+     "from": "1968-06-14",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.522",
+     "sha256": "2aa0364da7d3e310b09a3b5c3ba5729a88e07c73b325f0dca2665d3c80f6560f"
+    }
+   ]
+  },
+  {
+   "slug": "672-523",
+   "short": "RB 672.523",
+   "title": "Gegenrechtserklärung zwischen den Regierungen der Kantone Thurgau und Wallis betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.523",
+   "versions": [
+    {
+     "from": "1978-08-15",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.523",
+     "sha256": "67dd574ea0e1c911fe1f5db712ca591f397b6b74457f640665603999555feb48"
+    }
+   ]
+  },
+  {
+   "slug": "672-524",
+   "short": "RB 672.524",
+   "title": "Convention de réciprocité entre le Conseil d'Etat du canton de Thurgovie et le Conseil d'Etat du canton de Neuchâtel en matière d'exonération de l'impôt sur les successions et sur les donations",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.524",
+   "versions": [
+    {
+     "from": "1971-05-28",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.524",
+     "sha256": "9d2b8893637ee8340f1eaa450ad26d206d9b74dbb9b086d4795655c5c56be1a2"
+    }
+   ]
+  },
+  {
+   "slug": "672-525",
+   "short": "RB 672.525",
+   "title": "Gegenrechtsvereinbarung zwischen den Regierungen der Kantone Thurgau und Solothurn betreffend Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.525",
+   "versions": [
+    {
+     "from": "1990-03-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.525",
+     "sha256": "303a85341321e63fa63ad00b65d42e12d90eeaba41018517e1bfe1ce622217d8"
+    }
+   ]
+  },
+  {
+   "slug": "672-526",
+   "short": "RB 672.526",
+   "title": "Gegenrechtsvereinbarung zwischen den Regierungen der Kantone Uri und Thurgau betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/672.526",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/672.526",
+     "sha256": "329caf0886e24d07ecd594f5b5434aced149423cb7211c6f9d6c8241ff38c771"
+    }
+   ]
+  },
+  {
+   "slug": "691",
+   "short": "RB 691",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/691",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/691",
+     "sha256": "38bac8cb56448c6b9d2ee4a9cf3b95618f3167ffc25f1e58a759495048a2dfa0"
+    }
+   ]
+  },
+  {
+   "slug": "700-2",
+   "short": "RB 700.2",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.2",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 24,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.2",
+     "sha256": "0807a44c7aa34baa5f588aa4f74e772fc42089efcea6b67032aaacbdbeab8885"
+    }
+   ]
+  },
+  {
+   "slug": "700-4",
+   "short": "RB 700.4",
+   "title": "Gesetz über Vereinbarungen zur Milderung finanzieller Härtefälle von raumplanerischen Massnahmen in Kleinsiedlungen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.4",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.4",
+     "sha256": "038ad91bc09d107fe44cc6bbfe5dbf859ce59fceabfed2714c0d2bd044f1b6fd"
+    }
+   ]
+  },
+  {
+   "slug": "700-11",
+   "short": "RB 700.11",
+   "title": "Weisung des Regierungsrates über die Abwicklung von Baugesuchs- und Planungsgeschäften in der kantonalen Verwaltung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.11",
+   "versions": [
+    {
+     "from": "2026-11-01",
+     "units": 6,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/700.11",
+     "sha256": "9aa7325d914752367ae2ff20d8e3119ebaf4b0415334c88ec9ec0937766f55de"
+    }
+   ]
+  },
+  {
+   "slug": "708-14",
+   "short": "RB 708.14",
+   "title": "Staatsvertrag zwischen dem Kanton Zürich und dem Kanton Thurgau über den Zweckverband Feuerwehr Weinland",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/708.14",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/708.14",
+     "sha256": "3abdc1ca76a75359331f3be94c599802d069ae7ef605563544c033734502d60d"
+    }
+   ]
+  },
+  {
+   "slug": "720-3",
+   "short": "RB 720.3",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/720.3",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 6,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/720.3",
+     "sha256": "978f7cb3a0b42ac1f9b74853fbfb2d74754f905808bca4e9520ac00b58137bcb"
+    }
+   ]
+  },
+  {
+   "slug": "720-4",
+   "short": "RB 720.4",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/720.4",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 4,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/720.4",
+     "sha256": "f8be8f99b198fba4858b224bb3fbdccdedd6810a9ad8943e3b3c00d85fe966fd"
+    }
+   ]
+  },
+  {
+   "slug": "720-61",
+   "short": "RB 720.61",
+   "title": "Gegenrechtserklärungen betreffend öffentliches Beschaffungswesen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/720.61",
+   "versions": [
+    {
+     "from": "1995-04-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/720.61",
+     "sha256": "202c182ebe73a9166de53d280a4b659ec4313fa17022e5c2d93884bb7953b7a8"
+    }
+   ]
+  },
+  {
+   "slug": "720-111",
+   "short": "RB 720.111",
+   "title": "Weisung zum öffentlichen Beschaffungswesen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/720.111",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 5,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/720.111",
+     "sha256": "e9bc856cbfdc96688cd17b099a26ddf85d24a9e72cfe93dfc9bcacb12731e524"
+    }
+   ]
+  },
+  {
+   "slug": "721-21",
+   "short": "RB 721.21",
+   "title": "Übereinkunft betreffend die Korrektion der Goldach bei Horn",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.21",
+   "versions": [
+    {
+     "from": "1891-02-27",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/721.21",
+     "sha256": "ea9a347bc2b43f9df4b1f7f90111c240bfcdfe4e092404c8b88785d0f971a5b7"
+    }
+   ]
+  },
+  {
+   "slug": "721-61",
+   "short": "RB 721.61",
+   "title": "Vertrag zwischen den Regierungen der Kantone Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Wasserversorgung durch den Zweckverband Regionalwasserversorgung Mittelthurgau-Süd",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.61",
+   "versions": [
+    {
+     "from": "1974-08-13",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/721.61",
+     "sha256": "4f2e1ac14fd4f9417c9c4840754057ec02ff6e10d4bf02896aca4a7b580b7306"
+    }
+   ]
+  },
+  {
+   "slug": "721-62",
+   "short": "RB 721.62",
+   "title": "Vertrag zwischen den Regierungen der Kantone St. Gallen und Thurgau über den Bau und Betrieb einer Wasserversorgungsanlage in der Gemeinde Niederbüren durch den Zweckverband Pumpwerk Grueben",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.62",
+   "versions": [
+    {
+     "from": "1975-02-11",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/721.62",
+     "sha256": "bf472a9bf05680c36cc04da445966cd2bb61f82e1a4f31993d70dd2fe23975f3"
+    }
+   ]
+  },
+  {
+   "slug": "747-1",
+   "short": "RB 747.1",
+   "title": "Regierungsratsbeschluss betreffend Zuständigkeitsordnung zur Verordnung der Internationalen Schiffahrtskommission über die Schiffahrt auf dem Bodensee vom 13. Januar 1976",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/747.1",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/747.1",
+     "sha256": "7b4ffa1119dfcb1b6451f8bfd51098e3baa27f477cc04f8afc02d36f85f4a196"
+    }
+   ]
+  },
+  {
+   "slug": "810-16",
+   "short": "RB 810.16",
+   "title": "Vereinbarung über die Einsetzung der Ethikkommission Ostschweiz",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/810.16",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/810.16",
+     "sha256": "9cb1d41b4194a3842185479001df1d97b9a5aea124df68cdb66fb8848e3cbe2a"
+    }
+   ]
+  },
+  {
+   "slug": "811-32",
+   "short": "RB 811.32",
+   "title": "Interkantonale Vereinbarung über die hochspezialisierte Medizin",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/811.32",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/811.32",
+     "sha256": "3305d0f4f9cae2739bd943fde2e9cfabb8545b9c6decacb2653e9d7fe25c3a98"
+    }
+   ]
+  },
+  {
+   "slug": "814-36",
+   "short": "RB 814.36",
+   "title": "Interkantonale Vereinbarung über den Zweckverband Gruppenwasserversorgung BHW",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.36",
+   "versions": [
+    {
+     "from": "1993-11-30",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.36",
+     "sha256": "4ab05a125a002f5e105da54e0ee318503afadcd89cd2d3d40a4a54022f16a730"
+    }
+   ]
+  },
+  {
+   "slug": "814-37",
+   "short": "RB 814.37",
+   "title": "Vereinbarung über den Zweckverband Abfallverwertung Bazenheid",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.37",
+   "versions": [
+    {
+     "from": "1986-04-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.37",
+     "sha256": "d6562b7c0537016710662f76b81c97b746765771d1187177552da7d16dd650a1"
+    }
+   ]
+  },
+  {
+   "slug": "814-042",
+   "short": "RB 814.042",
+   "title": "Regierungsratsbeschluss betreffend Festlegung eines Einzugsgebietes nach Art. 18 TVA und § 10 AbfallG für die Kehrichtverbrennungsanlage Weinfelden",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.042",
+   "versions": [
+    {
+     "from": "1996-10-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.042",
+     "sha256": "fe84510c6375fe86d5d79d0b6cd604bb1d49f9f94db61b217c2bdf98ce22f3a7"
+    }
+   ]
+  },
+  {
+   "slug": "814-82",
+   "short": "RB 814.82",
+   "title": "Vereinbarung über die gemeinsame Koordination Vollzug Chemikalienrecht Ostschweiz und Fürstentum Liechtenstein",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.82",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.82",
+     "sha256": "ac69891f765c16aa07593fa9da12326646fea2f0b9d7cd6504179d25b6cd9ded"
+    }
+   ]
+  },
+  {
+   "slug": "814-311",
+   "short": "RB 814.311",
+   "title": "Regierungsratsbeschluss über Beiträge an gemeinsam benützte Abwässerkanäle von Gemeinden",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.311",
+   "versions": [
+    {
+     "from": "1965-07-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.311",
+     "sha256": "ae791f7570e33980dc9af44a9253e7dea3e42f787786ddccd1f22fdcbfb599ed"
+    }
+   ]
+  },
+  {
+   "slug": "814-321",
+   "short": "RB 814.321",
+   "title": "Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Abwasserreinigungsanlage durch den Abwasserverband Aachtal",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.321",
+   "versions": [
+    {
+     "from": "1970-09-21",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.321",
+     "sha256": "a32e2b37b0ff20259b7cbee4bb27e2bb8b0ab1182c877f8f3da1c3577441f97a"
+    }
+   ]
+  },
+  {
+   "slug": "814-322",
+   "short": "RB 814.322",
+   "title": "Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Abwasserreinigungsanlage durch den Abwasserverband Oberes Murgtal",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.322",
+   "versions": [
+    {
+     "from": "1971-02-16",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.322",
+     "sha256": "1ed1591893942be40e4c9888a19e33bbdba2bb802554386201438c57d3e3bab4"
+    }
+   ]
+  },
+  {
+   "slug": "814-323",
+   "short": "RB 814.323",
+   "title": "Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.323",
+   "versions": [
+    {
+     "from": "1967-02-07",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.323",
+     "sha256": "9aecaaa9c817a41e7b76ee8c32ce84faf7a2f5a398daa8f456d9bc7e59e2490e"
+    }
+   ]
+  },
+  {
+   "slug": "814-324",
+   "short": "RB 814.324",
+   "title": "Interkantonale Vereinbarung über den Abwasserverband Thurau",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.324",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.324",
+     "sha256": "4593fbfc77194ce9d4edfd97ea22e5555725f51363aa830c623a5babab1aa5e3"
+    }
+   ]
+  },
+  {
+   "slug": "814-325",
+   "short": "RB 814.325",
+   "title": "Vereinbarung über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage Niederbüren",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.325",
+   "versions": [
+    {
+     "from": "1979-05-29",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.325",
+     "sha256": "9642da1d4dbe8988b7f4efe9309bcb67b38d85d44a28249ce33739346209ada8"
+    }
+   ]
+  },
+  {
+   "slug": "814-331",
+   "short": "RB 814.331",
+   "title": "Vertrag zwischen den Regierungen der Kantone Schaffhausen und Thurgau über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.331",
+   "versions": [
+    {
+     "from": "1969-11-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.331",
+     "sha256": "16353214324e85932bddf9db19f8fc353b11db711a32aeb2417d27eec3204e98"
+    }
+   ]
+  },
+  {
+   "slug": "814-342",
+   "short": "RB 814.342",
+   "title": "Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Kläranlage durch die Ortsgemeinde Oberneunforn sowie die politischen Gemeinden Ossingen und Truttikon",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.342",
+   "versions": [
+    {
+     "from": "1974-08-27",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.342",
+     "sha256": "b837d831f2d76a47726cf971a752b32145d7416d68745e10b8533dd154015e44"
+    }
+   ]
+  },
+  {
+   "slug": "814-343",
+   "short": "RB 814.343",
+   "title": "Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Kläranlage durch die Ortsgemeinde Niederneunforn sowie die politische Gemeinde Altikon",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.343",
+   "versions": [
+    {
+     "from": "1978-08-22",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.343",
+     "sha256": "83e4d88a3d9a997fa9deda7597dc3ec3475cdea9549a6d3677d24f7e2248501d"
+    }
+   ]
+  },
+  {
+   "slug": "814-344",
+   "short": "RB 814.344",
+   "title": "Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Abwasserreinigungsanlage durch die Politischen Gemeinden Aadorf, Eschlikon, Bichselsee-Balterswil sowie der Gemeinde Hagenbuch",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.344",
+   "versions": [
+    {
+     "from": "1999-02-03",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/814.344",
+     "sha256": "c8cab17f7777c1bf94c1575e33033f8b4739a52d77f755f9e04baa1257feec8b"
+    }
+   ]
+  },
+  {
+   "slug": "831-19",
+   "short": "RB 831.19",
+   "title": "Regierungsratsbeschluss betreffend die Leistung von Teilzahlungen an die Beiträge der Gemeinden für die AHV/IV und EL",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.19",
+   "versions": [
+    {
+     "from": "1971-12-23",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/831.19",
+     "sha256": "e76b35dc6bd7102201bacd4a4a898302741d06e003eb2ecc34fb16d55e7419ca"
+    }
+   ]
+  },
+  {
+   "slug": "831-41",
+   "short": "RB 831.41",
+   "title": "Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.41",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/831.41",
+     "sha256": "89e48aa6eb79485bf578b95da0668127c7748d946cfd2ff552beea512c9ab49a"
+    }
+   ]
+  },
+  {
+   "slug": "832-40",
+   "short": "RB 832.40",
+   "title": "Ostschweizer Spitalvereinbarung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.40",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/832.40",
+     "sha256": "5c9c4803e194168e25d5360443fb4354c7f7d25d3f47ac90ed04dd5284411cc3"
+    }
+   ]
+  },
+  {
+   "slug": "832-60",
+   "short": "RB 832.60",
+   "title": "Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.60",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/832.60",
+     "sha256": "3cd177565e201b7690da99b88ea28f6d89a70aff69e9e79f9f948b6a09d79e04"
+    }
+   ]
+  },
+  {
+   "slug": "836-3",
+   "short": "RB 836.3",
+   "title": "Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über den Anschluss von Filialen und Betriebsstätten an die Familienausgleichskasse einer im anderen Kanton gelegenen Hauptniederlassung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/836.3",
+   "versions": [
+    {
+     "from": "1964-04-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/836.3",
+     "sha256": "af45657c06ff29af4769926a836a6a011747515f88da3082bb91318fa99d630b"
+    }
+   ]
+  },
+  {
+   "slug": "837-15",
+   "short": "RB 837.15",
+   "title": "Richtlinien für die Gewährung von Finanzierungshilfen im Sinne von § 15 des Gesetzes über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/837.15",
+   "versions": [
+    {
+     "from": "1993-06-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/837.15",
+     "sha256": "0383702d0caa200a2677a0581dc5e0544eb90ab5a9ec8010c3cfde57d45b7f4c"
+    }
+   ]
+  },
+  {
+   "slug": "850-6",
+   "short": "RB 850.6",
+   "title": "Interkantonale Vereinbarung für soziale Einrichtungen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.6",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/850.6",
+     "sha256": "360f82ce445d2599fbaf3f8040bf95cd4a1f3c30fefc596cd26c95d03c5a26eb"
+    }
+   ]
+  },
+  {
+   "slug": "850-8",
+   "short": "RB 850.8",
+   "title": "Vereinbarung über das Rehabilitationszentrum für Drogenabhängige Lutzenberg (Drogenheim)",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.8",
+   "versions": [
+    {
+     "from": "1982-07-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/850.8",
+     "sha256": "65e9dc08cb95fa78889786de12afcda9d1192700e2f2c94c2da9eb1494011c12"
+    }
+   ]
+  },
+  {
+   "slug": "908-1",
+   "short": "RB 908.1",
+   "title": "Vereinbarung über ein gemeinsames gesamtwirtschaftliches Entwicklungskonzept für die Region Zürcher Berggebiet",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/908.1",
+   "versions": [
+    {
+     "from": "1977-08-16",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/908.1",
+     "sha256": "fdb1c07d6d16202bbe08d6535ccc2935751205843472a92ddac41de21e3230d0"
+    }
+   ]
+  },
+  {
+   "slug": "921-141",
+   "short": "RB 921.141",
+   "title": "Forstliche Planungsvorschriften des Departementes für Bau und Umwelt",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/921.141",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/921.141",
+     "sha256": "94b3966d291c974516b49323ae0f60dd43344c99c81f8f36605cd083f3e1f17c"
+    }
+   ]
+  },
+  {
+   "slug": "922-14",
+   "short": "RB 922.14",
+   "title": "Vereinbarung zwischen den Kantonen Zürich und Thurgau über die Ausübung der Jagd im Grenzbereich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/922.14",
+   "versions": [
+    {
+     "from": "1978-04-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/922.14",
+     "sha256": "6db08025d0e686a8fedb917a5433a916318d611e12b35f3b63bf7c45c3965af8"
+    }
+   ]
+  },
+  {
+   "slug": "922-15",
+   "short": "RB 922.15",
+   "title": "Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über die Ausübung der Jagd im Grenzbereich",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/922.15",
+   "versions": [
+    {
+     "from": "1978-04-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/922.15",
+     "sha256": "5cc4c290bcf2222c470134446a5aaaf6ad76b9ab278914c73c2e01b5d4238f2b"
+    }
+   ]
+  },
+  {
+   "slug": "922-131",
+   "short": "RB 922.131",
+   "title": "Verfügung des Departementes für Justiz und Sicherheit betreffend Anerkennung gleichwertiger Jägerprüfungen anderer Kantone und des Auslandes",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/922.131",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/922.131",
+     "sha256": "790687112ce6c1cd091413be475dbaddd6c9ebf9611c51c935407214ae37a9af"
+    }
+   ]
+  },
+  {
+   "slug": "923-2",
+   "short": "RB 923.2",
+   "title": "Interkantonale Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über die Fischerei in den Grenzgewässern",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/923.2",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/923.2",
+     "sha256": "01bf79857431770876994f264bfb4db3bff65b7a4adeaae3b71ef129cfa42b18"
+    }
+   ]
+  },
+  {
+   "slug": "935-5",
+   "short": "RB 935.5",
+   "title": "Gesamtschweizerisches Geldspielkonkordat",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/935.5",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/935.5",
+     "sha256": "22259ebd9787dc36c51ae028e147b48831e4ffe46eee666205d7106191d5cdbd"
+    }
+   ]
+  },
+  {
+   "slug": "935-56",
+   "short": "RB 935.56",
+   "title": "Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/935.56",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/935.56",
+     "sha256": "0f7bbdbe58c523b01f2f57a9146eed24c3eef957f692b4eff30c39dabcdb7123"
+    }
+   ]
+  },
+  {
+   "slug": "946-5",
+   "short": "RB 946.5",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/946.5",
+   "versions": [
+    {
+     "from": "2003-04-08",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/946.5",
+     "sha256": "185a1d52b2160e2317454510843386ba198623b146354d9ac0de278d49918c0c"
+    }
+   ]
+  },
+  {
+   "slug": "954-4",
+   "short": "RB 954.4",
+   "title": "Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, St. Gallen, Thurgau, Schaffhausen, Schwyz, Appenzell A. Rh. und Zug betreffend Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke A.G.",
+   "url": "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/954.4",
+   "versions": [
+    {
+     "from": "1914-04-22",
+     "units": 1,
+     "source_url": "https://www.rechtsbuch.tg.ch/api/de/texts_of_law/954.4",
+     "sha256": "037a5bd2240431f3927836d2bc04fe058212b5f6fffc1e52a1dca633c5f4be32"
     }
    ]
   }

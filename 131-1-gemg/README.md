@@ -4,6 +4,8 @@ GemG · 5 versions, from 2011-01-01 (latest in force: 2022-06-01) · <https://ww
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang Seite 1: Politische Gemeinden gemäss Anhang 1a | [annex-page-001.md](annex-page-001.md) | 1 | 2022-06-01 |
+| Anhang Seite 2: Politische Gemeinden gemäss Anhang 1a | [annex-page-002.md](annex-page-002.md) | 1 | 2022-06-01 |
 | § 1 | [art-001.md](art-001.md) | 0 |  |
 | § 1a | [art-001a.md](art-001a.md) | 0 |  |
 | § 2 | [art-002.md](art-002.md) | 0 |  |

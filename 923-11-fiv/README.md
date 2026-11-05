@@ -4,6 +4,9 @@ FiV · 2 versions, from 2011-01-01 (latest in force: 2023-01-01) · <https://www
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annex PDF page 1 | [annex-page-001.md](annex-page-001.md) | 1 | 2023-01-01 |
+| Annex PDF page 3 | [annex-page-003.md](annex-page-003.md) | 1 | 2023-01-01 |
+| Annex PDF page 5 | [annex-page-005.md](annex-page-005.md) | 1 | 2023-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2023-01-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2023-01-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2023-01-01 |

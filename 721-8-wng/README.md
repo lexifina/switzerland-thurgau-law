@@ -1,6 +1,6 @@
 # Wassernutzungsgesetz
 
-WNG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.8>
+WNG · 7 versions, from 2013-01-01 (latest in force: 2026-11-01) · <https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.8>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,7 @@ WNG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 13 | [art-013.md](art-013.md) | 1 | 2018-01-01 |
 | § 14 | [art-014.md](art-014.md) | 0 |  |
 | § 15 | [art-015.md](art-015.md) | 2 | 2024-06-01 |
+| § 15a | [art-015a.md](art-015a.md) | 1 | 2026-11-01 |
 | § 16 | [art-016.md](art-016.md) | 0 |  |
 | § 17 | [art-017.md](art-017.md) | 3 | 2024-06-01 |
 | § 18 | [art-018.md](art-018.md) | 0 |  |
@@ -36,8 +37,8 @@ WNG · 6 versions, from 2013-01-01 (latest in force: 2024-06-01) · <https://www
 | § 30 | [art-030.md](art-030.md) | 0 |  |
 | § 31 | [art-031.md](art-031.md) | 1 | 2018-01-01 |
 | § 32 | [art-032.md](art-032.md) | 0 |  |
-| § 33 | [art-033.md](art-033.md) | 0 |  |
-| § 34 | [art-034.md](art-034.md) | 0 |  |
+| § 33 | [art-033.md](art-033.md) | 1 | 2026-11-01 |
+| § 34 | [art-034.md](art-034.md) | 1 | 2026-11-01 |
 | § 35 | [art-035.md](art-035.md) | 0 |  |
 | Gliederung | [gliederung.md](gliederung.md) | 0 |  |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2018-01-01 |

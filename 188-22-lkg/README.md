@@ -4,6 +4,7 @@ LKG · 2 versions, from 1970-03-14 (latest in force: 2022-01-01) · <https://www
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang Seite 1: Wahlkreise gemäss § 4 | [annex-page-001.md](annex-page-001.md) | 1 | 2022-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2022-01-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2022-01-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2022-01-01 |

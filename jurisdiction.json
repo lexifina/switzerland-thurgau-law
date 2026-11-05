@@ -5,7 +5,11 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-thurgau-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (314 acts, 913 versions) from the RB",
+  "build": "460 represented acts, 1059 versions: 314-act history plus 146 source-dated current-text additions; known current-version, annex and diagram gaps remain",
   "language": "de",
-  "sources": 1
+  "sources": 1,
+  "languages": [
+    "de",
+    "fr"
+  ]
 }

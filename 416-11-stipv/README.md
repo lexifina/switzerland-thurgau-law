@@ -4,6 +4,7 @@ StipV · 7 versions, from 2010-08-01 (latest in force: 2025-08-01) · <https://w
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annex PDF page 1 | [annex-page-001.md](annex-page-001.md) | 1 | 2025-08-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2019-08-01 |
 | § 2 | [art-002.md](art-002.md) | 2 | 2022-08-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2013-08-01 |
