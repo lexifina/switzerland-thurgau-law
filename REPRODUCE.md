@@ -1,6 +1,6 @@
 # How this repository was made (Thurgau)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -475,20 +475,158 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-56` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
 | `946-5` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-04-08 to 2003-04-08 |
 | `954-4` | Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, St. Gallen, Thurgau, Schaffhausen, Schwyz, Appenzell A. Rh. und Zug betreffend Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke A.G. | 1 | 1914-04-22 to 1914-04-22 |
+| `110-2` | Übereinkunft zwischen dem Grossherzogtum Baden und dem Kanton Thurgau betreffend die Grenzberichtigung bei Konstanz | 1 | 1831-03-28 to 1831-03-28 |
+| `111-2` | Beschluss der Regierungs-Kommission betreffend die Bestimmung von Farbe, Wappen und Siegel des Kantons | 1 | 1979-01-01 to 1979-01-01 |
+| `132-2` | Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Grenzgemeinde zürcherisch und thurgauisch Wilen | 1 | 1886-11-22 to 1886-11-22 |
+| `170-72-ogdv` | Open Government Data Verordnung | 1 | 2025-06-01 to 2025-06-01 |
+| `171-1-gogr` | Geschäftsordnung des Grossen Rats des Kantons Thurgau | 4 | 2012-05-30 to 2024-05-22 |
+| `171-11-2` | Beschluss des Grossen Rats über die Entschädigung seiner Mitglieder und der Fraktionen | 3 | 2012-05-30 to 2024-05-22 |
+| `172-2-2` | Vereinbarung über die Konferenz der Kantonsregierungen | 1 | 1993-11-08 to 1993-11-08 |
+| `176-31-anwt` | Anwaltstarif in Zivil- und Strafsachen | 2 | 2013-01-01 to 2025-01-01 |
+| `187-11-2` | Verfassung der Evangelischen Landeskirche des Kantons Thurgau | 1 | 2004-06-01 to 2004-06-01 |
+| `187-12-2` | Kirchenordnung der Evangelischen Landeskirche des Kantons Thurgau | 3 | 1979-04-01 to 2025-01-01 |
+| `187-21-2` | Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst | 2 | 2004-01-01 to 2019-01-01 |
+| `187-51-2` | Übereinkunft betreffend die kirchliche Besorgung der in Grenzgebieten des Kantons St. Gallen wohnenden Evangelischen, welche für ihre kirchlichen Angelegenheiten einer benachbarten Pfarrgemeinde des Kantons Thurgau zugeteilt werden | 1 | 2008-01-01 to 2008-01-01 |
+| `187-53-2` | Vertrag zwischen den Kantonen Schaffhausen und Thurgau betreffend die evangelisch-reformierte Kirchgemeinde Burg bei Stein am Rhein | 1 | 1918-07-03 to 1918-07-03 |
+| `187-511-2` | Übereinkunft zwischen dem evangelischen Kirchenrat des Kantons St. Gallen und dem evangelischen Kirchenrat des Kantons Thurgau betreffend Aufhebung der bisherigen kirchlichen Zuteilung der Evangelischen in den politischen Gemeinden Wil und Bronschhofen zu der Gemeinde Sirnach und Einverleibung der evangelischen Einwohner der thurgauischen Ortschaft Rickenbach in die neu zu gründende Kirchgemeinde Wil | 1 | 1889-07-03 to 1889-07-03 |
+| `187-512-2` | Nachtrag zur Übereinkunft vom 11./14. Juni 1889 betreffend Zuteilung der evangelischen Einwohner zu Rickenbach und Wilen an die evangelische Kirchgemeinde Wil | 1 | 1890-06-13 to 1890-06-13 |
+| `187-520-2` | Übereinkunft zwischen den Ständen Zürich und Thurgau betreffend definitive Regulierung der kirchlichen Verhältnisse der Höfe Renggerschwil, Scheurli und Emmerwies | 1 | 1846-04-18 to 1846-04-18 |
+| `187-521-2` | Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Grenzortschaften zürcherisch und thurgauisch Wilen | 1 | 1972-09-13 to 1972-09-13 |
+| `187-522-2` | Vertrag zwischen dem Evangelischen Kirchenrat des Kantons Thurgau und dem Regierungsrat des Kantons Zürich über die Bereinigung der Grenzen zwischen der Evangelischen Kirchgemeinde Aadorf-Aawangen und der Evangelisch-reformierten Kirchgemeinde Elgg | 1 | 1974-04-01 to 1974-04-01 |
+| `187-523-2` | Vertrag zwischen dem Regierungsrat des Kantons Zürich und dem evangelischen Kirchenrat des Kantons Thurgau über die Kirchenverhältnisse der Höfe Reggtal, Meiersboden und Horn | 1 | 1926-05-10 to 1926-05-10 |
+| `187-524-2` | Vertrag zwischen dem Evangelischen Kirchenrat des Kantons Thurgau und dem Regierungsrat des Kantons Zürich über die Änderung der Grenzverhältnisse zwischen der Evangelischen Kirchgemeinde Dussnang und der Evangelisch-reformierten Kirchgemeinde Sitzberg | 1 | 1998-01-01 to 1998-01-01 |
+| `187-525-2` | Übereinkunft «Diakonie Schweiz» | 1 | 2017-07-01 to 2017-07-01 |
+| `187-531-2` | Ausführungsvertrag zwischen den evangelischen Kirchenräten von Schaffhausen und Thurgau betreffend die evangelische Kirchgemeinde Burg bei Stein am Rhein | 1 | 1918-07-03 to 1918-07-03 |
+| `188-11-2` | Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug betreffend die Wiederherstellung und neue Umschreibung des Bistums Basel | 1 | 1978-07-19 to 1978-07-19 |
+| `188-12-2` | Übereinkunft zwischen dem Heiligen Stuhl und der Regierung des Kantons Thurgau betreffend den Beitritt des hohen Standes Thurgau zum Bistum Basel | 1 | 1829-06-03 to 1829-06-03 |
+| `188-13-2` | Übereinkunft zwischen den Ständen Luzern, Bern, Solothurn und Zug betreffend die Organisation des Bistums Basel | 1 | 1828-03-29 to 1828-03-29 |
+| `188-21-lkv` | Verfassung der Katholischen Landeskirche des Kantons Thurgau | 2 | 1993-12-01 to 2022-01-01 |
+| `188-24-goks` | Geschäftsordnung der Katholischen Synode des Kantons Thurgau | 2 | 2010-06-28 to 2024-01-01 |
+| `188-31-2` | Übereinkunft zwischen dem katholischen Administrationsrat des Kantons St. Gallen und dem katholischen Kirchenrat des Kantons Thurgau betreffend die Kollaturverhältnisse in Hagenwil, Sitterdorf und Rickenbach | 1 | 1869-08-06 to 1869-08-06 |
+| `188-33-2` | Vereinbarung über die Pastoration und die Steuerpflicht der auf dem Gebiet des Hofes Raach wohnhaften Katholiken | 1 | 1984-01-16 to 1984-01-16 |
+| `188-34-2` | Vereinbarung über die Pastoration und die Steuerpflicht der auf dem Gebiet des Hofes Ruggisberg wohnhaften Katholiken | 1 | 1984-01-16 to 1984-01-16 |
+| `188-131-2` | Zusatzvereinbarung zwischen dem Schweizerischen Bundesrat und dem Heiligen Stuhl über die Organisation des Bistums Basel | 1 | 1978-07-19 to 1978-07-19 |
+| `211-24-kesv` | Kindes- und Erwachsenenschutzverordnung | 10 | 2013-01-01 to 2026-01-01 |
+| `211-435-2` | Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über Grundstücke, die in den beiden Kantonen liegen | 1 | 1927-02-04 to 1927-02-04 |
+| `211-436-2` | Übereinkommen zwischen den Regierungen der Kantone St. Gallen und Thurgau betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über dingliche Rechte an Grundstücken, die in beiden Kantonen liegen | 1 | 1938-11-29 to 1938-11-29 |
+| `218-5-2` | Übereinkunft zwischen den Kantonen Zürich und Thurgau betreffend die neue Feststellung der notarialischen Fertigungsgrenze für die auf der Kantonsgrenze Zürich-Thurgau liegenden Grundstücke der Gemeinden Ossingen, Waltalingen, zürcherisch Wilen und Oberneunforn | 1 | 1907-11-30 to 1907-11-30 |
+| `271-11-zsrv` | Zivil- und Strafrechtspflegeverordnung | 4 | 2013-01-01 to 2025-10-01 |
+| `281-31-2` | Übereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg betreffend die Konkursverhältnisse und die gleiche Behandlung der beiderseitigen Staatsangehörigen in Konkursfällen | 1 | 1826-05-13 to 1826-05-13 |
+| `281-32-2` | Übereinkunft zwischen den schweizerischen Kantonen Zürich, Bern, Luzern, Unterwalden (ob und nid dem Wald), Freiburg, Solothurn, Basel (Stadt- und Landteil), Schaffhausen, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf sowie Appenzell AR und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen | 1 | 1834-06-27 to 1834-06-27 |
+| `311-4-viclas-konkordat` | Interkantonale Vereinbarung (beziehungsweise Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2011-01-01 to 2011-01-01 |
+| `341-1-2` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2007-01-01 to 2007-01-01 |
+| `411-71-2` | Vereinbarung über die Schul- und Steuerverhältnisse in Grenzgebieten des Kantons St. Gallen zum Kanton Thurgau | 1 | 1988-01-01 to 1988-01-01 |
+| `411-72-2` | Vereinbarung über den Schulbesuch der Kinder von Steinach auf der Oberstufe | 1 | 1998-08-01 to 1998-08-01 |
+| `411-74-2` | Rahmenvertrag zwischen dem Kanton Thurgau und dem Kanton Zürich über den kantonsübergreifenden Schulbesuch | 1 | 2000-01-01 to 2000-01-01 |
+| `411-75-2` | Konkordat über die Schulkoordination | 1 | 1970-12-14 to 1970-12-14 |
+| `412-612-regionales-schulabkommen` | Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II | 1 | 2001-08-01 to 2001-08-01 |
+| `412-613-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 1 | 2007-08-07 to 2007-08-07 |
+| `412-615-2` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 3 | 2008-01-01 to 2017-01-01 |
+| `412-618-fhv` | Interkantonale Fachhochschulvereinbarung ab 2005 | 1 | 2005-10-01 to 2005-10-01 |
+| `412-620-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `412-633-2` | Vereinbarung über die Ost – Ostschweizer Fachhochschule | 2 | 2020-01-01 to 2020-09-01 |
+| `412-636-2` | Interkantonale Vereinbarung über die Hochschule für Heilpädagogik Zürich | 1 | 2001-02-07 to 2001-02-07 |
+| `412-637-ifm` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld | 1 | 1991-10-23 to 1991-10-23 |
+| `413-12-2` | Beschluss des Grossen Rates betreffend Standorte der Berufsfach- und Mittelschulen | 1 | 2008-01-01 to 2008-01-01 |
+| `413-13-2` | Vereinbarung über die Beteiligung des Kantons Thurgau an der Kantonsschule Wil | 1 | 2012-06-01 to 2012-06-01 |
+| `413-28-2` | Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene | 3 | 2005-01-01 to 2018-01-01 |
+| `414-1-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 2011-12-01 to 2022-01-01 |
+| `414-3-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 3 | 2015-01-01 to 2017-01-01 |
+| `414-243-2` | Disziplinarordnung der Pädagogischen Hochschule Thurgau | 1 | 2010-12-11 to 2010-12-11 |
+| `415-11-ssv` | Sportförderungs- und Sportfondsverordnung | 6 | 2012-06-01 to 2026-08-01 |
+| `416-12-2` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `416-31-2` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 1 | 2004-08-01 to 2004-08-01 |
+| `416-41-interkantonale-spitalschulvereinbarung-isv` | Interkantonale Vereinbarung für schulische Angebote in Spitälern | 1 | 2026-01-01 to 2026-01-01 |
+| `442-2-2` | Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung | 1 | 2011-01-01 to 2011-01-01 |
+| `450-65-2` | Regierungsratsbeschluss betreffend Errichtung eines naturwissenschaftlichen Reservates in der Petribucht, Paradies-Schlatt | 1 | 1998-01-01 to 1998-01-01 |
+| `512-51-2` | Regierungsratsbeschluss betreffend den Vollzug der Verordnung des Bundesrates über die Arbeitsleistung infolge Militärdienstverweigerung | 1 | 1992-08-08 to 1992-08-08 |
+| `541-1-2` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2010-01-01 to 2015-02-01 |
+| `541-2-2` | Verwaltungsvereinbarung zwischen dem Kanton Thurgau und der Schweizerischen Eidgenossenschaft über die Zusammenarbeit zwischen der Kantonspolizei Thurgau und dem Grenzwachtkorps beziehungsweise der Eidgenössischen Zollverwaltung | 1 | 2009-05-01 to 2009-05-01 |
+| `552-1-2` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1977-06-01 to 1977-06-01 |
+| `552-2-2` | Übereinkunft betreffend die Polizeitransporte | 1 | 1989-08-10 to 1989-08-10 |
+| `552-3-2` | Vereinbarung zwischen den Kantonen Thurgau und Zürich über die Ausübung der Autobahnpolizei auf der N 1 und der N 7 | 1 | 1976-08-11 to 1976-08-11 |
+| `552-5-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-11-09 to 2025-01-01 |
+| `552-6-vhis` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz | 1 | 2025-07-01 to 2025-07-01 |
+| `552-11-2` | Beschluss des Grossen Rates betreffend den Beitritt des Kantons Thurgau zur Interkantonalen Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1976-09-27 to 1976-09-27 |
+| `552-14-2` | Vereinbarung über die Errichtung und den Betrieb einer Ostschweizer Polizeischule in Amriswil | 1 | 2006-01-01 to 2006-01-01 |
+| `554-15-2` | Vereinbarung zwischen den Kantonen Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus, Graubünden, Schaffhausen, St. Gallen und Thurgau sowie der Eidgenössischen Spielbankenkommission über die Zusammenarbeit bei der Verfolgung von Widerhandlungen gegen die eidgenössische Spielbankengesetzgebung | 1 | 2003-01-13 to 2003-01-13 |
+| `554-511-gastv` | Gastgewerbe- und Alkoholhandelsverordnung | 2 | 2012-07-01 to 2024-01-01 |
+| `613-3-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `641-81-eschv` | Erbschafts- und Schenkungssteuerverordnung | 2 | 2013-01-01 to 2014-01-01 |
+| `671-1-2` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `672-1-2` | Gegenrechtserklärung mit Deutschland betreffend Steuerbefreiung für Vermächtnisse und Schenkungen | 1 | 1934-06-12 to 1934-06-12 |
+| `672-2-2` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken | 1 | 1982-01-05 to 1982-01-05 |
+| `672-501-2` | Vereinbarung zwischen dem Regierungsrat des Kantons Thurgau einerseits und dem Regierungsrat des Kantons Zürich anderseits betreffend Steuerbefreiung für Zuwendungen von der Erbschaftssteuer | 1 | 1926-06-10 to 1926-06-10 |
+| `672-503-2` | Gegenrechtserklärung zwischen den Regierungen der Kantone Thurgau und Luzern betreffend Befreiung von der Erbschaftssteuer | 1 | 1934-03-13 to 1934-03-13 |
+| `672-509-2` | Gegenrechtserklärung zwischen den Regierungsräten der Kantone Thurgau und Zug betreffend Befreiung von der Erbschaftssteuer | 1 | 1933-02-20 to 1933-02-20 |
+| `672-514-2` | Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Regierungsrat des Kantons Thurgau betreffend Befreiung von der Erbschafts- oder Schenkungssteuer auf Zuwendungen für gemeinnützige Zwecke | 1 | 1931-12-21 to 1931-12-21 |
+| `672-515-2` | Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Thurgau und dem Regierungsrat des Kantons Appenzell A. Rh. über die Steuerbefreiung von Zuwendungen für öffentliche, gemeinnützige, wohltätige oder religiöse Zwecke auf dem Gebiete der Erbschafts-, Vermächtnis- und Schenkungssteuern | 1 | 1969-05-06 to 1969-05-06 |
+| `672-518-2` | Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer | 1 | 1958-05-19 to 1958-05-19 |
+| `672-522-2` | Convention de réciprocité entre le Conseil d'Etat du canton de Thurgovie et le Conseil d'Etat du canton de Vaud en matière d'exonération de l'impôt sur les successions et donations | 1 | 1968-06-14 to 1968-06-14 |
+| `672-523-2` | Gegenrechtserklärung zwischen den Regierungen der Kantone Thurgau und Wallis betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1978-08-15 to 1978-08-15 |
+| `672-524-2` | Convention de réciprocité entre le Conseil d'Etat du canton de Thurgovie et le Conseil d'Etat du canton de Neuchâtel en matière d'exonération de l'impôt sur les successions et sur les donations | 1 | 1971-05-28 to 1971-05-28 |
+| `672-525-2` | Gegenrechtsvereinbarung zwischen den Regierungen der Kantone Thurgau und Solothurn betreffend Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1990-03-13 to 1990-03-13 |
+| `672-526-2` | Gegenrechtsvereinbarung zwischen den Regierungen der Kantone Uri und Thurgau betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1994-05-31 to 1994-05-31 |
+| `691-2` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `700-2-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 2 | 2013-01-01 to 2015-05-01 |
+| `700-4-gvks` | Gesetz über Vereinbarungen zur Milderung finanzieller Härtefälle von raumplanerischen Massnahmen in Kleinsiedlungen | 1 | 2023-04-01 to 2023-04-01 |
+| `708-14-2` | Staatsvertrag zwischen dem Kanton Zürich und dem Kanton Thurgau über den Zweckverband Feuerwehr Weinland | 1 | 2014-01-01 to 2014-01-01 |
+| `720-3-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2022-04-01 to 2022-04-01 |
+| `720-4-ivob-2001` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2010-07-01 to 2010-07-01 |
+| `720-61-2` | Gegenrechtserklärungen betreffend öffentliches Beschaffungswesen | 1 | 1995-04-01 to 1995-04-01 |
+| `721-21-2` | Übereinkunft betreffend die Korrektion der Goldach bei Horn | 1 | 1891-02-27 to 1891-02-27 |
+| `721-61-2` | Vertrag zwischen den Regierungen der Kantone Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Wasserversorgung durch den Zweckverband Regionalwasserversorgung Mittelthurgau-Süd | 1 | 1974-08-13 to 1974-08-13 |
+| `721-62-2` | Vertrag zwischen den Regierungen der Kantone St. Gallen und Thurgau über den Bau und Betrieb einer Wasserversorgungsanlage in der Gemeinde Niederbüren durch den Zweckverband Pumpwerk Grueben | 1 | 1975-02-11 to 1975-02-11 |
+| `747-1-2` | Regierungsratsbeschluss betreffend Zuständigkeitsordnung zur Verordnung der Internationalen Schiffahrtskommission über die Schiffahrt auf dem Bodensee vom 13. Januar 1976 | 1 | 1998-01-01 to 1998-01-01 |
+| `810-16-ekos` | Vereinbarung über die Einsetzung der Ethikkommission Ostschweiz | 1 | 2016-06-01 to 2016-06-01 |
+| `811-32-ivhsm` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `814-36-2` | Interkantonale Vereinbarung über den Zweckverband Gruppenwasserversorgung BHW | 1 | 1993-11-30 to 1993-11-30 |
+| `814-37-2` | Vereinbarung über den Zweckverband Abfallverwertung Bazenheid | 1 | 1986-04-01 to 1986-04-01 |
+| `814-042-2` | Regierungsratsbeschluss betreffend Festlegung eines Einzugsgebietes nach Art. 18 TVA und § 10 AbfallG für die Kehrichtverbrennungsanlage Weinfelden | 1 | 1996-10-01 to 1996-10-01 |
+| `814-82-2` | Vereinbarung über die gemeinsame Koordination Vollzug Chemikalienrecht Ostschweiz und Fürstentum Liechtenstein | 1 | 2025-01-01 to 2025-01-01 |
+| `814-311-2` | Regierungsratsbeschluss über Beiträge an gemeinsam benützte Abwässerkanäle von Gemeinden | 1 | 1965-07-01 to 1965-07-01 |
+| `814-321-2` | Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Abwasserreinigungsanlage durch den Abwasserverband Aachtal | 1 | 1970-09-21 to 1970-09-21 |
+| `814-322-2` | Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer zentralen Abwasserreinigungsanlage durch den Abwasserverband Oberes Murgtal | 1 | 1971-02-16 to 1971-02-16 |
+| `814-323-2` | Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage | 1 | 1967-02-07 to 1967-02-07 |
+| `814-324-2` | Interkantonale Vereinbarung über den Abwasserverband Thurau | 2 | 1970-06-15 to 2024-02-24 |
+| `814-325-2` | Vereinbarung über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage Niederbüren | 1 | 1979-05-29 to 1979-05-29 |
+| `814-331-2` | Vertrag zwischen den Regierungen der Kantone Schaffhausen und Thurgau über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage | 1 | 1969-11-03 to 1969-11-03 |
+| `814-342-2` | Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Kläranlage durch die Ortsgemeinde Oberneunforn sowie die politischen Gemeinden Ossingen und Truttikon | 1 | 1974-08-27 to 1974-08-27 |
+| `814-343-2` | Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Kläranlage durch die Ortsgemeinde Niederneunforn sowie die politische Gemeinde Altikon | 1 | 1978-08-22 to 1978-08-22 |
+| `814-344-2` | Staatsvertrag zwischen den Regierungen der Kantone Thurgau und Zürich über den Bau und Betrieb einer gemeinsamen Abwasserreinigungsanlage durch die Politischen Gemeinden Aadorf, Eschlikon, Bichselsee-Balterswil sowie der Gemeinde Hagenbuch | 1 | 1999-02-03 to 1999-02-03 |
+| `831-19-2` | Regierungsratsbeschluss betreffend die Leistung von Teilzahlungen an die Beiträge der Gemeinden für die AHV/IV und EL | 1 | 1971-12-23 to 1971-12-23 |
+| `831-41-ivbsa` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin | 2 | 2007-04-01 to 2026-01-01 |
+| `832-40-2` | Ostschweizer Spitalvereinbarung | 3 | 2013-06-01 to 2019-01-01 |
+| `832-60-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2023-01-01 to 2023-01-01 |
+| `836-3-2` | Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über den Anschluss von Filialen und Betriebsstätten an die Familienausgleichskasse einer im anderen Kanton gelegenen Hauptniederlassung | 1 | 1964-04-01 to 1964-04-01 |
+| `850-6-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 2 | 2008-01-01 to 2020-06-01 |
+| `850-8-2` | Vereinbarung über das Rehabilitationszentrum für Drogenabhängige Lutzenberg (Drogenheim) | 1 | 1982-07-01 to 1982-07-01 |
+| `908-1-2` | Vereinbarung über ein gemeinsames gesamtwirtschaftliches Entwicklungskonzept für die Region Zürcher Berggebiet | 1 | 1977-08-16 to 1977-08-16 |
+| `921-141-2` | Forstliche Planungsvorschriften des Departementes für Bau und Umwelt | 3 | 2005-02-26 to 2026-01-01 |
+| `922-14-2` | Vereinbarung zwischen den Kantonen Zürich und Thurgau über die Ausübung der Jagd im Grenzbereich | 1 | 1978-04-08 to 1978-04-08 |
+| `922-15-2` | Vereinbarung zwischen den Kantonen St. Gallen und Thurgau über die Ausübung der Jagd im Grenzbereich | 1 | 1978-04-08 to 1978-04-08 |
+| `922-131-2` | Verfügung des Departementes für Justiz und Sicherheit betreffend Anerkennung gleichwertiger Jägerprüfungen anderer Kantone und des Auslandes | 1 | 2003-01-01 to 2003-01-01 |
+| `923-2-2` | Interkantonale Vereinbarung zwischen den Kantonen Thurgau und St. Gallen über die Fischerei in den Grenzgewässern | 1 | 1996-01-01 to 1996-01-01 |
+| `935-5-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `935-56-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `946-5-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-04-08 to 2003-04-08 |
+| `954-4-2` | Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, St. Gallen, Thurgau, Schaffhausen, Schwyz, Appenzell A. Rh. und Zug betreffend Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke A.G. | 1 | 1914-04-22 to 1914-04-22 |
 
-The build made 954 commits:
+The build made 1139 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 460 | first version of an act |
-| 453 | one law on its in-force day |
-| 5 | changes no amendment note explains, credited to the publisher |
+| 332 | baseline texts where the record starts |
+| 763 | named laws, court decisions and treaties |
+| 8 | changes no amendment note explains, credited to the publisher |
+| 36 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 5 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
-- 32 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 905 laws in the record.
-- 1523 tags.
+- 5 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 63 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1055 laws in the record.
+- 1830 tags.
 
 ## Dates
 
@@ -500,15 +638,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f936300f77a84d442004d7b20ea493b1119733af580fbb563765945913df2454` (14400096 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `64e9aee050e909761a6cebb2b0cb9df81026cfe81d6cdb7615f9d3174ffc9718` (16696218 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1064 versions of 460 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 947 history commits and 1521 tags (history tip `44b71f6b9df83d72d1ae9d4177eb2ef77924ed82`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -715,7 +853,7 @@ A second build from the same corpus into an empty folder gave identical hashes f
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

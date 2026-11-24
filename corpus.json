@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/thurgau/acts",
+ "path": "switzerland/thurgau/acts",
+ "scope": "selected-acts",
+ "acts": 596,
+ "future_branch": "zukunft",
+ "publisher": "Kanton Thurgau, RB (www.rechtsbuch.tg.ch)",
+ "name": "Thurgau",
+ "language": "de",
+ "coverage": "596 acts of Thurgau with every dated version the source gives (1243 versions), in force from 1826-05-13 to 2026-11-05",
+ "history": "in-force",
+ "history_from": "1826-05-13",
+ "record_to": "2026-11-05",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Kanton Thurgau, RB (www.rechtsbuch.tg.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}

@@ -1,15 +1,15 @@
 {
-  "path": "ch-tg",
-  "code": "CH-TG",
-  "name": "Thurgau",
-  "level": "canton",
-  "parent": "ch",
-  "repo": "https://github.com/lexifina/switzerland-thurgau-law",
-  "build": "460 represented acts, 1059 versions: 314-act history plus 146 source-dated current-text additions; known current-version, annex and diagram gaps remain",
-  "language": "de",
-  "sources": 1,
-  "languages": [
-    "de",
-    "fr"
-  ]
+ "path": "switzerland/thurgau",
+ "code": "CH-TG",
+ "name": "Thurgau",
+ "level": "canton",
+ "parent": "switzerland",
+ "repo": "https://github.com/lexifina/switzerland-thurgau-law",
+ "build": "460 represented acts, 1059 versions: 314-act history plus 146 source-dated current-text additions; known current-version, annex and diagram gaps remain",
+ "language": "de",
+ "sources": 1,
+ "languages": [
+  "de",
+  "fr"
+ ]
 }
