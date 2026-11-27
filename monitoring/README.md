@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Thurgau: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 06:58 UTC, Thurgau: Systematische Sammlung (www.rechtsbuch.tg.ch): 204 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 2 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-27 06:55 UTC, Thurgau: Systematische Sammlung (www.rechtsbuch.tg.ch): 169 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 3 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Thurgau: Systematische Sammlung (www.rechtsbuch.tg.ch)](https://www.rechtsbuch.tg.ch/) | `<act>/` | täglich | 2026-11-26 06:58 UTC | keine Änderung | beobachtet |
+| [Thurgau: Systematische Sammlung (www.rechtsbuch.tg.ch)](https://www.rechtsbuch.tg.ch/) | `<act>/` | täglich | 2026-11-27 06:55 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 06:52](checks/2026-11.md#ch-lexwork-thurgau-20261127t065221z) | lexwork-thurgau | 169 | 0 | 0 | 0 | 3 (0) | keine Änderung | — |
 | [2026-11-26 06:54](checks/2026-11.md#ch-lexwork-thurgau-20261126t065434z) | lexwork-thurgau | 204 | 0 | 0 | 0 | 2 (0) | keine Änderung | — |
 | [2026-11-25 08:00](checks/2026-11.md#ch-lexwork-thurgau-20261125t080040z) | lexwork-thurgau | 115 | 0 | 0 | 0 | 1 (0) | keine Änderung | — |
 | [2026-11-24 12:25](checks/2026-11.md#ch-lexwork-thurgau-20261124t122550z) | lexwork-thurgau | 387 | 137 | 0 | 0 | 1 (0) | Änderungen gefunden | [186](https://github.com/lexifina/switzerland-thurgau-law/compare/19e5c6b3f54f...b19f182e788d) |
