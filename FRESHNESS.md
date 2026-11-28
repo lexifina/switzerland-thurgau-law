@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Thurgau: Systematische Sammlung (www.rechtsbuch.tg.ch) · `switzerland/thurgau/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 06:55 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-28 08:17 UTC**.
 - Vorschriften hier: 450; aktuell gegenüber der Quelle: 450; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 65 der 450 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 3 (hier vorhanden, an der Quelle nicht mehr: 1, tritt später in Kraft: 2); ohne Grund: 0.

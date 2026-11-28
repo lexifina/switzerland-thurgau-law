@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:14:27Z",
+ "generated": "2026-11-28T08:36:46Z",
  "latest": {
   "lexwork-thurgau|switzerland/thurgau/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,11 +23,11 @@
     "repo": 450,
     "source_in_scope": 450
    },
-   "check_id": "ch-lexwork-thurgau-20261127T065221Z",
+   "check_id": "ch-lexwork-thurgau-20261128T081500Z",
    "commits": null,
    "corpus": "switzerland/thurgau/acts",
    "error": null,
-   "finished": "2026-11-27T06:55:22Z",
+   "finished": "2026-11-28T08:17:57Z",
    "flags": [],
    "gap": 3,
    "note": "www.rechtsbuch.tg.ch: index of 461 acts (461 in force); held 450; 0 in force and in scope not held yet, 10 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 65 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 169,
+   "requests": 166,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "461 entries, 461 in force (www.rechtsbuch.tg.ch)",
    "source": "lexwork-thurgau",
-   "started": "2026-11-27T06:52:21Z",
+   "started": "2026-11-28T08:15:00Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -65,19 +65,16 @@
     "held": 450,
     "method": "each act compared this check (65 of 450: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from www.rechtsbuch.tg.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "72-q763-annex-413-141.json": 1,
-     "72-q763-annex-413-228.json": 1,
-     "72-q763-annex-413-253.json": 1,
-     "72-q763-annex-413-284.json": 1,
-     "72-q763-annex-414-24.json": 1,
-     "72-q763-annex-414-27.json": 1,
-     "72-q763-annex-416-11.json": 1,
-     "72-q763-annex-450-11.json": 1
+     "71-q763-current-700-1.json": 1,
+     "71-q763-current-700.json": 1,
+     "72-q763-annex-613-11.json": 1,
+     "72-q763-annex-700-3.json": 1,
+     "72-q763-annex-708-11.json": 1
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": true,
     "swept": 65,
-    "versions_checked": 115,
+    "versions_checked": 117,
     "versions_differ": 0
    }
   }
